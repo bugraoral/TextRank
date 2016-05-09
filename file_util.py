@@ -1,5 +1,7 @@
 import json
 
+import nltk
+
 
 def write_dic(filename, tokens, f_encoding='UTF-8'):
     with open(filename, 'w', encoding=f_encoding) as file:
@@ -40,3 +42,17 @@ def write_array(output_file, text_array, f_encoding='UTF-8'):
             file.write(item)
             if item != '\n':
                 file.write('\n')
+
+
+def get_sentences(file_name, f_encoding="UTF-8"):
+    file = open(file_name, 'r', encoding=f_encoding)
+    temp = file.readlines()
+    tokenizer = nltk.data.load('tokenizers/punkt/turkish.pickle')
+    article = []
+    for sentence_candidate in temp:
+        sentences = tokenizer.tokenize(sentence_candidate)
+        for sentence in sentences:
+            article.append(sentence.replace('\n', ''))
+
+    file.close()
+    return article

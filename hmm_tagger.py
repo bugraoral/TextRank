@@ -17,8 +17,8 @@ def tag(data_file, output_file):
 
     output_text = []
 
-    if os.path.exists(output):
-        os.remove(output)
+    if os.path.exists(output_file):
+        os.remove(output_file)
 
     sentences = conllxi_reader.read_conllxi(data_file)
 
@@ -85,17 +85,3 @@ def get_tags(tokens, tag_transition_probs, word_tag_probs):
                 postags[i] = tag
 
     return postags
-
-
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-
-    parser.add_argument('path', help='Path of test data')
-    parser.add_argument('output', help='output file')
-
-    opts = parser.parse_args()
-
-    data = opts.path
-    output = opts.output
-
-    tag(data, output)
