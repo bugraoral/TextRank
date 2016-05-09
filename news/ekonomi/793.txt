@@ -1,0 +1,18 @@
+Elektrik kesintileri ile ilgili kritik karar
+Elektrik dağıtım şirketleri, bir yıl içinde belirlenen sayının üzerinde elektrik kesintisi yaptığında vatandaşa tazminat ödeyecek. Yeni yıldan itibaren imarlı alanlarda, yılda bildirimsiz 56 kez, bildirimli 6 kezden fazla elektrik kesen şirket tazminat ödeyecek.
+Enerji Piyasası Düzenleme Kurumu'nun (EPDK), Elektrik Dağıtımı ve Perakende Satışına İlişkin Hizmet Kalitesi Yönetmeliği, Resmi Gazete'nin bugünkü sayısında yayımlandı. 
+1 Ocak 2013 tarihinden itibaren yürürlüğe girecek Yönetmelik ile elektrik enerjisinin tedarik sürekliliği, ticari ve teknik kalitesine ilişkin olarak dağıtım şirketleri, perakende satış şirketleri ve kullanıcılar tarafından uyulması gereken kurallar ile uygulamaya ilişkin esas ve usuller belirlendi. 
+Yönetmeliğe göre, elektrik dağıtım şirketi, dağıtım lisansında belirlenen bölgede bulunan kullanıcılara sunduğu hizmetin kalitesinden ve perakende satış şirketi de perakende satış faaliyetine ilişkin ticari kaliteden sorumlu olacak. 
+Dağıtım şirketi, dağıtım sisteminin tümünü veya bir kısmını etkileyen uzun, kısa ve geçici kesintileri kaydedecek. Sadece uzun kesintiler bildirimli ve bildirimsiz kesintiler olarak sınıflandırılacak. Kısa ve geçici kesintiler bildirimsiz kesinti olarak değerlendirilecek. Dağıtım şirketi, kesintilerden etkilenen kullanıcıların sayısını imar yerleşim alanlarına göre gruplandırılmış olarak kaydedecek. 
+Kullanıcılara ödenecek tazminat
+
+Bildirimsiz kesintiler için belirlenen sınır değerler aşıldığında dağıtım şirketi belirlenen esaslar çerçevesinde kullanıcıya başvurusuna gerek duyulmaksızın tazminat ödeyecek. 
+Tazminata hak kazanan her bir kullanıcıya yapılacak ödeme, ait olduğu yılı takip eden yılın Nisan ayından itibaren başlatılacak ve tamamlanıncaya kadar müteakip dönemlerde yapılacak. Ödeme, dağıtım sistem kullanım bedellerinden mahsup edilmek suretiyle, aboneliğin iptali halinde def'aten gerçekleştirilecek.
+Bu çerçevede, imar alanı içindeki kullanıcılar için bildirimsiz olarak Alçak Gerilim (AG) abonelerinde 48 saat veya 56 kez, Orta Gerilim (OG) abonelerinde 24 saat veya 56 kez, bildirimli olarak ise AG abonelerinde 24 saat veya 6 kez, OG abonelerinde 16 saat veya 4 kez elektriği kesilen aboneye tazminat ödenecek.
+İmar alanı dışındaki kullanıcılar için ise AG abonelerinde bildirimsiz olarak 72 saat veya 72 kez, OG abonelerinde 36 saat veya 72 kez, bildirimsiz olarak AG abonelerinde 32 saat veya 8 kez, OG abonelerinde ise 24 saat veya 6 kez kesinti yapılan aboneye tazminat ödenecek. 
+Kullanıcının kendi hatasından kaynaklanmaması kaydıyla kullanıcıya ait teçhizatta ortaya çıkan ve dağıtım şebekesinden kaynaklanan hasara ilişkin zararın tazmini için kullanıcı tarafından dağıtım şirketine zararın ortaya çıktığı tarihten itibaren 10 iş günü içerisinde talepte bulunulabilecek. 
+Tedarik sürekliliği kayıtlarının tutulması
+
+Yönetliğe konulan geçici maddeye göre, dağıtım şirketleri 1 Ocak 2014 tarihine kadar OG şebeke bağlantı modelini oluşturup, tedarik sürekliliği kayıt sistemini kuracaklar. 2013 ve 2014 yılları için kısa ve geçici kesintilere ilişkin kayıt tutulması zorunluluğu bulunmayacak. 
+Dağıtım şirketleri 1 Ocak 2015 tarihine kadar, şebeke bağlantı modelini AG seviyesini de kapsayacak şekilde genişletecek ve dağıtım sisteminde meydana gelen veya dağıtım sistemini etkileyen kesintiden etkilenen AG kullanıcılarının sayısı tedarik sürekliliği kayıt sistemi tarafından belirlenecek. 
+ 

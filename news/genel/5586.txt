@@ -1,0 +1,7 @@
+Zamanaşımı hesabında önemli açık
+Türkiye Bankalar Birliği'nin (TBB) zaman aşımına uğramak üzere olan mevduat, katılım fonu, emanet ve alacakları sorgulamak üzere hayata geçirdiği internet sitesi büyük bir güvenlik açığına neden oldu. Bu açık nedeniyle herhangi bir kişi, sitede isim ve soyadla yaptığı aramayla toplumun yakından tanıdığı isimler de dahil olmak üzere herkesin hesabında unuttuğu miktara ulaşabiliyor.
+TBB, vatandaşların bankalarda unuttuğu hesapları için www.zamanasimi.org/tbb internet sitesini hizmete sunduğunu duyurdu. Bu sitede yapılan basit bir aramayla bankalarda zaman aşımına uğramak üzere olan hesap bilgileri, TBB'nin internet sitesindeki arama motorunda görüntülenip, gerekli işlemlerin yapılmasıyla hesapta unutulan paranın Tasarruf Mevduat Fonu'na devredilmesinin önüne geçiliyordu. 
+  Bankada hesabı olanlan dikkat  
+Ancak sistemdeki sorgulamanın sadece isim ve soyadına dayalı olması bir güvenlik açığını da ortaya çıkardı. Buna göre, açıktan faydalanmak isteyen kötü niyetli şahıslar, sadece belirli bir kişinin isim bilgilerini girerek yaptıkları sorgulamalarda eğer o kişilerin hesaplarında para kalmış ise ona ait banka şubesini, hesap numarasını ve kalan miktarı görebiliyor. 
+
+ 

@@ -1,0 +1,7 @@
+Bu öpüşme olay oldu
+ 
+ Victoria's Secret'in seksi meleği Bar Refaeli, ABD'de her yıl düzenlenen Amerikan futbolu ligi National Football League'in şampiyonluk maçı Super Bowl'un reklamı için kamera karşısına geçti. 
+ İngiliz basınından The Daily Mail sitesinde yer alan habere göre, milyonlarca dolar kazanmak için ünlü modelin tek yapması gereken şık bir kıyafet giyip sekiz saniye boyunca, şişman, çirkin ama zeki bir erkekle öpüşmekti. Zeka ve güzelliğin buluşması ile kusursuz eşleşmenin anlatıldığı reklam filminde güzelliği elbette ki Bar Refaeli temsil ediyordu. Çirkin ancak zeki rolünde ise "Amerikan Pastası" filminde de rol alan Jesse Heiman vardı. İkili reklam filmi senaryosu gereği uzun ve tutkulu bir şekilde öpüştü. 
+ İŞTE OLAY ÖPÜŞME SAHNESİ... 
+    startFlvPlayer_Posta("divFlvPlayer8854","8854","201302","8854-4.jpg"); 
+  

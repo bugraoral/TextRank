@@ -1,0 +1,10 @@
+Artık suç işlenmeden haberi gelecek
+Türkiye televizyonlarında da yayınlanan Person of Interest dizisi gerçek oluyor. ABD'li uzmanlar güvenlik kameralarından alınan görüntüleri kullanarak insanların ne zaman suç işleyeceklerini tahmin etmeye yarayacak bir sistem geliştiriyor.
+Minds Eye (Akıl Gözü) adı verilen sistem, güvenlik kameralarından alınan görüntüleri çeşitli algoritmalardan geçirerek hedefteki kişilerin bir sonraki hamlesini öngörüyor ve yetkililere bildiriyor. 
+ABD Ordu Araştırma Laboratuvarının kaynak sağladığı faaliyet tahmin sistemi araştırmasını Carnegie Mellon Üniversitesinden uzmanlar yürütüyor.  Araştırma, insanların duyularından aldıkları bilgiyi filtrelediği ve genellediği koşulların benzerlerini yaratarak, anormal ve tehditkar davranışların otomatik olarak tespiti üzerine odaklanıyor. 
+Araştırmacılar sistemin üzerine kurulu olduğu gelişmiş yapay zeka altyapısına bilişsel motor adını veriyor. Bu altyapı ilgili sinyalleri önceden olan bilgilerle birleştiriyor. Altyapının tanıyabildiği sinyaller yürümek, koşmak, taşımak, kaldırmak, takip etmek, kovalamak gibi basit yüklemlerden oluşuyor. Daha sonra bu yüklemler bir bağlama oturtularak şüpheli davranış yaratıp yaratmadığı inceleniyor. 
+Cihazın havalimanları, otobüs ve tren istasyonlarının yanı sıra Afganistan gibi sivillerle militanların iyi ayrılması gereken ortamlarda kullanılması öngörülüyor. 
+TRAPWIRE TARTIŞMALARI AKLA GELDİ
+Geçtiğimiz günlerde yine ABD'de TrapWire isimli bir yazılımla ilgili bir tartışma yaşanmıştı. 
+Havaalanları ve alışveriş merkezleri gibi sivil alanlara yerleştirilen güvenlik kameralarından alınan görüntülerde yüz taraması yaparak saldırı düzenlemeyi amaçlayan teröristleri tespit etmeyi amaçlayan program dünya genelinde endişelere neden olmuştu. 
+  WIKILEAKSİN SIZDIRDIĞI TRAPWIRE YAZIŞMALARI TANSİYONU YÜKSELTTİ

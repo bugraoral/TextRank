@@ -1,0 +1,9 @@
+Çin şimdi de insansız araç denemesi yaptı
+Çin, ilk insansız aracını başarıyla test etti. Söz konusu araç Pekin'den Tianjin şehrine 85 dakikada gitti. İnsansız araç, Küresel Konumlama Sistemi (GPS), ultrason radar, sensörler ve diğer gelişmiş teknolojiler ile donatıldı.
+ Çin Doğal Bilim Vakfı (NSFC) çatısı altındaki araştırma projelerinden biri olan insansız araç, Çin'in Askeri Ulaştırma Üniversitesi tarafından geliştirildi.
+ Test sürüşü Pekin otobanının Taihu gişelerinden başladı. Araç, Tanggu'dan devam ederek,  Tianjin'in Donglihu gişelerine insan müdahalesi olmadan vardı. Araç otomatik sürüşle 96 kilometrelik mesafeyi 85 dakikada aldı. Otomobile, sadece gişeleri geçerken içindeki sürücü müdahale etti.
+  
+ Saatte azami 180 kilometre hızla gidebilen ve dış görünüşte normal bir araba gibi görünen otomobil, çevre algılama, hareket işleme, görev kumanda girişi gibi bir dizi ciddi prosedürlerden sonra otomatik olarak gidebiliyor.  Araba, her saniyede 30-40 kez yol durumunu tanıyabiliyor.
+ Araç, kendi acil durum kontrol cihazları ile hemen insan denetimi altına girebiliyor. Aracın dikiz aynasının üstündeki 3 kamera, otomobilin gözleri konumunda. Diğer kameralarla ön ve arkadaki yol durumu gözlemleniyor. Çin medyasındaki görüntülere göre, öndeki kamyonu gören araç otomatik olarak sollama için sinyal veriyor ve uygun bir şekilde kamyonu geçiyor.
+ Araç her ne kadar insansız olarak hareket etse de Tianjin şehrine kadar aracın içindeki teknisyen ve gözlemci otomobilin performansını ölçtü.
+ CİHAN

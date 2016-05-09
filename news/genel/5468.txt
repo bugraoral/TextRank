@@ -1,0 +1,6 @@
+iPhone'un şarjını öyle bir emiyor ki
+iPhone şarjı çabuk tükenenler dikkat.
+Hemen her akıllı telefonun en büyük sorunu olan batarya yetmezliği iPhone'larda yoğun olarak hissediliyor. Ancak Apple'ın günler önce yayınladığı iOS 6.1 güncellemesi sonrası şarjının çok daha hızlı tükendiğini dile getirenler Twitter üzerinden şikayetlerini paylaşıyor. 
+Apple'ın iPhone ve iPad'ler için yayınladığı güncelleme cihazda bir dizi iyileştirme yaparken, bir kısım kullanıcılar güncellemeyle beraber iPhone'ların daha hızlı şarj yediğine ve cihazlarının fazla ısınmaya başladığına dikkat çekiyor. 
+Ancak Apple, 6.1 güncellemesinin böylesi bir sorun yarattığını henüz kabul etmiş değil. 
+Kullanıcıların bu tip bir durumla karşılaşması durumunda lokasyon servislerini kapatmalarını, varsa açık uygulamalarının hepsini durdurmayı ve ekran parlaklığını düşürmelerini öneriyoruz.

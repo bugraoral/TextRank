@@ -1,0 +1,14 @@
+Vali Twitter'da fenomen oldu
+ 
+ Twitter’ı 3 aydır kullanan İstanbul Valisi Mutlu, 10 gün önce kenti etkisi altına alan kar yağışıyla 'sosyal medyanın fenomeni' oldu. Kar yağışı öncesinde günde 7-8 tweet atan ve 12 bin takipçi sayısına ulaşan Mutlu’nun, "kar tatili" isteyen öğrencilerle kurduğu muhteşem diyalog sayesinde takipçi sayısı 100 bini aştı. Her mesaja yanıt vermeye çalışan Mutlu, günde 100’e yakın tweet atarak, gençlerin gönlünü fethediyor. 
+ 'VAKİT AYIRMAK İÇİN ÇABALIYORUM'
+  
+ İstanbul Valisi Hüseyin Avni Mutlu, son günlerde gençlerle çok yoğun iletişim içerisinde olduğu sosyal paylaşım sitesi Twitter ile ilgili AA muhabirlerinin sorularını yanıtladı. Vali Mutlu’ya yöneltilen sorular ve yanıtları şöyle: 
+ - Sosyal medyayı kullanmaya nasıl başladınız?
+  
+ Sosyal medya bambaşka bir kulvar. ’Buna vakit ayırabilecek miyim? Yeterince ilgilenebilecek miyim?’ diye kendime çok sordum. Twitter’a zaman ayırmak için biraz daha özel hayatımdan fedakarlık yapabileceğimi düşündüm. Çünkü sosyal medyaya girmekte fayda var. Yönettiğiniz şehirle bağ kurmak istersiniz. Vatandaşla hizmet, devlet kapısı bağı kuruyoruz ama bir de gönül bağı, muhabbet bağı kurmak istersiniz. Sosyal medya televizyon önüne çıkmadan, gazeteye yazılmadan birebir insanlarla temas kurmanızı sağlıyor. Vatandaşla birebir görüşüyor olmanız çok etkili. Twitter, televizyondan seslenmenin, gazeteye röportaj vermenin çok daha ötesinde bir kıymet ifade ediyor. 
+ -  Son bir haftada 500’ün üzerinde tweet attınız, takipçi sayınızı 12 binden 100 binin üzerine çıkardınız. Buna nasıl vakit ayırıyorsunuz? 
+ Yoğun iş temposunda buna vakit ayırmak için çaba sarf ediyorum. Ortalama her gün, 02.00 gibi yatıyorum. Kalkış saatimiz de sabahın çok erken vaktidir. Dolasıyla bizim istirahat süremiz bundan ibaret. Vaktinizi iyi planlarsanız farklı alanlara da yönelebilirsiniz. Ama sosyal medya ile zamanı biraz daha yoğunlaştırıyoruz.
+  
+ HEPSİNİ KENDİM YAZIYORUM 
+ Paging.create(4, 1);

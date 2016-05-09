@@ -1,0 +1,7 @@
+Parmak izinden cinsiyet teşhisi
+Gazi Üniversitesi'nde parmak izinden cinsiyeti belirleyen bir sistem geliştirildi.
+ Gazi Üniversitesi Mühendislik Fakültesi Bilgisayar Mühendisliği Bölümü Öğretim Üyesi ve Fen Bilimleri Enstitü Müdürü Prof. Dr. Şeref Sağıroğlu, üniversitede kurdukları biyometri laboratuvarında 15'e yakın öğrencisiyle araştırmalar yaptıklarını söyledi.
+ Prof. Dr. Sağıroğlu, şu bilgiyi verdi:
+ ''Parmak izinden kişinin cinsiyetini saptayabilen zeki bir sistem geliştirdik. Sistem bir parmak izinde bulunan tepe yoğunluğu sayılarını otomatik olarak sayan ve bu sayıları temel alarak cinsiyeti belirleyen bir yapıda.  
+ Geliştirilen bu sistem şu anda çalışır durumda. Dünyada bir ilk olan bu sistem ile yüzde 90'ın üzerinde bir başarı oranı yakaladık. Bu sistem delilden suçluya gitmede kullanılabilecek bir teknoloji.''
+ Yüz eşkali çalışmasında daha yüksek verilerle test etme aşamasında olduklarına işaret eden Sağıroğlu, ''Parmak izinden yüz eşkali çıkarma da olduğu gibi cinsiyet tanımlama da dünyada ilk defa geliştirildi. Bu sistemler kolluk kuvvetlerinin kullanabilecekleri çalışmalardır'' dedi. AA

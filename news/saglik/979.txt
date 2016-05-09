@@ -1,0 +1,30 @@
+Sigarayı bırakmanın 10 kolay yolu
+ 
+ Sigaranın zararları saymakla bitmiyor. Her yıl milyonlarca insan sigara nedeniyle sağlık sorunları yaşıyor ya da daha da kötüsü hayatını kaybediyor. Sigara kullanımı,  özellikle gençler ve kadınlar arasında çok büyük bir artış gösteriyor.   
+ Liv HOSPITAL Aile Hekimliği’nden Uzm. Dr. Eren Eroğlu sigaraya bırakmayı kolaylaştıracak 10 yöntem hakkında bilgi verdi.
+ 
+ Sigara içiyorsanız, sağlığınızı geliştirmek, yaşam kalitenizi arttırmak ve yaşam sürenizi uzatmak için yapabileceğiniz en güzel şey sigarayı bırakmaktır. Bunun kulağa hoş geldiğini, fakat uygulamada zor olduğunu biliyoruz. Yıllar boyunca denemiş ve hep başarısızlığa uğramış olabilirsiniz. 
+ Nikotinin kuvvetli fiziksel ve psikolojik bağımlılık yapıcı etkisi nedeniyle sigarayı bırakmak gerçekten zordur. Çünkü sigara içme arzusunu başlatan ve kuvvetlendiren madde nikotindir. Düşük nikotinli sigaraları tercih etmeye başlamanız yanlış bir seçimdir. Çünkü alıştığınız nikotin seviyesini sağlayabilmek için öncekinden daha fazla sigara içme tehlikesi oluşacaktır.
+ 
+ BIRAKMAYI KOLAYLAŞTIRACAK 10 YÖNTEM
+ 
+ 1. Bırakmak için bir gün seçin ve o güne sadık kalın. Daha önce sigarayı bırakmış olan kişilerle konuşun ve deneyimlerini paylaşın. Ailenizden, arkadaşlarınızdan ve iş yerinizden destek alın. Gerektiğinde doktorunuza danışarak ondan yardım alın. 
+ 2. Sağlık risklerinizi göz önünde bulundurun ve kanser başta olmak üzere olası hastalıkların ya da rahatsızlıkların bir listesini yapın. Bu listeyi her zaman görebileceğiniz bir yere asın.
+ 
+ 3. Sigara içme ile ilgili alışkanlıklarınızı ve davranışlarınızı not edin. Her gün içmekten en çok hoşlandığınız üç sigara ve bunların nerede ve ne zaman içtiğinizi mutlaka yazın. O sigara içme zamanlarında başka uğraşlar edinin.
+ 
+ 4. Düzenli egzersiz veya her gün 20-30 dakikalık hafif tempolu yürüyüşler yapın. Meditasyon veya yoga gibi dinlendirici yöntemlerden yararlanın.
+ 
+ 5. Ev, araba ve iş yerinizdeki sigaraları ve aksesuarları uzaklaştırın. Küllük, çakmak ve kibritlerden kurtulun. “Yoksunluk belirtileri”nin sadece birkaç hafta süreceğini unutmayın. İradenize hakim olun.
+ 
+ 6. Beslenmenize dikkat edin. Sigaradan gördüğünüz zarara eş miktarda zarar görebilmeniz için almanız gereken kilo miktarının yaklaşık 30-35 kilo civarında (!) olduğunu unutmayın. Sigara yerine glisemik indeksi yüksek çikolata, kekler, kurabiyeler, şekerlemeler ve hamur işleri gibi besinleri tüketmeyin.
+ 
+ 7. Sinemaya, tiyatroya ve müzikallere gidin. Restoran, otel, uçak gibi yerlerde sigara içilmeyen bölümleri tercih edin.
+ 
+ 8. Kahve içmek sigara içmenizi tetikliyorsa kahve yerine taze sıkılmış meyve suları, yeşil çay, bitki çayları ve en önemlisi de vücudunuzu toksinlerden arındırmak için temiz ve bol sudan yararlanın.
+ 
+ 9. Sigara ve alkol ikilisini birlikte seviyorsanız, sigarayı bıraktığınız dönemde alkol almamaya çalışın. 
+ 10. İnat edin ve bu inadınızı ısrarla sürdürün, asla bırakmayın.
+ 
+ PASİF İÇİCİLİĞE DİKKAT! 
+ Paging.create(2, 1);

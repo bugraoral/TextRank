@@ -1,0 +1,17 @@
+'Cilvegözü olağan dışı bir yer'
+ 
+ Yazıcı ilk olarak Cilvegözü Sınır Kapısı’nda ki patlama ile ilgili olarak aracın Suriye tarafından Türkiye’ye doğru geldiğini belirterek, "Bizim gümrük hizmetlerini yaptığımız gümrük kapısına 30-40 metre mesafede park ettiği ve park eden bu araçtan 3 kişi iniyor. Bunlardan 2 tanesi bir araca biniyor, Suriye tarafına doğru gidiyor. Diğeri de yaya olarak gümrük hizmetlerinin yapıldığı kapıya doğru yaya olarak geldiği görünüyor. 
+ 
+ Bütün bunlara baktığımızda aracın Suriye tarafından geldiği kesine yakın bir şekilde sabit. Araç park ettikten 22 dakika sonra bir patlama oluyor. Patlamanın görüntüleri var. Yerleştirilen bir düzenekle birlikte dışarıdan kumandayla patlatılması mümkün bir patlayıcının yerleştirildiği anlaşılıyor. Aracın içinde kimse olmadığına göre, aracın dışarıdan müdahale ile, kumanda ile patlatıldığı görülüyor. Etraf toz, bulut, duman içerisinde kalıyor. Tahribata tabii ki patlayıcının önemli miktarda olduğunun göstergesidir. Uzmanlar bunun türünü, elde ettikleri veriler varsa ona göre belirleyecekler."
+ 
+ 'ALIŞILMIŞ GÜMRÜK FAAŞLİYETLERİNİ SÜRDÜRECEK BİR MEKANİZMA YOK'
+ 
+ "Suriye’den çıkan bir aracın Türkiye’ye doğru gelirken ilk kontrol noktası neresidir?" sorusuna Yazıcı şöyle yanıt verdi:"Suriye ile bizim aramızda 9-10 km bir kara sınırı var. Bu sınır üzerinde 8 tanesi aktif, 10 tane hukuken açık gümrük kapımız bulunuyor. Suriye Hükümeti ile Ulusal Kurtuluş Konseyi’ne mensup kişilerin, eylemlerinin vuku bulduğu andan itibaren, Suriye Ulusal Güçlerine karşı direnen güçlerin özelikle işgal etme ve ele geçirme faaliyetleri sonucu Suriye tarafında alışılmış gümrük faaliyetlerini sürdürecek bir mekanizma yok. 
+ 
+ Bir kontrol yok. Bu kapımızın bir özelliği var. Bu kapı oradaki coğrafi koşullar itibari ile hemen sınır noktası üzerinde değil. Bizim gümrük hizmeti verdiğimiz bina ile Suriye gümrüğü arasında 2 bin 900 metre mesafe var. Bu mesafenin 2 bin 400 metresi Türkiye’ye ait, 500 metresi Suriye’ye ait. Geçtiğimiz aylarda yaptığımız bir ziyarette bir gündelik sorunu olduğunu gördük ve bu sınır noktasının hemen yanında bir kontrol noktası oluşturduk. 
+ 
+ Bu kontrol noktasının güvenliğini silahlı kuvvetlerin mensupları ile bizim gümrük muhafaza ekiplerimiz yapıyor. Bir ihbar gelmediyse her gelen aracı durdurup kontrol etmek diye bir uygulama olmaz. Böyle bir arama olduğuna ilişkin bir bilgi yok elimizde. Her kapıda aranma diye bir şey olmaz ama burası olağan dışı bir yer. herhalde biraz daha artırılması gerekiyor diye düşünüyorum."
+ 
+ "GÜMRÜK İŞLEMLERİNİN SAĞLANMASI KONUSUNDA BİR DÜZENLEME GETİRDİK"
+ 
+  Paging.create(2, 1);

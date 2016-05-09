@@ -1,0 +1,7 @@
+'Galatasaray'a hayırlı olsun'
+ 
+ Dün gece Beyaz TV'de ekranlara gelen 'Derin Futbol' programında Wesley Sneijder'in saat 01:30'da İstanbul'a ineceği iddia edildi.  
+ >> 'SNEIJDER GELMEZSE BOŞANIYORUZ'
+  
+ Fakat bu iddialar gerçeği yansıtmayınca ünlü futbolcuyu karşılamaya giden taraftar eli boş döndü. 
+   startFlvPlayer_Posta("divFlvPlayer8685","8685","201301","8685-10.jpg");

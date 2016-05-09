@@ -1,0 +1,6 @@
+Bir Nihat Doğan komedisi!
+Telegol'de önceki akşam yine ilginç anlar yaşandı. Programa konuk olan Nihat Doğan, Telegol yorumcularını 'baraja durdurdu' 
+ Şarkıcı Nihat Doğan, TV8'de ekrana gelen 'Telegol' programında, futbolda 'baraj' olayını 'uygulamalı' anlattı. Doğan, 16 Aralık'ta oynanan Galatasaray maçında Selçuk İnan'ın frkik golü öncesi, Fenerbahçe barajının dağınık olduğunu göstermek için yorumcuları şekilden şekle soktu ve ortaya ilginç görüntüler çıktı. 
+   startFlvPlayer_Posta("divFlvPlayer8423","8423","201212","8423-4.jpg"); 
+ 
+  

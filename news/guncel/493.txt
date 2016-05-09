@@ -1,0 +1,11 @@
+'Sağlık için takipteyiz'
+Sağlık Bakanlığı takip sistemi ile, tedavi sonrası hastada komplikasyon gelişip gelişmediği, iyileşme süreci kontrol altında tutulacak. Uygulama ilk olarak diyabet, diz protezi ve gebelik için başlatılacak
+Hastalara uygulanan tedavi yöntemlerinin başarısını ölçmeyi hedefleyen Sağlık Bakanlığı yeni bir uygulama başlatmaya hazırlanıyor. İlk etapta diyabet, diz protezi ve gebelik için Haziran'da başlatılacak hasta takih sistemi ile, tedavi sonrası komplikasyon gelişip gelişmediğine, sürecin başarıyla tamamlanıp tamamlanmadığına bakılacak.
+Sağlık hizmetinin daha kaliteli hale gelmesi için hekim ve kurumun nitelik açısından da performansını artıracak uygulamalar üzerinde çalıştıklarını belirten Sağlık Bakanlığı Sağlık Hizmetleri Genel Müdürü İrfan Şencan, Haziran'dan itibaren bakanlığın bütün 
+hastanelerinde şeker hastalığı, diz protezi ve gebelik/doğum tedavilerini, tüm bilgilerin yer aldığı internet ağı üzerinden takip edeceklerini söyledi.
+Bu tür takiplerin İngiltere gibi ülkelerde de yapılmaya çalışıldığını ifade eden Şencan, 'Biz de ilk etapta bu üç branşı seçtik. Uluslararası uzmanlarla çalışıyoruz. Öncelikle standartları oluşturacağız, daha sonra da uygulamaya geçeceğiz' dedi.
+
+Veri tabanı oluşturulacak 
+Sistemin uygulanan tedavinin sonuçlarını izlemek üzerine olacağını anlatan Şencan, şu bilgileri aktardı: 'Bir diyabet hastası ya da diz protezi yapılan bir hasta tedavi sonrası 
+hangi sıklıkla ve ne tür şikayetlerle tekrar hastaneye başvurmuş, tedavi tekrarlanmış mı, tekrarlanmışsa hangi nedenle olmuş, bir komplikasyon gelişmiş mi, şikayetleri artmış mı gibi takipler yapacağız. Sağlık bilgi sistemimiz bu takipleri yapmaya elverişli. Bu bize klinik kalite ölçümü yapmamıza olanak sağlayacak. Bunu hem hekim hem de kurum için yapabileceğiz. Klinik rehberleri yaygınlaştıracağız. Elde ettiğimiz bulguya göre bir yol izleyeceğiz. Belki hekimle irtibata geçip soruna çözüm arayacağız.'
+Bu tür ölçümlerin yapılmasının kolay olmadığını, belirli standartların oluşturulmasının şart olduğunu dile getiren Şencan, uygulamanın daha sonra tüm branşları kapsayacak şekilde yaygınlaştırılacağını bildirdi.

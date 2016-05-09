@@ -1,0 +1,9 @@
+Türkiye'de 500 bin bilgisayar ele geçirildi
+Kayseri Emniyet Müdürlüğü Bilişim Suçları Şubesi Komiser Yardımcısı Ahmet Yüce, internete bağlı bütün bilgisayarların güvenli olmadığını ve Türkiye'de 500 bin bilgisayarın korsanlar tarafından ele geçirildiğini açıkladı.
+Kayseri Sanayi Odası'nın Şubat ayı meclis toplantısına katılan Komiser Ahmet Yüce, işadamlarına internet güvenliği ve bilişim suçları hakkında bilgiler verdi. Ahmet Yüce, ülke olarak bilişim suçları ile mücadelede geç kaldıklarını belirterek, "ABD hükümetinin, 2002 yılında sanal güvenlik harcamaları için ayırdığı kaynak 2.7 milyar dolar, 2003'te ise bu oran 4.2 milyar dolar olarak belirlendi. Bugün ise Amerika'nın siber savaşlarda mücadele etmek için günlük 12 milyon dolar harcadığını düşündüğümüzde geleceğin siber ordular üzerine kurulacağını tahmin etmek çok zor değil." dedi.
+
+ Yüce, internet erişimi olan hiçbir bilgisayarın tam güvenli olmadığını ifade ederek, Türkiye'de yapılan bir araştırmada 500 bin adet bilgisayarın bilgisayar korsanları tarafından ele geçirildiğini kaydetti. Kayseri'de de bu tür suçlara sık rastladıklarını dile getiren Yüce, korsanların uluslar arası bir organizasyona sahip olduğunu söyledi.
+
+ İnterneti güvenlik duvarı olmadan kullanmanın, evden çıkarken kapıyı açık bırakıp gitmeye benzediğini ifade eden Yüce, bu konuda yapılması gerekenleri şu şekilde anlattı: "Konusunda uzman ve deneyimli bilgi işlem personeli istihdam etmek ve tavsiyelerini dikkate almak gerekir. Bilgisayarlar üzerinde kullanıcıların yetkileri kısıtlanmalıdır. Özellikle program kurma, silme, sistem ayarlarını değiştirme gibi yetkiler sadece sistem yöneticilerine yani bilgi işlem sorumlularına verilmelidir. Bu şekilde kullanıcı hatalarının ve bilgisizliğinin sisteme vereceği zararların önüne geçilmiş olur."
+
+ Yüce, internet şifrelerinin en az 8 karakterli olması gerektiğini, şifrenin içerisinde mutlaka harf ve semboller bulunması gerektiğini belirterek sözlerini tamamladı.

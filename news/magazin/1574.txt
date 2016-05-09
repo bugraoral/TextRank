@@ -1,0 +1,6 @@
+Penelope Cruz da şarkıcı oldu
+ 
+ Oyunculuk yeteneğini ol aldığı birçok filmdeki üstün performansı ile kanıtlayan İspanyol aktris Penelope Cruz'ün Grammy ödüllü şarkıcı Miguel Bosé ile yaptığı düetin klibi yayınlandı. 
+ Amerikan basınından New York Daily News sitesinde yer alan habere göre, rengi ve kalitesi ile Cruz'un sesi çok beğenilirken, siyah-beyaz çekilen video klip de izleyenlerden tam not aldı. Bir otel odasında geçen klipte Cruz, seksi iç çamaşırları ve buğulu sesi ile şarkı söylüyor. Penelope kardeşi Eduardo Cruz tarafından bestelenen Decirnos Adios adlı şarkı Miguel'in Papitwo albümünde yer alıyor. 
+ İŞTE O KLİP
+   startFlvPlayer_Posta("divFlvPlayer8839","8839","201302","8839-10.jpg");

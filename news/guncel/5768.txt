@@ -1,0 +1,15 @@
+Fırtına, deniz otobüsü seferlerini iptal ettirdi
+İstanbul'da etkili olan şiddetli fırtına nedeniyle İstanbul Deniz Otobüsleri (İDO) bazı seferlerini iptal etti.
+İDO'nun iptal ettiği hızlı feribot ve dış hat deniz otobüsleri seferleri şöyle: 
+
+15-03-2013 08:15 Pendik / Yalova Ferry Cat tipi hızlı feribot
+15-03-2013 08:15 Yalova / Pendik Ferry Cat tipi hızlı feribot
+15-03-2013 08:15 Armutlu - Armutlu T.K. - Yenikapi - Bostanci Deniz Otobüsü
+15-03-2013 08:30 Yenikapi - Yalova Ferry Cat tipi hızlı feribot
+15-03-2013 09:00 Bostanci-Kartal/Yalova Deniz Otobüsü
+15-03-2013 09:00 Yalova - Yenikapi Ferry Cat tipi hızlı feribot
+15-03-2013 09:30 Yalova / Pendik Ferry Cat tipi hızlı feribot
+15-03-2013 09:30 Pendik / Yalova Ferry Cat tipi hızlı feribot
+15-03-2013 09:50 Bandirma - Yenikapi - Bostanci Deniz Otobüsü
+15-03-2013 10:00 Yalova / Kartal - Bostanci Deniz Otobüsü
+15-03-2013 12:00 Bostanci - Yenikapi - Bandirma Deniz Otobüsü

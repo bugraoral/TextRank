@@ -1,0 +1,8 @@
+Çin siber saldırıları buradan yönetiyor
+ABD başta olmak üzere pek çok ülkeye son yıllarda yapılan siber saldırıların izini süren Virginia merkezli bir güvenlik firması saldırıların kaynağı olarak Şangayın dışındaki bir binaya ulaştı. Siber casusluk konusunda uzman olan güvenlik firmasının ulaştığı bu 12 katlı binanın Çin ordusuna ait olduğu iddia ediliyor.
+Mandiant isimli güvenlik firması Çin ordusunun içindeki "61398" adlı gizli bir birimin, "dünyanın en yayılmacı casusluk grubu" olduğunu öne sürüyor. 
+Şirkete göre birlik, dünya genelinde en az 141 kuruluştan "sistematik olarak yüzlerce terabaytlık veri" çalmış olabilir. Birliğin, Şangay'daki bu 12 katlı sıradan bir binada üslendiği iddia ediliyor. 
+Çin ise yabancı şirketlerin ve hükümet kuruluşlarına resmi olarak siber saldırılar düzenlendiği suçlamalarını reddediyor. Washington'daki Çin elçiliği yetkilileri New York Times gazetesine tekrarladıkları açıklamada, Çin yasalarına göre hack'lemenin yasadışı olduğunu ve hükümetin böyle bir şeye girişmeyeceğini söyledi. 
+Mandiant şirketi ise 2004'ten bu yana veri güvenliğinin ihlal edilmesiyle ilgili raporunda, "bu faaliyetleri yürütenlerin esas olarak Çin'de üslendiğini ve Çin hükümetinin onlardan haberdar olduğunu" vurguluyor. 
+Raporda, 2006'dan bu yana faaliyet gösteren tek bir grubun siber casusluk faaliyetlerinin çapının genişliğine işaret edilerek, bu grubun "hükümet destekli gibi" olduğu belirtiliyor. 
+Bu grubun hack'leme faaliyetlerinin izi sürüldüğünde, Şangay'ın Pudong bölgesindeki 12 katlı bir binaya ulaşıldığını aktaran Mandiant, Çin Halk Kurtuluş Ordusu'nun 61398 numaralı birliğinin de aynı yerde olduğuna dikkat çekiyor.

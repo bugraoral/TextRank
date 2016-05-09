@@ -1,0 +1,8 @@
+Yüksel Teyze kendine hayran bıraktı
+ 
+ İstanbul Üniversitesi Tıp Fakültesi'nden mezun olan Yüksel Kıroğlu, bilgisi ve cesaretiyle genç yarışmacılara taş çıkarttı. 125 bin TL'lik soruya kadar giden Kıroğlu, burada büyük bir riski göze aldı.
+ 
+ Ancak bu soruya doğru yanıt veremeyen Yüksel Teyze 15 bin TL alarak yarışmadan ayrıldı. 
+ İŞTE O DAKİKALAR
+  
+    startFlvPlayer_Posta("divFlvPlayer8856","8856","201302","8856-6.jpg");

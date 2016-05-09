@@ -1,0 +1,7 @@
+Cem Yılmaz şov bugün sinemalarda!
+Cem Yılmaz'ın son gösterisi CM101MMXI FUNDAMENTALS bugün vizyona giriyor 
+ Cem Yılmaz’ın son gösterisi CM101MMXI FUNDAMENTALS; yaşamımız sırasında görüp yaşadığımız ancak üzerinde durmadığımız bir çok ayrıntıyı yine komik mizahi bir bakış açısı ile gözler önüne seriyor. 
+ Oyuncunun kendi yaşadığı komik, trajik bir dışında çok küçük öykünün, sanatçının mükemmel gözlem gücünü de görmenin mümkün olacağı bir çok öykü gösteride yer alıyor. Yılmaz, çevresinde ve dünyada olup biten bir çok ilginç ve komik olayı da, kendi komedi anlayışına uygun olarak yorumluyor ve seyirci ile paylaşıyor. 
+ Kadın erkek ilişkilerinin, basit gibi görünen bir yemek siparişinin ve hatta bir cenaze töreninin ne kadar komik olabileceğini seyircisi ile paylaşan Cem Yılmaz, seyircilerine uzun yıllar unutamayacakları bir performans ile bol kahkahalı bir seyir vaad ediyor. 
+ Cem Yılmaz’ın son gösterisi “CM101MMXI FUNDAMENTALS” bugün tüm sinemalarda! 
+   startFlvPlayer_Posta("divFlvPlayer8218","8218","201211","8218-3.jpg");

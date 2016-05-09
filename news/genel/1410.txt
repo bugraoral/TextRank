@@ -1,0 +1,4 @@
+Apple'ın mağazısı çöktü
+Apple'ın iPad ve iPhone'ların uygulamalarına ev sahipliği yapan online mağazasına yarım saati aşkın bir süre erişim sağlanamadı.
+Bağlantı sorununu gören kullanıcılar Twitter ve çeşitli forumlardan şikayetlerini dile getirdi. Kullanıcılar App Store'a girmeye çalıştığında "App Store'a bağlantı kurulamadı - Cannot connect to iTunes Store" şeklinde bir hata mesajıyla karşılaştı. 
+Kullanıcılar App Store'a girebilse de bağlantı olmadığından uygulama indirmeleri mümkün olmadı. Ancak yarım saatlik kesintisinin ardından mağaza eski haline döndü.

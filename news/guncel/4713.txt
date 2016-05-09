@@ -1,0 +1,31 @@
+TÜBİTAK dinlemelere karşı 'yer altını' önerdi
+Haberleşme ve Özel Hayatın Gizliliğini Araştırma Komisyonu, TÜBİTAK yetkililerini dinledi.
+TÜBİTAK uzmanları, gizli toplantılar için dinlemeye karşı en uygun mekânların yer altındaki mekânlar olduğunu söyledi. Komisyon, TÜBİTAK'ın toplantının basına kapalı yapılması talebini kabul etmedi. Gizlilik özelliği taşıyan konuların ise daha sonra cevaplandırılmasına karar verildi. 
+
+ TBMM'DE 'BÖCEK' SUNUMU 
+
+ TÜBİTAKın bünyesindeki Ulusal Elektronik ve Kriptoloji Araştırma Enstitüsü (UEKAE) Müdür Yardımcısı Uğur Saraç, üyelere böcekler ile yapılan izlemeler, optik dinlemeler, karşı tedbirler ve böcek tespiti başlıkları altında sunum yaptı.
+
+ Optik böcekler hakkında bilgi veren Saraç, Bunlar ortamdaki ışığı ve sesi alarak ışığa dönüştürürler ve uzağa iletirler. Bir ampul bu işi görür Lamba normal ışıtmasını yaparken, görünmeyen bantta ortamdaki bilgileri uzağa iletebilir. dedi. 
+
+ GSM böceklerinin ise piyasasında en fazla kullanılan böcek çeşidi olduğunu ifade eden Saraç, GSM böceğini sim karta takıyorsunuz, o artık bir böcek haline geliyor. ifadelerini kullandı.
+
+ GSM kullanıldığında böceğin tespit edilebilirliğinin de zorlaştığını dile getiren Saraç, böceklerle dünyanın her yerine bilgi aktarılabildiği ve internet üzerinden de bu trafiğin yönlendirilebildiğini kaydetti. 
+
+ Sesin camdaki titreşimlerinin tespiti ile de dinleme yapılabildiğini söyleyen Saraç, Bunları önleyici cam filmleri bulunuyor. Bu filmleri cama yapıştırarak ciddi zayıflamalar sağlanıyor. Aynı şekilde camlara ekstra gürültü üreteçleri bağlanıyor. Bunlar camı sürekli titreştiriyor, böylece cihaz sesi algılayamaz hale geliyor. diye konuştu. 
+
+ "MİLLİ ÜRETİM DEĞİLSE, GARANTİSİ YOK"
+
+ Sayısal santraller, baz istasyonları, uydular, işletim sistemleri ve bilgisayar programlarının suiistimale hazır sistemler olduğunu söyleyen Saraç, Bu sistemler milli olarak üretilmedi ise garanti verilemeyeceğini düşünüyoruz. şeklinde konuştu. 
+
+
+ İnternet üzerinden belgelere ulaşılabildiğini aktaran Saraç, şöyle konuştu: İnternete bağlı hiçbir sisteme güvenemezsiniz. Komple işletim sistemini geliştirirseniz, buna güvenebilirsiniz. Diyelim ki, binada sayısal santral var. Bizim üretmediğimiz bir santral. Sizin masanızda da sayısal bir telefon var. Dünyanın herhangi bir yerinden telefon ya da internet hattı üzerinden, santrale girilir ve masadaki telefon böcek olarak kullanılır. Siz bunun farkına bile varamazsınız. Donanım olarak telefonda hiçbir böcek de bulamazsınız. Tespiti gerçekten zordur. 
+
+ Saraç, sahte baz istasyonları ile de cep telefonlarının dinlenebildiğini, cep telefonu taşıyanlarda bu konuda bir ön kabul olması gerektiğini söyleyip, "Artık hemen hemen tüm telefonlarda 3G var. 3G üzerinden de dinleme yapılabilir. açıklamasını yaptı. 
+
+ GİZLİ TOPLANTILAR İÇİN YER ALTI ÖNERİSİ 
+
+UEKAE Müdür Yardımcısı Uğur Saraç, dinlemelere karşı alınabilecek tedbirler hakkında da bilgi verdi.
+Jammer kullanımının en bilinen yöntem olduğunu ancak optik böceklerin jammeri olmadığını kaydeden Saraç, kendilerine çok gizli toplantılar için güvenlikli oda taleplerinde bulunulduğunu dile getirdi.
+
+ Saraç, İnceleme yaptık o odanın güvenli hale getirilmesinin çok zor olduğunu, çok da maliyet gerektirdiğini söyledik. 'Oraya yapacağınız bu kadar maliyet ile sağlayacağınız güvenliğin daha fazlasını, bodrumu görüşme odası yaparak yakalayabilirsiniz' dedik. Gizli toplantılar yapılacaksa bunların camsız yerlerde olması lazım. Mümkünse yer altında olması hem RF işaretini engeller hem optik dinlemeyi engeller, hem de akustik dinlemeyi önler. diye konuştu.

@@ -1,0 +1,20 @@
+ASELSAN'ın uluslararası ihalelerde eli güçleniyor
+Türk savunma sanayinin önde gelen şirketlerinden ASELSAN'ın Savunma Sistem Teknolojileri (SST) Grubu, yurt dışı kaynaklı askeri projelere teklif vermek için gerekli olan Capability Maturity Model Integration (CMMI) Olgunluk Seviye 3 sertifikası aldı.
+ASELSAN'ın dört grup başkanlığından biri olan Savunma Sistem Teknolojileri Grubu, CMMI modeline göre 3. olgunluk seviyesinde olduğunu belgelendirerek ASELSAN'ın kalitesini bağımsız bir kuruluşa bir kez daha tescil ettirmiş oldu. 
+Türk savunma sanayinin ileri teknoloji şirketi ASELSAN, son yıllarda eriştiği yüksek büyüme hızının sürdürülebilirliğini sağlamak üzere iş süreçlerini CMMI Seviye 3 şartlarını sağlayacak şekilde geliştiriyor. Bu hedef doğrultusunda gerçekleştirilen çalışmalar ve Ekim ayı ortalarında tamamlanan denetimler sonunda, ASELSAN SST Grubu'nun Ürün Geliştirme, Sistem Geliştirme ve Sistem Entegrasyonu olarak gruplanmış olan tüm faaliyetleri CMMI modeline göre uyarlandı.
+Denetim sonuçları CMMI modelini geliştiren ve CMMI belgesini veren ABD'deki Software Engineering Institute (SEI) tarafından da değerlendirildi. 
+SST Grubu; sistem, yazılım, donanım ve mekanik olmak üzere faaliyet gösterdiği tüm tasarım ve geliştirme disiplinleri için CMMI belgesini almış oldu. 
+Yetkililer, ASELSAN SST Grubu'nun, CMMI modelinin şartlarını tam olarak yerine getirmesinin yanında; proje yönetimine ağırlık veren güçlü organizasyonu, güçlü iç iletişimi, eğitimli ve tecrübeli personel yapısı, yönetimin iyileştirme faaliyetlerine verdiği destek, süreç uygulamalarında otomasyona verilen önem açısından kurumsal olarak güçlü bulunduğunu da belirttiler. 
+Yetkililer, alınan bu belge ile ASELSAN'ın yönetim sisteminin sahip olduğu yetkinliğin bir kere daha tescillendiğini ifade ederek, belgenin ASELSAN'ın rekabet gücüne katkıda bulunacağını, amaçlanan yurtdışı satış hedeflerine ulaşılmasına katkı sağlayacağını kaydettiler.
+
+SST Grubu'nun faaliyetleri
+
+ASELSAN'ın dört grup başkanlığından biri olarak faaliyetlerini sürdüren SST Grubu; askeri alanda Hava Savunma Sistemleri, Komuta-Kontrol ve Bilgisayar Sistemleri, Ateş Destek Sistemleri, Silah Sistemleri, İnsansız Sistemler, Deniz Sistemleri, Sualtı Akustik Sistemleri ve Sahil-Sınır Güvenliği Sistemleri; sivil alanda ise Akıllı Ulaştırma Sistemleri konusunda araştırma-geliştirme, üretim, entegrasyon, entegre lojistik destek faaliyetlerini yürütüyor.
+Grup ayrıca, ISO 9001 ve NATO AQAP 2110 ve AQAP 2210 kalite sertifikalarına sahip bulunuyor.
+
+CMMI nedir
+
+CMMI, kuruluşların tasarım ve geliştirme faaliyetlerini içeren projelerinde başarıya ulaşmaları için gereken süreçleri, süreçlerin ulaşması gereken hedefleri ve bu hedeflere ulaşılmasına olanak sağlayan düzenlemeleri içeren kapsamlı bir model ortaya koyuyor. 
+Tasarım ve geliştirmeye yönelik mühendislik süreçlerinin yanı sıra proje yönetimi, kalite yönetimi, alt yüklenici yönetimi ve diğer destek süreçleri de CMMI modelinde yer alıyor. CMMI modelinde tanımlanan 22 süreç alanının 18'i için belirlenmiş hedef ve uygulamaları yerine getiren kuruluşlar 3. Olgunluk Seviyesine ulaşmış olarak değerlendiriliyor. 
+CMMI belgesi, özellikle savunma sanayisi başta olmak üzere, Ar-Ge ve yeni ürün geliştirme alanında hizmet veren kurumlarda, talepleri karşılayabilecek durumda olduklarının güvencesi kabul ediliyor. 
+ASELSAN'ın Mikroelektronik Güdüm ve Elektro-Optik (MGEO) Grubu ile Radar Elektronik Harp ve İstihbarat Sistemleri (REHİS) Grubu da daha önce CMMI Olgunluk Seviye 3 sertifikasını almıştı.

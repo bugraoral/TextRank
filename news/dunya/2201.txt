@@ -1,0 +1,39 @@
+Çinliler New York Times'a saldırıyor
+New York Times, Çin'den bilgisayar korsanlarının son dört ayda 'bıkıp usanmadan' gazetenin sistemine sızdıklarını açıkladı.
+Gazete, saldırıların Başbakan Wen Jiabao'nun yakınlarının milyarlarca dolarlık malvarlığı edindiklerine ilişkin iddiaları içeren haberin yayınlanmasıyla aynı döneme denk geldiğine dikkat çekiyor.
+
+New York Times, bilgisayar korsanlarının 'Çin ordusuyla bağlantılı bazı yöntemler' kullanarak haberi yazan muhabirin elektronik posta mesajlarına girdiklerini öne sürdü.
+
+Çin Savunma Bakanlığı ise 'gazetelere korsan saldırısı'nın Çin yasalarında suç olduğunu duyurdu.
+
+New York Times'a göre, bilgisayar korsanları gazetenin bilgisayar sistemlerine Başbakan Wen hakkındaki raporun tamamlanmasına yakın bir dönemde, eylül ayında sızdı.
+
+Çin hükümetinin 'iftira' olarak nitelediği haberde Wen'in akrabalarının çeşitli ticari ve yatırım faaliyetleriyle 2.7 milyar dolarlık mal varlığına sahip olduğunu öne süren New York Times, başbakanı herhangi bir usülsüzlükle suçlamamıştı.
+
+Çin ise, liderleri ve özellikle lider kadronun malvarlıkları konusunda hassasiyetini sıklıkla vurguluyor.
+
+New York Times, 'bilgisayar korsanlığı' eylemlerinin gazetenin haberi yazan Şangay Büro Temsilcisi David Barboza ile selefi Jim Yardley üzerinde yoğunlaştığını duyurdu.
+
+Times'ın saldırıları tespit etmek üzere anlaştığı internet güvenlik firması Mandiant, eylemleri tespit etmek ve engellemek amacıyla gazetenin bilgisayarlarını hedef alan hareketleri izledi.
+
+53 BİLGİSAYARA GİRİLMİŞ
+
+Firmanın tespitlerine göre, korsanlar New York Times'ın bilgisayar ağına ulaşmayı olanak sağlayan bir yazılımı sisteme yükledikten sonra bütün çalışanların şifrelerine ulaşıp, çoğu gazete binalarının dışındaki 53 kişisel bilgisayara girebilmeyi başardılar.
+
+Gazeteye göre, güvenlik firması ayrıca saldırının çıkış noktasını gizleyebilmek için de ABD üniversitelerindeki bilgisayarların üzerinden yönlendirildiğini, bu yanıltıcı girişimin izlerinin Çin'e kadar uzandığını tespit etti.
+
+New York Times, saldırıların 'Çin ordusunun Amerikan ordusuna hizmet sağlayan şirketlere saldırı düzenlediği bilgisayarlardan başladığının' tespit edildiğini de duyurdu.
+
+Bir diğer tespit de, bilgisayar korsanlarının Pekin saatiyle sabah 8.00'de eylemlerine başladıkları.
+
+Mandiant yetkililerinden Richard Bejlich, 'tek tek eylemleri ele aldığınızda bunları yapan Çin ordusudur diyemezsiniz, ama benzerlikler ve saldırıların hedefleri bir bağa işaret ediyor' dedi.
+
+Bejlich, 'Aynı grubun Çinli muhaliflerle Tibetli eylemcileri ya da havacılık şirketine yönelik bir saldırı sizi doğru yöne itiyor' dedi.
+
+New York Times, çalışanların ya da müşterilerin kişisel bilgilerinin çalınmadığını ya da sitenin 'hacklenmesi' gibi bir girişimin tespit edilmediğini de açıkladı.
+
+Ayrıca Wen ailesi konusunda 'hassas dosya ya da elektronik posta mesajlarına girildiğine' dair bir kanıt da tespit edilemezken, korsanların Wen ailesiyle ilgisi olmayan bilgilerin peşine düştüklerine dair bir bilgi de yok.
+
+Çin Savunma Bakanlığı ise gazeteye yaptığı açıklamada, 'Çin yasaları korsanlık faaliyetleri de dahil olmak üzere internet güvenliğine zarar verecek her türlü eylemi yasaklamıştır' derken, 'Çin ordusunu güçlü bir kanıt olmadan siber saldırıyla suçlamanın profesyonellikle bağdaşmadığını ve temelsiz olduğunu' duyurdu.
+
+BBC Türkçe

@@ -1,0 +1,6 @@
+İstanbul'da yol durumu
+İstanbul'da trafik yoğunluğu giderek artıyor.
+ - TEM Ataşehir- Çakmak istikametinde kalan araç trafik yoğunluğunu artırıyor.
+ - TEM FSM Avrupa- Anadolu yönünde meydana gelen trafik kazası nedeniyle 1 şerit trafiğe kapandı.
+ - D-100 Haliç- Okmeydanı yönünde meydana gelen trafik kazası nedeniyle 1 şerit trafiğe kapandı.
+ - TEM Mahmutbey- İSTOÇ kalan araç, trafik yoğunluğunu artırıyor.

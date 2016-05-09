@@ -1,0 +1,29 @@
+Kapalı ameliyatla günlük hayata hemen geri dönülüyor
+Şişmanlık ameliyatları karnı kesmeden, kapalı yöntemle yapılıyor. Karında açılan 1 santimlik birkaç delikle işlem gerçekleştirildiği için ameliyattan sonra iz de kalmıyor. Hasta 2-3 gün sonra taburcu ediliyor, 10 gün içinde işine geri dönebiliyor 
+ Şişman olmak cerrahinin riskini artırır mı?
+  
+ Bazı önlemler alınmazsa kesinlikle evet. Ameliyatın risklerini iki açıdan düşünmek lazım. Birincisi yalnızca aşırı kilo nedeniyle oluşan riskler, ikincisi ise ameliyata özel muhtemel sorunlar. Aşırı kilolu olmak, bacak toplardamarının içinde pıhtı oluşumu riskini artırır. Bu hiç istemediğimiz, hatta korktuğumuz bir durum. Fakat elimizdeki bazı ilaçlar ve basınç çorapları sayesinde riski çok ciddi biçimde azaltabiliyoruz. Açıkçası bugüne kadar yüzlerce ameliyatımızda pıhtı oluşumuna rastlamadık. 
+ Pıhtı oluşumu neden tehlikeli?
+  
+ Çünkü emboliye (ani damar tıkanmalarına) yol açabiliyor. Bacak toplardamarları içinde oluşan kan pıhtısı, yukarıya ve sonunda akciğer damarlarına kadar gidip akciğer kanlanmasını engeller. Yaşamı tehdit eden bir durumdur. Fakat az önce bahsettiğim önlemler sayesinde engellenebilir. 
+ Ameliyatlara özel riskler nelerdir?
+  
+ Şişmanlık cerrahisinde sıfıra yakın bir riskten söz edemeyiz. Fakat morbid obezitenin kendisi ölümcül bir hastalık olduğu için risk göz ardı edilebilir düzeyde. Hem tüp mide hem de mide by pass’ında mide belli noktalardan kesiliyor. Mide by pass’ında ek olarak incebağırsak da belli noktalardan kesilip sonra yeniden kapatılıyor ya da bazı yeniden yapılandırılmalar yapılıyor. Dolayısıyla her iki ameliyattan sonra erken dönemde en korkulan sorunlar şu: Kesilme ve kapatılma hatlarında kanama veya kaçak olması. Tüm önlemlere rağmen bunların oluşmasını engellemek yüzde 1-2 oranında mümkün olmayabiliyor. Ama önemli olan ameliyat sonrası erken dönemde bu durumlar oluşsa bile durumu fark etmek ve düzeltici müdahaleleri yapmak. Tabii bu ancak 24 saat ve 7 gün hizmet verebilen, kendini bu ameliyatlara adamış deneyimli ekipler söz konusu olduğunda mümkün olabiliyor. 
+ Ameliyat sonrası nasıl bir süreç, zor mu? 
+  
+ Ameliyat kapalı yöntemle (laparoskopi) yapıldığı için hastalar aynı günün akşamı ayağa kalkabiliyor. En fazla 2-3 gün sonra taburcu olabiliyor. Masa başı işi varsa, 10 gün içinde işine geri dönebiliyor. Fakat bazı özel diyet uygulamaları mutlaka gerekiyor. Hatta hastalarımızın ameliyat sonrasında özel egzersiz programlarına devam etmelerini istiyoruz. 
+ Hastalar nasıl bir diyet uyguluyor? 
+  
+ Ameliyat sonrası ilk yıl içinde hastalar mutlaka 30-60 kilo veriyor. Ameliyat sonrasında iştah neredeyse tamamen ortadan kalkıyor. Ufacık lokmalarla bile ciddi bir doygunluk hissi oluşuyor. Dolayısıyla hastalarımızın ameliyatla yeniden yapılandırdığımız üst sindirim sistemlerinin yeni çalışma düzenine daha kolay adapte olabilmeleri için diyet yapmaları gerekiyor. Hastalar ameliyat sonrasında 5 haftalık bir özel sıvı gıda diyetiyle aşamalı olarak katı gıdalara geçiyorlar. Gıda alımı toplamda çok azalıyor. Porsiyonlar küçülüyor. Daha uzun çiğneme önem kazanıyor. Ama burada kilo vermeye asıl yardımcı olan iştahtaki azalma. Bazı hastalar daha önce severek tükettikleri gıdaları, tatlıları artık hiç aramayabiliyor. 
+ Bir de vitaminler veriliyor sanırım... 
+  
+ Özellikle mide by-pass’ı ameliyatından sonra bazı mineral ve vitaminlerin (kalsiyum, folik asit, D ve B vitaminleri gibi) verilmesi gerekiyor. Çünkü bu hastalarda emilim bozukluğu olduğu için bu vitamin ve mineraller gıdalarla yeterince temin edilemiyor. 
+ Hastanın diyeti nasıl düzenleniyor?
+  
+ Ekipteki diyetisyen hastaya ‘ikinci gün şunu, üçüncü gün bunu, 14’üncü gün şunu bu miktarlarda alacaksın’ gibi çok ayrıntılı bir diyet planı hazırlıyor. 
+ Ameliyat uzun dönemde problemlere yol açabiliyor mu? 
+  
+ Nadiren tüp mide ve mide by-pass’ı ameliyatı sonrasında birleştirme ve kesilme dikilme hatlarında darlık gelişebiliyor. Bu durumların tanınması çok zor değil. Darlıklar yeniden cerrahi müdahale gereksinimi ortaya çıkarıyor. Bunlar da pek kolay girişimler değil. Daha önemlisi her iki ameliyat sonrasında uzun dönemde tekrar kilo almaya meyil oluşabiliyor. Fakat bu artış asla morbid obezite seviyesinde olmuyor. Özellikle tüp mide ameliyatından 5-10 yıl sonra tüp şekline getirilmiş mide genişleyip biraz da olsa kilo alınmasıyla sonuçlanabiliyor. Böyle durumlarda tüp mide ameliyatını mide by-pass’ına çevirmek gerekebiliyor. Çok daha nadir de olsa mide by-pass’ı sonrasında da kilo alınırsa bu ameliyat ‘duodenal switch’ operasyonuna çevrilebiliyor. Bu hakikaten ciddi uzmanlık gerektiren bir işlem. Bu konuda New York’ta çalışan bir cerrahtan destek alıyoruz. 
+ 1 YILDA 57 KİLO
+  
+ Paging.create(3, 1);

@@ -1,0 +1,17 @@
+'Görev Tazminatı' bizim de hakkımız
+ 
+ Hazırlayan: Çağrı Bilgin
+  
+ Bu uçurumun en büyük nedeni de 2002’de getirilen ‘Görev Tazminatı’ndan yararlanamamaları olduğunu söylüyorlar. Meslekte 5 yıl çalışan bütün devlet memurlarına tazminat verilirken astsubaylara ve binbaşılara verilmiyor... 
+ Astsubayların özlük hakları deyince, bunu ağırlıklı olarak parasal konular oluşturuyor. Parasal konuları anlamak için bir takım terimleri ve kavramları iyi kavramak gerekiyor. Bu tanımlar arasında en çok ‘tazminat’ sözcüğü geçiyor. Hani büyük harfle yazsak yeridir: TAZMİNAT! Biz okuya okuya, sora sora, dinleye dinleye zor anladık; ya da anlayabildik mi, belli değil. Bakalım anlatabilecek miyiz? Türk Silahlı Kuvvetleri’nde irili ufaklı dört çeşit tazminat sistemi uygulanıyor. 
+ >> ASTSUBAYLAR MAAŞLARINDAN ŞİKAYETÇİ
+  
+ 1-Silahlı Kuvvetler Tazminatı, uzman çavuştan başlayarak general-amirale kadar her rütbedeki personele çalıştıkları sürece ödenir. Yer yer ‘Hizmet Tazminatı’ olarak da anılır. Emeklilikte bu tazminat verilmez. 
+ 2-Temsil Tazminatı, 2000 yılından sonra yalnız generalamirallere uygulanmaya başladı. Emeklilikte de devam eder. 
+ 3-Görev Tazminatı, 2002 yılında getirildi. Eski emekliler dahil olmak üzere meslekte 5 yılını doldurmuş bütün devlet memurlarını kapsıyor. 
+ 4-Komutanlık Tazminatı, askeri birimlerde komutanlık yapanlara (örneğin; alay, tabur, bölük komutanı gibi) ödeniyor. 
+  
+   
+ Tazminatların özellikleri 
+ Bu dört grup tazminat uygulamasına açıklık getirmek üzere, konuya bir başka söylemle şu iki eklemeyi yapabiliriz. Birincisi: ‘Silahlı Kuvvetler Tazminatı’ bütün personele verilir. Bunun dışında general ve amirallere ‘Temsil Tazminatı’, daha alt rütbedekilere ‘Görev Tazminatı’ ödenir. Bu tazminat yarbay ve albaya emekliliğinde de ödenmeye devam eder. İkinci nokta: Bazı konumlarda 3 tazminat aynı kişide birleşebilir. Örneğin; alay komutanı olan bir albay, hem ‘Komutanlık Tazminatı’, hem ‘Görev Tazminatı’, hem de ‘Silahlı Kuvvetler Tazminatı’ alabilir. 
+ Paging.create(3, 1);

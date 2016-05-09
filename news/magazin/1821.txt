@@ -1,0 +1,8 @@
+Ayşen Gruda sunucuyu fena azarladı
+ 
+ 'Aslında Ortada bir kötü niyet yok' diye başlamak cümleye çok yanlış sanki kötü niyet var da siz beni aklamaya çalışıyormuşsunuz gibi konuşuyorsunuz." diyerek verdi veriştirdi.
+ 
+ Sunucu soruyu tekrar yüksek sesle sorunca da  'bağırarak konuşmayın bakayım. Sizin televizyonda bağırarak konuşma modası var. O şey de öyle... Ozan Kütahyalı. O da bağırıyor durmadan. Yavaş yavaş. Sakin' diyerek sunucuyu azarladı. 
+ İŞTE O ANLAR
+  
+ startFlvPlayer_Posta("divFlvPlayer8930","8930","201302","8930-8.jpg");

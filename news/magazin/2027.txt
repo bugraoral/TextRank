@@ -1,0 +1,12 @@
+Ünlü oyuncu sevgilisine öyle bir sürpriz hazırladı ki
+ 
+ Demet Evgar, sevgilisi için bir internet sitesi kurdu. İnternet sitesinde sevgilisi Çağ Rical Gürle'ye söylediği şarkıyı yükleyen Evgar'ın 'Farketmeden' adlı şarkısı tık rekorları kırıyor.
+ 
+ Evgar, şarkıyı paylaşmadan önce Twitter adresinden şöyle bir mesaj yolladı:
+ 
+ "Bu gece 00:00 itibariyle bi surprizim olucak #farketmeden"
+ 
+ Daha sonra Twitter profilinden de paylaştığı şarkısına takipçilerinden tebrik mesajları yağdı. Farketmeden adlı şarkı ünlü müzisyen Fikret Kızılok'a ait. 
+   startFlvPlayer_Posta("divFlvPlayer9040","9040","201302","9040-6.jpg"); 
+ 
+  

@@ -1,0 +1,10 @@
+Her aşıya bir kimlik numarası
+ 
+ Sağlık Bakanlığı, aşı güvenliğini en üst seviyeye çıkartmak için "Aşı Takip Sistemi" kurarak her aşıya bir kimlik numarası verecek.
+ 
+ Sağlık Bakanlığı Türkiye Halk Sağlığı Kurumu Başkan Yardımcısı Mehmet Ali Torunoğlu, Aşı Takip Sistemi ile ilgili bilgi verdi. İlaç Takip Sistemi’nde olduğu gibi her aşıya "karekod" denilen bir kimlik numarası verileceğini bildiren Torunoğlu, bu sayede aşıların her aşamada izleneceğini, bir çocuğa hangi aşının yapıldığını anında belirlenebileceğini söyledi.
+ 
+ Aşının nakli ve korunması sırasında sahip olması gereken ısının merkezden takip edileceğini anlatan Torunoğlu, şu bilgileri aktardı: "Ülkemizde 9 bin 500 civarındaki aşı uygulama noktasındaki depolama ve saklama yerinde dakikada bir ısı ölçümü yapılacak. Bu değerler merkezdeki izleme birimine gidecek. Ani ısı değişimlerinde sistem otomatik SMS atacak. ’Isı değişimi var önlem al’ diyecek. Mesaj önce direkt aşı sorumlusuna gidecek. Burası gerekeni yapmazsa bir üst yönetici uyarılacak. Böylece anında bilgi sahibi olup gereken önlem alınabilecek. Aşı kullanılamaz hale geldiyse hemen yok edilecek."
+ 
+ Sistem sayesinde hem aşıların ısı değişimlerinden zarar görüp israf edilmesinin önleneceğini hem de insan kaynaklı hataların sıfıra ineceğini vurgulayan Torunoğlu, dünyada ilk kez Türkiye’de uygulanacak sistemle ilgili Dünya Sağlık Örgütü’ne de bilgi verildiğini söyledi.
+  

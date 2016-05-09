@@ -1,0 +1,16 @@
+Sütler pazartesi günü dağıtılıyor
+ 
+ Okul Sütü Programı kapsamında pazartesi gününden itibaren öğrencilere süt dağıtımı yapılacak. Milli Eğitim Bakanlığı (MEB), Gıda, Tarım ve Hayvancılık Bakanlığı ile Sağlık Bakanlığı organizasyonunda yürütülen ve 11 Şubat itibarıyla 30 bin 885 okulda başlayacak olan Okul Sütü Programı, 14 Haziran’a kadar devam edecek. Program kapsamında ülke genelinde resmi ve özel okullar ile azınlık okullarının, ana sınıfları ile ilkokul 1, 2, 3 ve 4. sınıflarında bulunan 6 milyon 290 bin 977 öğrenciye her hafta pazartesi, çarşamba ve cuma günleri UHT koşullarında paketlenmiş 200 mililitre pastörize süt dağıtılacak. 
+ 'SÜT İÇMEYE ALIŞTIRACAĞIZ'
+  
+ MEB Temel Eğitim Genel Müdürü Funda Kocabıyık, AA muhabirine yaptığı açıklamada, programın çocuklara süt içme alışkanlığı kazandırmak, sağlıklı nesiller yetiştirmek ve çocuklara beslenme desteği sağlamak amacıyla yapıldığını ifade etti. Programın her yıl uygulanmasını planladıklarını, süt dağıtımının tüm Türkiye’de uygulanacağını belirten Kocabıyık, Bakanlık olarak birinci hedeflerinin dezavantajlı çocuklara ulaşmak olduğunun altını çizdi.
+  
+ 'SÜTLERİ ANALİZ ETTİRDİK'
+  
+ Okul Sütü Programı’nda geçen yıl bazı öğrencilerde süt şekerinin bağırsakta sindirilememesinden kaynaklan laktoz intoleransının yaşandığını ancak bunun besin zehirlenmesi gibi algılandığına dikkati çeken Kocabıyık, "Sütler bozuk gibi lanse edilmeye çalışıldı. Sonra analiz sonuçlarını aldık. Analiz sonuçlarında sütlerin bozuk olduğu ile ilgili herhangi bir bulguya rastlamadık" dedi. Laktoz intoleransının insanların yüzde 80’inde görüldüğünü kaydeden Kocabıyık, bu yıl herhangi bir sorun yaşanmaması için e-okul sistemine veli izin formları yüklediklerini belirtti. 
+ VELİLERDEN İZİN FORMU ALINACAK 
+ Veli izin formlarının okul müdürleri aracılığıyla doldurulduğuna dikkati çeken Kocabıyık, şöyle konuştu "Velilerden, çocuklarında süte karşı herhangi bir alerji, laktoz intoleransı tespit edip etmedikleri ya da çocuklarının böyle bir sorunu varsa süt verilip verilmemesiyle ilgili izin formu alıyoruz. Daha sonra okul müdürleri bunları e-okul sistemine giriyor ve biz bunu buradan görüyoruz. Dolayısıyla okul sütü dağıtılmaya başladığında hangi çocuklara okul sütü dağıtıp dağıtmayacağımızı bileceğiz. Velisi izin vermeyen, alerjisi olan, laktoz intoleransı olan çocuklara okul sütü verilmeyecek. Velisinden izin alarak okul sütünü dağıtacağız." 
+ 'SORUN YAŞANACAĞINI DÜŞÜNÜYORUM' 
+ Bu yıl Ocak ayında program hakkında 218 öğretmene 2 gün eğitim verildiğini vurgulayan Kocabıyık, illere giden bu öğretmenlerin çok bilinçli olduğunu ve herhangi bir sorun karşısında ne yapacaklarını bildiklerini söyledi. "Bu yıl çok daha sistemli bir şekilde hazırlandık. Herhangi bir şekilde bu sene sorun yaşamayacağız" diyen Kocabıyık, çocukların herhangi bir rahatsızlık yaşaması halinde öğretmenlerin, okul müdürünü, onların da il okul sütü komisyonunu bilgilendireceğini ve çocuğun sütü içtiği partiden dağıtımın iptal edileceğini kaydetti. Kocabıyık, daha sonra alınan numunelerin analize gönderileceğini ifade ederek, "Analiz sonucu gelinceye kadar o partiden dağıtım durdurulacak, başka bir partiden dağıtıma devam edilecek. Ancak analiz sonucu temiz geldikten sonra o partinin dağıtımı devam edecek" dedi. 
+ 'PANİK YAPILMASIN' 
+ Paging.create(2, 1);

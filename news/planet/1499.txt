@@ -1,0 +1,6 @@
+YouTube'a paralı kanallar geliyor
+YouTube'un yeni telefon uygulamasının kodlarını inceleyenler, internet sitesinin yakında paralı yayın yapan kanallar açmaya başlayacağını keşfetti.
+Yeni uygulamanın kodlarında "paralı kanallara üye olmak ve üyeliği bitirmek" ile ilgili satırlar bulunuyor. 
+Bir süredir Google'ın YouTube'da paralı olarak yayın yapacak kanallar kurmayı planladığı iddia ediliyordu. Uzmanlar yeni telefon uygulamasındaki bu kod satırının bu iddiaların gerçekliğini kanıtladığını düşünüyor. 
+YouTube'da şu an bazı ülke sınırlamaları dışında tüm içeriğe ücretsiz olarak erişilebiliyor. Bu yeni paralı kanalların aylık üyelik bedelinin 1 ila 5 dolar arasında olacağı düşünülüyor. 
+YouTube'da açılacak bu paralı kanallar sayesinde yeterince reyting almadığı için yayından kaldırılmış eski programların yeni bölümleri ile internetten devam edebileceği de iddia edildi.

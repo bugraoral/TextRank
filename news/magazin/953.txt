@@ -1,0 +1,5 @@
+Nurgül Yeşilçay'dan cesur aşk sahneleri
+Nurgül Yeşilçay son filmi 'Aşk Kırmızı'daki cesur sahneleriyle şimdiden çok konuşulmaya başladı bile... 
+ Osman Sınav’ın, aşk ve sadakat kavramlarını yeni baştan düşündürecek filmi “Aşk Kırmızı”nın çarpıcı fragmanı yayınlandı. 
+ Nurgül Yeşilçay, cesur görüntüleriyle dikkat çekti. 
+   startFlvPlayer_Posta("divFlvPlayer8645","8645","201301","8645-9.jpg");

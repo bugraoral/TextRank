@@ -1,0 +1,7 @@
+İran'a yeni virüs saldırısı
+İranın güneyindeki sanayi tesislerinin bilgisayarlarına bir internet virüsüyle saldırı düzenlendiği bildirildi. Bu olay 2010 yılından beri İranı hedef alan siber savaşın son hamlesi olarak değerlendirildi.
+Siber saldırılarla mücadeleden sorumlu Pasif Savunma Kurumundan yapılan açıklamada, geçtiğimiz aylarda bir virüsün Hürmüzgan eyaletinde bazı sanayi kuruluşlarının bilgisayar sistemlerine bulaştığı ancak etkisiz hale getirildiği belirtildi. 
+Kurumun Hürmüzgan biriminin başkanı Ali Ekber Akhavan, ISNA haber ajansına yaptığı açıklamada, Düşmanlar kargaşa çıkarmak için internet ağları üzerinden sürekli İranın sanayi birimlerine saldırıyorlar. Bu virüs Hürmüzgandaki bazı imalat sanayii tesislerini etkiledi ancak zamanında alınan önlemler ve yetenekli hackerların işbirliğiyle ilerlemesi durduruldu dedi. 
+Akhavan, hedef alınan şirketlerden birine örnek olarak elektrik üreticisi Bandar Abbas Tavanir A.Ş.yi gösterdi. 
+İran, uranyum zenginleştirme tesislerinin 2010 yılında Stuxnet bilgisayar virüsünün hedefi olmasının ardından internet güvenliğini sıkılaştırmıştı. Tahran yönetimi daha önceki açıklamalarında Stuxnetin ABD ve İsrailin işi olduğunu öne sürmüş, bağımsız internet güvenliği şirketleri de bu açıklamaları teyit eden sonuçlara varmıştı. 
+İsrailli yetkililer Batının İranın petrol ve bankacılık sektörlerine uyguladığı yaptırımların Tahranı nükleer programını durdurmaya ikna etme konusunda başarısız olması durumunda ülkedeki nükleer tesislere askeri operasyon düzenleme tehdidinde bulunmuştu.

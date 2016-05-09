@@ -1,0 +1,25 @@
+Siber saldırı önlemi
+ABD yönetimi, ticari sır hırsızlığıyla mücadele için yeni strateji açıkladı.ABD yönetimi, ABD ile Çin arasında patlak veren siber saldırı gerginliği devam ederken, Amerikan ticari sırlarının çalınma vakalarında görülen artışla mücadele için geniş kapsamlı yeni bir strateji açıkladı.
+
+ABD yönetiminin açıkladığı plan, yurtdışında fikri mülkiyet hırsızlığını caydırmaya dönük yeni bir diplomatik çabanın yanında, Amerikan şirketlerinin kendisini bu tür eylemlere karşı korumasına yardım etmek için içeride de daha iyi bir koordinasyon tesis edilmesini içeriyor.
+
+Beyaz Saray tarafından yayımlanan raporda, ekonomik casusluğun ve Amerikan şirketlerine karşı ticari sır hırsızlığının arttığı yönünde işaretler bulunduğu belirtilerek, Ticari sır hırsızlığı Amerikan işletmelerini tehdit ediyor, ulusal güvenliğe zarar veriyor ve ABD ekonomisinin güvenliğini tehlikeye atıyor ifadesi kullanıldı.
+
+Bu tür eylemlerin ABD'nin dünya genelindeki ihracat umutlarını azalttığı ve Amerikan istihdamını risk altına soktuğu bildirilen raporda, yönetimin bu konuyla mücadele kapsamında diplomatik baskılarını artıracağı ve ticari sır hırsızlığı vakalarını durdurmak için daha sert yasaların gerekip gerekmediği hususunu inceleyeceği kaydedildi.
+
+ABD'li internet güvenliği şirketi Mandiant tarafından bu hafta içinde yayımlanan bir raporda, ABD'de çeşitli kamu kuruluşları ile Coca Cola ile Telvent gibi büyük firmaları hedef alan siber saldırıların, Çin Halk Cumhuriyeti ordusunun desteklediği internet korsanları tarafından düzenlendiği iddia edilmişti. Virginia merkezli Mandiant'ın raporunda, söz konusu korsanların Çin'in Şanghay kentinin Pudong bölgesinde orduya ait 12 katlı bir binada faaliyet gösterdikleri ve 61398 adlı gizli bir askeri birimin parçası oldukları öne sürülmüştü.
+
+Çin ise hiçbir korsanlık eylemine karışmadığını, aksine ABD'nin siber saldırılarına maruz kaldığını öne sürüyor.
+
+Obama yönetiminin bugün açıkladığı raporda, ana ihlalci olarak spesifik anlamda tek bir ülkenin adı telaffuz edilmiyor ancak ticari sır hırsızlığı vakalarına dair yer verilen listede Çinli şirketlerin ya da bireylerin, raporda adı geçen diğer tüm ülkelere nazaran çok daha fazla olduğu görülüyor. Listede Çin kaynaklı korsanlık eylemlerine maruz kalan ABD şirketleri arasında, General Motors, Ford, DuPont, Dow Chemical, Cargill gibi şirketler bulunuyor.
+
+ABD Başkanı Barack Obama da geçen hafta ABD'de bilgi güvenliğinin sağlanmasına ilişkin bir kararnameye onay vermişti. Amerikan endüstrilerinin bilgisayar ağlarının korunmasına katkı sağlamayı hedefleyen kararnamede, ABD savunma ve istihbarat kuruluşlarından, gizli tehdit verilerini bu şirketlerle 
+paylaşması isteniyor. Obama, Birliğin Durumu konuşmasında Kongre'ye de siber saldırılarla mücadelede adım atması çağrısında bulunmuştu.
+
+Yönetimin yeni raporunda, ticari sır hırsızlığına yönelik spesifik müeyyidelere dair fazla detay yer almazken, bu tür eylemlere karşı korunmak için atılacak 5 adımdan bahsedildi. Bunlar şöyle sıralanıyor:
+
+-Hırsızlığı caydırmak için üst düzey yetkililer tarafından yabancı liderlere diplomatik baskı uygulanması,
+-Endüstrilerin hırsızlığa karşı korunmasında yardımcı olmak için en iyi uygulamaların teşvik edilmesi,
+-İnceleme ve soruşturmaları artırmak için ABD güvenlik birimlerinin operasyonlarının çoğaltılması,
+-ABD yasalarının, ticari sır hırsızlığına karşı korunmak için daha fazla sertleştirilmesinin gerekip gerekmediği hususunun gözden geçirilmesi,
+-Kamuoyunda farkındalık yaratma kampanyası başlatılması.

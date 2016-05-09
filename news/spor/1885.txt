@@ -1,0 +1,4 @@
+'Kalplerden Cennete'
+Eskişehirspor taraftarlarının Ediz Bahtiyaroğlu için hazırladığı koreografinin belgeseli çekildi ve fragmanı yayınlandı 
+ Eskişehirspor taraftarlarının 5 Eylül 2012'de hayatını kaybeden Ediz Bahtiyaroğlu için 16 Eylül 2012'de Gençlerbirliği maçı için hazırladığı koreografinin belgeseli çekildi ve fragmanı yayınlandı. 
+ startFlvPlayer_Posta("divFlvPlayer8239","8239","201211","8239-9.jpg");

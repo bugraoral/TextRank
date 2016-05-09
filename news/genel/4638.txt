@@ -1,0 +1,16 @@
+Dünya piyasalarında sabah raporu
+İMKB yüzde 0.20 değer kaybederken, dünya piyasalarından sabah raporu...
+ İstanbul Menkul Kıymetler Borsası (İMKB) Ulusal 100 Endeksi'nin yüzde 0,20 değer kazandığı günün ilk saatlerinde bazı ülkelerin borsalarında son durum şöyle oluştu:
+ 
+ Borsa Endeks Değişim Değeri (Yüzde)
+ 
+ DJ Industrial (End of day) 13,9100 -0,32
+ Dax Performance (Delayed) 7,8110 -0,47
+ Nikkei 225 (Delayed) 11,1380 0,22
+ FTSE 100 London (End of day) 6,3230 -0,25
+ DJ Future (Delayed) 13,8340 -0,03
+ DAX Future (Delayed) 7,7890 -0,84
+ SP500 Future (Delayed) 1,4940 -0,03
+ CAC, Paris (Delayed) 3,7650 -0,54
+ Russia RSI Index (Delayed) 1,6130 -1,35
+ Bovespa, Sao Paulo 59,3360 -1,77

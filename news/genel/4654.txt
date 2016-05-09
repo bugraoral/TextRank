@@ -1,0 +1,20 @@
+Artık daha ucuz olacak
+ABD'de geliştirilen yeni bir elektronik uygulama sayesinde akıllı telefonlarla internette gezinmek artık ucuz ve hızlı hale gelecek.
+Massachusetts Institute of Technology (MIT) yüksekokulunda geliştirilen AirMobs adlı uygulama, akıllı telefonların, Wi-Fi sinyalleri aracılığıyla birbirlerine bağlanarak veri planı paylaşımı yapmasını sağlıyor. Böylece bir kullanıcının ulaştığı veriye hızla ulaşan diğer kullanıcı büyük telefon faturaları ödemekten kurtuluyor.
+Uygulama ayrıca paylaşılan her bir kilobayt veri başına kullanıcılara daha sonra kullanabilecekleri bir kredi vererek veri paylaşımını teşvik ediyor. 
+
+AirMobs'u geliştiren Eyal Toledano, New Scientist dergisinin internet sitesinde yeralan açıklamasında, "Amaç insanların veri planını paylaşmalarını teşvik etmek için (ver ki sen de alasın) ilkesini geliştirmek. Kredinizi daha sonra bağlantınızın bulunmadığı bir alanda kullanabilirsiniz. Kimbilir belki de hemen yanınızdaki kişi mükemmel bir yayın alanına sahiptir" dedi. 
+
+Sistemi MIT'te başarıyla denediğini anlatan Toledano, ancak AirMobs'u, sağladıkları hizmetlerin yeniden satışını yasaklayan bazı cep telefonu şirketlerinin karşı çıkmalarından çekindiği için Google Play Store adlı sitede satışa sunmadığını belirtti. 
+
+Toledano, "Ağların birbirleriyle işbirliğine karar vermeleri ve tüm cihazların serbestçe gezinmelerine izin vermeleri durumunda AirMobs'a daha az ihtiyaç olacak. Ancak operatörlerin birbirleriyle işbirliğine gitmedikleri yerlerde, kullanıcılar arasındaki işbirliği bu durumu düzeltebilir" dedi.
+
+ 
+AİRMOBS SİSTEMİ NASIL İŞLİYOR  
+
+
+Airmobs uygulaması akıllı telefonların arka planında çalışıyor. Sürekli olarak telefonun pilinin doluluk oranını ve sağlanan bağlantının gücünü kontrol eden uygulama, yer değiştirmeleri de telefonun sabit olduğu durumlarda daha sürekli sinyal veriyor olmasına bakarak belirleyebiliyor. Uygulama, şartların uygun olduğu durumlarda Wi-Fi vericisinin otomatik olarak açılmasını ve diğer kullanıcıların birbirlerine bağlanarak veri planı paylaşımı yapmalarını sağlıyor.
+
+ 
+  
+ 

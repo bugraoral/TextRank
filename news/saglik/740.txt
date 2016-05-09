@@ -1,0 +1,17 @@
+Bilim adamları bir ilki açıkladı
+Bilim adamları, insan hücrelerinde ilk kez "dörtlü sarmal" yapıya sahip DNA'ya rastladıklarını açıkladı.
+"Nature Genetics" dergisinde yayımlanan araştırmaya göre Cambridge Üniversitesi araştırmacıları, daha önce sadece ikili sarmal yapıya sahip olduğu düşünülen insan DNA'sında birbirine dolanmış dört DNA ipliğine rastladı.
+
+Hızla bölünen hücrelerde daha yaygın görülen dörtlü sarmal yapının, kanserle ilişkili olduğu sanılıyor.
+
+Cambridge Üniversitesi Kimya Bölümü'nden Prof. Shankar Balasubramanian, dörtlü sarmal yapının hücre belirli bir genotipe sahip olduğunda ya da işlevinde bir bozukluk meydana geldiğinde ortaya çıktığını söyledi.
+
+Dörtlü sarmal yapı, DNA'yı bir arada tutan ve genetik kodu oluşturan dört bileşenden guaninin çok sayıda bulunduğu bölgelerde görülüyor. Yapıya bu nedenle G-dörtlü adı verildi.
+
+İnsan DNA'sında G-dörtlü yapıları bulmak için antikor proteinler ürettiklerini ifade eden Prof. Balasubramanian, antikor proteinlerin G-dörtlü yapıları, hücrenin bölünmeden önce DNA'sını kopyaladığı sırada ortaya çıkardığını gösterdiğini söyledi.
+
+G-dörtlü yapıları ilaç benzeri moleküllere hapsettiklerinde hücre bölünme sürecinin de etkilendiğini belirten Prof. Balasubramanian, "G-dörtlü yapı, hücrenin çoğalmasıyla, dolayısıyla kanserde görülen kontrolsüz çoğalmayla ilişkili. Laboratuvarda yaptığımız deneylerde dörtlü sarmal yapıya sahip DNA'yı sentetik moleküllere hapsederek hücreleri ayırdık ve çoğalmalarını kontrol altına aldık. Bu da kanserli hücrelerin yayılmasını önleyen sentetik moleküllerin üretilebileceğinin ilk işareti" dedi.
+
+Balasubramanian, "Dörtlü sarmal yapı, kanser hücrelerinin yayılmasını engellemekte yepyeni bir yöntemin keşfine yol açabilir. Bu yapıları kontrol altına alarak kanserli hücrelerin bölünmesini durdurabilir, böylece kanseri tedavi edebiliriz" dedi.
+
+DNA'nın ikili sarmal yapısı, ilk kez 1953 yılında Francis Crick ve James Watson tarafından keşfedilmişti.

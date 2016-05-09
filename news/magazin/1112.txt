@@ -1,0 +1,7 @@
+Polat Alemdar yaşıyor mu?
+ 
+ Atv ekranlarında yayınlanan Kurtlar Vadisi Pusu'nun bu haftaki bölümünde Maskeli Fedai'nin Polat Alemdar olduğu ortaya çıkıyor.  
+ İşte o anlar:
+  
+ 
+  startFlvPlayer_Posta("divFlvPlayer8681","8681","201301","8681-5.jpg");

@@ -1,0 +1,14 @@
+Sigarayı bırakmak için 3 hafta gerek
+ 
+ Sigarayı bırakan kişilerde yaklaşık 3 hafta süren huzursuzluk, uykusuzluk, uykuya eğilim, sinirlenme, aşırı tepki verme, konsantrasyon güçlüğü gibi sorunlar yaşanabiliyor. Karadeniz Teknik Üniversitesi (KTÜ) Farabi Hastanesi Başhekimi ve Akciğer Sağlığı ve Yoğun Bakım Derneği Başkanı Prof. Dr. Tevfik Özlü, AA muhabirine yaptığı açıklamada, sigara tiryakiliğinin en öldürücü toplumsal zehirlenme olayı olduğunu ifade etti. 
+ 
+ Sigara dumanının 4 binden fazla zehirli, tahriş edici ve kansere yol açan kimyasal madde içerdiğine dikkati çeken Özlü, "Bu kadar maddenin yanı sıra tütündeki nikotin, ciddi bağımlılık yapma özelliğine sahiptir. Nikotinin meydana getirdiği bağımlılık nedeniyle diğer kimyasal maddeler de vücuda alınmış olur. Nikotin çok güçlü psikoaktif yani psikolojik uyarıcı ajandır" dedi. 
+ '3 KİŞİDEN 1'İ SİGARA BAĞIMLISI OLABİLİR'
+  
+ Sigaranın bağımlılık ortaya çıkarma özelliği açısından eroin, kokain ve alkolden hiç farkı olmadığını kaydeden Özlü, şöyle devam etti.  "Sigarayı ilk kez deneyen her 3 kişiden 1’i tek bir sigara ile bağımlı hale gelebilir. Bir sigara içildiğinde ortalama 10 saniye gibi kısa sürede yanaktan emilen nikotin beyne ulaşır ve eroin, kokain gibi maddelerin etkilediği merkezi uyararak bazı hormonların salınmasına neden olur. Bu da zevk alma, gevşeme, sakinleşme, konsantrasyon artışı gibi değişikliklerin ortaya çıkmasını sağlar. Ödül gibi gelen bu değişikliklerin devam etmesi için vücudunuz daha çok nikotin istemeye başlar. İçtiğiniz sigaranın sayısı giderek artar. Çünkü nikotinin meydana getirdiği etkilere karşı vücutta tolerans gelişir. Vücuttaki nikotin miktarı arttıkça etkisi azalır, ödül gibi gelen değişikliklerin devamını sağlamak için nikotin miktarının da artması gerekir. Artık vücudunuz bu maddeyi almak zorundadır."
+  
+ NİKOTİN İHTİYACI YOKKEN BİLE İÇİLİYOR 
+ Özlü, nikotinin psikolojik bağımlılık yapmasının yanı sıra fiziksel bağımlılık da yaptığına da işaret ederek, şunları söyledi "Sigara içilmediğinde vücuttaki nikotin miktarı azalır ve vücut bunun yoksunluğunu duymaya başlar. Yaklaşık 3 hafta süren huzursuzluk, uykusuzluk, bazen uykuya eğilim, sinirlenme, aşırı tepki verme, bazen kabızlık, konsantrasyon güçlüğü gibi sorunlar yaşanabilir. Bu yoksunluk belirtileri her 3 kişiden 2’sinde görülebilir, şiddeti kişiden kişiye değişir. Bu dönem aynı zamanda sigara içme isteğinin en yoğun olduğu dönemdir ve genellikle kişi en çok bu dönemde zorlandığı için sigaraya yeniden başlar. Öte yandan sigara içenlerde ödül gibi hissedilen değişikliklerin devamını sağlamak için tekrarlanan sigara içme eylemi zamanla alışkanlık halini almıştır ve kişi çoğu kez farkında olmadan, nikotin ihtiyacı yokken bile sigara yakıp içmeye başlamıştır. 
+ BIRAKMAK İSTEYEN ZORLANMAMALI
+  
+ Paging.create(2, 1);

@@ -1,0 +1,5 @@
+Bu arabadan sağ çıktı!
+California'daki yarışta otomobilin motoru alev aldı. Jack Beckman arabadan sağ çıkmayı başardı 
+ California'da gerçekleşen bir yarışta otomobilin motoru alev aldı. Direksiyondaki Jack Beckman ise alev topuna dönen arabadan sağ salim çıkmayı başardı. 
+ startFlvPlayer_Posta("divFlvPlayer8147","8147","201211","8147-8.jpg");
+  

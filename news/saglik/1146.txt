@@ -1,0 +1,17 @@
+Gebelikte diyabete dikkat!
+ 
+ Gebelikte en sık görülen medikal hastalıkların başında Gebelik Diyabeti geliyor. Gebelik diyabeti, insülin eksikliği, insülin direnci veya her ikisi sonucu gelişen glikozun kan düzeyindeki artışı ile (hiperglisemisi) kendini gösteriyor. Gebelerin yaklaşık yüzde 2’sinde, üreme çağındaki kadınların ise yaklaşık yüzde 1’inde diyabet gözlemleniyor.
+ 
+ Çeşitli sebeplerle kan şekeri seviyesinin ayarlanamadığı bir hastalık olan şeker hastalığı (Diabetes Mellitus)’na, bazen kandaki şekeri dengeleyen insülin hormonunun yetersizliği bazen de yokluğu neden olur. 
+ Ortaya çıkış nedenleri değişse de belirtileri çok yemek yeme, sık idrara çıkma, çok su içmedir. 
+ Central Hospital’dan Kadın Hastalıkları ve Doğum Uzmanı Opr. Dr. Aslı Alay Uğur “Şeker hastalığı bazen ilk kez gebelikte ortaya çıkar. Buna gestasyonel diyabet yani gebelik şekeri denir. İster önceden şeker hastası olsun ister hamilelikte şeker tanısı konsun, gebelikte beslenmeye çok dikkat edilmesi gerekiyor. Kan şekerindeki ani değişimler anne karnında bebek ölümlerine neden olabilir. Bu nedenle hamilelik döneminde uygulanan beslenme programı çok önemlidir.” diyerek gebelikte beslenmenin önemini vurguluyor.
+ 
+ Opr. Dr. Aslı Alay Uğur, tarama testlerinin önemine dikkat çekerek anne adaylarının hamilelik sürecinde tarama testi yaptırması gerektiğini belirtiyor ve ekliyor: 
+ “Diyabetik gebelerde ayrıntılı ultrasonografi ve ayrıntılı fetal kalp incelemesi yapılmalı. Bebeklerde nöral tüp defekti yani sinir sistemi gelişim problemleri sıklığı artacağı için gebelerin tarama testlerini (ikili, dörtlü ) mutlaka yaptırmaları gerekiyor.”
+ 
+ KARBONHİDRAT DA ŞEKERE DÖNÜŞÜR
+ 
+ Anne adayının kan şekerinin dengede kalabilmesi için yediği besinlerin şeker miktarının önemli olduğunu dile getiren Central Hospital Beslenme ve Diyet Uzmanı Deniz Şafak ise “Sadece çay şekeri olarak bildiğimiz şeker değil; ekmek, pilav, makarna gibi karbonhidratlı besinler de parçalanıp şekere dönerler. Bu nedenle yemek seçimlerine dikkat edilmelidir.” diyor. 
+ HAMİLELİKTE NASIL BESLENMELİ?
+  
+ Paging.create(2, 1);

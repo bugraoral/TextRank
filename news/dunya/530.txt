@@ -1,0 +1,5 @@
+150 araç birbirine girdi
+ABD'de yoğun sis nedeniyle 150 aracın birbirine girdiği zincirleme trafik kazasında 2 kişi öldü, yaklaşık 100 kişi de yaralandı 
+ ABD'nin Teksas eyaletinde yoğun sis nedeniyle meydana gelen zincirleme trafik kazasında ilk belirlemelere göre 2 kişi öldü, yaklaşık 100 kişi de yaralandı. TIR, kamyon ve otomobillerin hurdaya döndüğü zincirleme trafik kazası nedeniyle I-10 otoyolu, çift yönlü olarak trafiğe kapatıldı. 
+ Yetkililer, Houston kentinin 128 kilometre doğusunda eyaletler arası bir otoyolda meydana gelen zincirleme trafik kazasında yaralananlardan 12'sinin durumunun ağır olduğunu açıkladı. 
+ AA startFlvPlayer_Posta("divFlvPlayer8214","8214","201211","8214-6.jpg");

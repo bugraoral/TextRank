@@ -1,0 +1,20 @@
+NBA'de sayı, asist ve ribaunt istatistikleri
+NBA'de dün gece oynanan maçların ardından sayı, asist ve ribaunt sıralamasında ilk 10 şekillendi.İstatistiklerde ilk 10 sırada yer alan basketbolcular şöyle;
+
+SAYI SIRALAMASI
+
+
+
+(Player name, Team name - Oyuncu ismi ve takımı, GP - Maç sayısı,  MPG - Maç başına oynadığı süre, PTS - Ortalama sayı )
+
+ASİST SIRALAMASI
+
+
+
+(Player name, Team name - Oyuncu ismi ve takımı, GP - Maç sayısı,  MPG - Maç başına oynadığı süre,  AST - Asist sayısı,  APG - Maç başına asist )
+
+RİBAUNT SIRALAMASI
+
+
+
+NOT: Player name, Team name : Oyuncu ismi ve takımı, - GP - Maç sayısı,  MPG - Maç başına oynadığı süre, OFF- OHücum ribaundu, ORPG - Maç başına hücum ribaundu, DEF -  Savunma ribaundu, DRPG- Maç başına savunma ribaundu,  REB - Toplam ribaunt sayısı, RPG - Maç başına ribaunt

@@ -1,0 +1,24 @@
+Kontrolü bırakma sağlıklı kal
+ 
+ İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi Üroloji Anabilim Dalı Öğretim Üyesi Prof. Dr. Süleyman Ataus anlattı: 
+ Prostat kanseri sık görülüyor mu?
+  
+ Prostat kanseri genel olarak bütün dünyada erkeklerde en sık görülen kanserdir. Örneğin Amerika’da 2009’da 200 bine yakın yeni prostat kanseri tanısı ve 30 bin civarında erkeğin de bu hastalıktan hayatını kaybettiği tahmin ediliyor. 
+ Sebepleri neler?
+  
+ Kesin sebepleri bilinmemekle birlikte riski artıran bazı faktörler sayılabilir. Yaş, ırk, ailede prostat kanseri olması, genetik, beslenme özellikleri, şişmanlık, egzersiz alışkanlığı, prostatın iltihabi ve enflamatuar hastalıkları gibi... 50 yaşından sonra riskin arttığını biliyoruz. Tanı konulan 3 hastadan 2’si 65 yaş üzerinde. Nedeni kesin bilinmemekle birlikte siyah ırkta daha sık ve saldırgan seyrediyor. Ailesinde birinci dereceden yakınlarında prostat kanseri olanlarda risk artıyor. Özellikle de erken yaşta bu hastalığa yakalanmışlarsa. Bu kişilerin en geç 40 yaşından itibaren prostat kanseri açısından düzenli kontrollerini yaptırmaları gerekiyor. 
+ Şişmanlık riski artırıyor mu? 
+  
+ Bu konuda tam bir görüş birliği olmamakla birlikte şişmanlığın prostat kanseri riskini artırdığını gösteren pek çok çalışma bulunuyor. Şişman hastalarda hastalığa daha ileri aşamalarda tanı konulduğu ve daha saldırgan seyrettiği yolunda da bazı bulgular var. Son olarak aşırı şişmanlık tanı aşamasından başlayarak hastalığa yaklaşımı güçleştiriyor. 
+ Belirtileri neler?
+  
+ Prostat kanserinin kendine özgü hiçbir belirtisi yok. Özellikle erken dönemde hiçbir bulgu ve belirti vermez. Hatta bazen kemiklere yayıldığı halde hiçbir yakınmaya yol açmayabilir. Bu nedenle 40 yaşından sonra her erkeğin yılda bir kez üroloğa gitmesi lazım. Prostat kanserinin belirtileri prostatın iyi huylu büyümesinde ya da prostat iltihaplarında görülen yakınmalara benzeyebilir. İdrarı başlatmada güçlük, gece ve gündüz sık idrara gitme, yanma, kesik kesik veya çatallı işeme, idrar tazyikinde ve çapında azalma, tam boşalamama hissi görülebilir. Daha nadiren idrarın ve meninin kanlı gelmesi hastalığın belirtisi olabilir. Bunların dışında ileri aşamalarda yayıldığı organla ilgili belirtiler verir. Örneğin kemiklerin tutulduğu durumlarda bazı hastalar bel ya da kalça ağrıları nedeniyle ortopedi ve fizik tedavi gibi uzmanlık dallarına başvurabilirler. 
+ Korunmak için nasıl beslenmek gerekir? 
+  
+ Bu konuda da kesin veriler olmamakla birlikte kırmızı et ağırlıklı, yüksek yağlı ve lifli gıdalardan fakir beslenmenin ve az sebze ve meyve tüketmenin olumsuz bir etkisi var gibi görünüyor. 
+ Düzenli sporla risk azaltılabilir mi? 
+  
+ Egzersizin prostat kanseri riskini azalttığı gösterilmedi. Ancak şişmanlığın ve kan yağlarının yüksek olmasının prostat kanseri üzerindeki olumsuz etkisini biliyoruz. Düzenli sporun dokuların oksijenlenmesi, kas kitlesinin ve kilonun korunması, kan şekerinin düzenlenmesi gibi olumlu pek çok etkisi var. Ayrıca düzenli spor yapan kişilerdeki fiziksel ve ruhsal iyi hissetme nedeniyle elbette düzenli egzersiz önerilir. 
+ AKCİĞER KANSERİNİ ÖNLEMEK ELİNİZDE
+  
+ Paging.create(2, 1);

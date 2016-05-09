@@ -1,0 +1,43 @@
+Kağıt reçete tarih oluyor
+Doktorlar, 15 Ocak'tan itibaren reçeteleri elektronik ortamda yazacak. Kağıt reçeteler ile artık eczanelerden ilaç alınamayacak.
+Sosyal Güvenlik Kurumu (SGK), 1 Temmuz'da uygulamaya konulan e-reçete sistemiyle reçete sahteciliğinin önüne geçmeyi hedefliyor. Doktorlar, eczaneler ve hastalar için birçok kolaylığı barındıran e-reçete uygulamasının 1 Ocak'tan itibaren tüm hastane, doktor ve eczacılar uçun zorunlu olması öngörülmüş ancak bazı teknik nedenlerden dolayı uygulamaya geçilmesi 15 Ocak tarihine ertelenmişti. Buna göre, 15 Ocak Salı gününden itibaren bütün doktorlar reçeteleri elektronik ortamda yazacak ve kağıt reçeteler eczaneler tarafından karşılanmayacak.
+
+SGK, tüm doktorlara ve hastanelere 2 kez çağrı yaparak, doktorların tamamının sistemden şifre almalarını istedi. 31 Aralık 2012 tarihi itibarıyla Türkiye'de aktif olarak çalışan yaklaşık 110 bin doktorun 107 bin 300'ü e-reçete şifresi aldı.
+
+E-reçete sisteminin uygulanmaya başlandığı 1 Temmuz 2012 tarihinden 31 Aralık 2012 tarihine kadar yazılan reçetelerin yüzde 65'ü elektronik ortamda oluşturuldu.
+
+-SGK'dan uyarı-
+
+SGK, hastanelere ve doktorlara e-reçete uygulamasıyla ilgili olarak yaptığı son duyuruda, 15 Ocak 2013 tarihi itibarıyla e-reçete uygulamasının zorunlu olacağına dikkati çekti. Duyuruya göre, reçete tarihi 15 Ocak 2013 ve sonrası olan e-reçeteler, eczaneler tarafından manuel giriş yapılarak karşılanamayacak. Üzerinde e-reçete numarası bulunan manuel reçeteler ise yalnızca e-reçete olarak karşılanacak.
+
+15 Ocak 2013 tarihi itibarayla SGK kurumsal hekim şifresi'ni almamış (aile hekimliği hariç Sağlık Bakanlığı 1. Basamak Sağlık Tesislerinde, KİT-Belediye- Bakanlık 1. Basamak Sağlık Tesislerinde, Özel 1. Basamak Sağlık Tesislerinde, İşyeri Hekimliklerinde, Kurum Hekimliklerinde, Üniversite 1. Basamak Sağlık Tesislerinde, Türk Silahlı Kuvvetleri 1. 2. ve 3. basamak tesislerinde görev yapan hekimler hariç) hekimlerin manuel reçeteleri (istisnai durumlar hariç) eczanelerden karşılanmayacak.
+
+SGK, kurumsal hekim şifresi ile ilgili sorunlar hekimin görev yaptığı sağlık hizmet sunucusuna en yakın Sağlık Sosyal Güvenlik Merkezine iletilecek.
+
+15 Ocak 2013 tarihi itibarıyla (istisnai durumlar hariç) manuel reçeteler karşılanmayacak.
+
+Sağlık Bakanlığının e-reçete konusunda yapmış olduğu duyuru ve genelgelerde de belirtildiği şekilde e-reçetenin manuel çıktısının hekim tarafından hastaya verilmesine, Sağlık Bakanlığı'nın konu hakkında yapacağı düzenlemeler çerçevesinde devam edilecektir. Ancak düzenlenen manuel çıktılar hastada kalacak olup, kurum tarafından talep edilmeyecek.
+
+-Kağıt reçete yazılabilecek istisnai durumlar-
+
+Doktorların kağıt reçete yazabileceği istisnai durumlar şöyle:
+
+'-Kamu idareleri bünyesindeki kurum hekimliklerinde, işyeri hekimliklerinde, verem savaş dispanserlerinde, ana-çocuk sağlığı ve aile planlaması merkezlerinde, sağlık merkezi ve toplum sağlığı merkezlerinde, 112 acil sağlık hizmeti birimlerinde, üniversitelerin medikososyal birimlerinde, Türk Silahlı Kuvvetleri'nin birinci, ikinci ve üçüncü sağlık hizmet sunucularında düzenlenen reçeteler,
+
+-Majistral ilaç içeren reçeteler,
+
+-Kişiye özel yurt dışından getirtilen ilaçları içeren reçeteler,
+
+-Yabancı ülkelerle yapılan sosyal güvenlik sözleşmeleri kapsamında SGK tarafından sağlık hizmeti verilen kişilere düzenlenen reçeteler,
+
+-MEDULA hastane sisteminden provizyon alınamamasına rağmen sağlık hizmeti sunulması durumunda düzenlenen reçeteler,
+
+-Acil hal kapsamında düzenlenen reçeteler,
+
+-Aile hekimlerinin gezici sağlık hizmeti kapsamında düzenledikleri reçeteler,
+
+-Evde bakım hizmeti kapsamında düzenlenen reçeteler,
+
+-MEDULA sisteminin veya hastaneye ait sistemin çalışmaması nedeniyle e-reçetenin düzenlenememesi halinde manuel olarak düzenlenen, üzerinde 'sistemlerin çalışmaması nedeniyle e-reçete düzenlenememiştir' ibaresi kaşe ya da el yazısı şeklinde bulunan ve bu ibarenin reçeteyi düzenleyen hekim tarafından onaylandığı reçeteler.'
+
+Duyuruda, vatandaşların 15 Ocak tarihinden itibaren sorun yaşamaması için sağlık hizmeti sunucuları, eczacılar ve hekimler tarafından gerekli tüm önlemlerin alınmasının büyük önem arz ettiği de kaydedildi.

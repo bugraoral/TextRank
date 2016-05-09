@@ -1,0 +1,25 @@
+Bu içecekler hastalıktan koruyor
+ 
+  
+ M-Onep Klinikleri Beslenme Uzmanı Banu Eroğuz Demirözü anlatıyor:
+  
+ Havaların soğumasıyla beraber içecek tercihlerimiz de değişmeye başlar. Kahve ve çay dışındaki bitki çayları içimizi ısıtmanın yanı sıra hem şifa verir hem de hastalıklardan korunmamıza yardımcı olurlar. Ayrıca bitki çayları kışın azalan su tüketimine karşı sıvı ihtiyacımızı da takviye ederler. 
+ Bitkilerin ve çaylarının bazı hastalıkların tedavisinde olumsuz etkileri olabilmektedir. Bu sebeple tedavi gören kişilerin tedavilerini yürüten doktorlara danışmadan hiçbir bitki çayını tüketmesi önerilmez. 
+ Kışın genelde tercih edilen bitki çaylarının her birinin farklı özellikleri ön plana çıkıyor. 
+ İŞTE O İÇECEKLER:
+ 
+ Ihlamur: İdrar söktürücü, göğsü yumuşatıcı ve balgam söktürücü özellikleri ile kış aylarının vazgeçilmez içecekleri arasında bulunmaktadır. Ayrıca hazmı kolaylaştırıcı etkisi vardır. 1 tatlı kaşığı bal ile içildiğinde mideyi rahatlatır. Bağışıklık sisteminin kuvvetlenmesine de yardımcı olarak soğuk algınlığı ve gribe karşı koruyucu etki gösterir.
+ 
+ Kuşburnu: Yüksek oranda C vitamini içeren kuşburnu kan sulandırıcı etkisinin yanı sıra bağışıklık sisteminin kuvvetlenmesine de yardımcı olarak soğuk algınlığı ve gribe karşı koruyucu etki gösterir. 
+ 
+ Adaçayı: Adaçayı kuvvetli bir antioksidandır. Antioksidan özeliği ile bağışıklık sistemini güçlendirerek hastalıklara yakalanma ihtimalini azaltır. Vücutta oluşan ve biriken zararlı maddeleri vücuttan atarak hücrelere zarar vermeyecek hale getiren sisteme antoksidan sistem, bu sisteminin çalışmasını sağlayan maddelere ise antioksidan maddeler denmektedir. Yemek sonrası içildiğinde hazmı kolaylaştırır. Ancak bileşiminde bulunan bazı aromatik maddeler yüksek dozlarda alınırsa zehirli olabilir. Bu sebeple dikkatli tüketilmelidir
+ 
+ Çay: Son yıllarda çayın sağlık üzerine etkilerine yönelik araştırmalarda çayda bulunan polifenoller ve flavonoidlerin hücre ve dokulardaki oksidasyonu engelleyici antioksidan etkileri tespit edilmiştir. Günlük 6 fincana kadar çay tüketiminin 1 hafta içinde kan antioksidan kapasitesinde artış sağladığı gözlenmiştir. Ayrıca içerdiği kateşinlerin metabolizmayı hızlandırarak kilo kontrolüne yardımcı olduğu düşünülmektedir. Ancak çayın bu faydalarının yanı sıra, özellikle demir emilimini azaltıcı (çay limonlu içilirse bu etki azalır) ve kalp ritmini bozucu etkilerinde dolayı günde 3-4 fincandan fazla içilmemesi önerilmektedir. 
+ 
+ Kahve: İçerdiği kafeinin santral sinir sistemini uyarıcı etkisi vardır. Kafeinin etkileri kişiden kişiye farklılık göstermekle beraber en sık rastlananlar kalpte ritim bozukluğu ve çarpıntı, hipertansiyon, kansızlık ve mide rahatsızlıklarının artmasıdır. Uyanık kalmak ve yorgunluğu azaltmak amacıyla biraz fazla tüketilmesi alışkanlık yapabilmektedir. Ayrıca kafein idrar ve dışkı yoluyla az miktarda kalsiyum kaybına da neden olmaktadır. Bu sebeple kahveyi latte veya capuccino şeklinde sütlü olarak içmek kalsiyumu takviyesine yardımcı olacaktır. Kilo kontrolü sağlamak amacıyla tam yağlı süt yerine düşük yağlı veya yağsız sütler tercih edilebilir. 
+ 
+ Kakao: Çok eski dönemlerden itibaren uyarıcı etkisi sebebiyle konsantrasyonu artırdığı bilinen kakaonun başka faydaları da bulunmaktadır. Nottingham Üniversitesi’nde yapılan bir çalışma kuvvetli bir antioksidan olan ve kakao çekirdeğinde bulunan flavanolün, beyne daha fazla oksijen gitmesini sağladığını göstermiştir. Ayrıca kakaonun LDL kolesterolün oksidasyonunu önleyerek damar hastalıkları riskini azalttığını gösteren çalışmalar da vardır. Harvard Üniversitesi Tıp Fakültesi tarafından Panama’da kakaonun doğal biçimini tüketen Kızılderili kabileleri üzerinde yapılan incelemelerde araştırmaları destekleyen bulgular tespit edilmiştir. Uzmanlar bu noktada, kakaonun yüksek oranda yağ ve şekerle alınmamasını gerektiğini vurgulamaktadırlar. 
+ Biz de sizlerle kakaoyu etkin olarak kullandığı bilinen Aztek kabilelerinin, konsantrasyonu artıracak ve metabolizmanızı hızlandırarak enerji yakımınızı artıracak, son derece sağlıklı bir kakaolu içecek tarifi paylaşmak istedik: 
+ AZTEK KABİLELERİNİN HAYAT İKSİRİ BAHARATLI KAKAO TARİFİ
+  
+ Paging.create(2, 1);

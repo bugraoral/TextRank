@@ -1,0 +1,9 @@
+Ne giyeceğinizi "Mekanik Türk"e sorun
+Uzakdoğulu bilim adamları sayesinde düğünler, davetler, yıl dönümleri, iş görüşmeleri gibi önemli günler için kıyafet seçmek isteyenlerin işi kolaylaşıyor.
+Çin Bilim Akademisi ve Ulusal Singapur Üniversitesi'nin yürüttüğü ortak çalışma sonrasında, önemli günlere göre kıyafet seçen "Magic Closet" adında bir sistem geliştirildi. 
+Sistem, giysi dolabındaki kıyafetleri özel bir kamera yardımıyla kol uzunluğu, rengi ve yaka tipi gibi özelliklerine göre tanımlayarak kataloglara ayırıyor. Böylece kişinin zevkleri ile kıyafet seçimi arasındaki ilişki tanımlanıyor. 
+Daha sonra, önemli bir gün için kıyafet seçmek istendiğinde, sistem çevrimiçi alışveriş ve kıyafet fotoğrafları paylaşım sitelerinden elde ettiği görüntüleri, içindeki yazılım sayesinde veritabanına aktararak, 25 bin kıyafet örneğinden en uygun olanları belirliyor. 
+"MEKANİK TÜRK" ÇEVRİMİÇİ SORU-CEVAP SİTESİ 
+Veritabanında kaydedilen görüntüler ise ismini, tarihe "Satranç Oynayan Türk Otomatı" olarak geçmiş otomatik makineden alan Amazon "Mechanical Turk" (Mekanik Türk) adlı çevrimiçi soru-cevap sitesine gönderiliyor.  
+Burada çalışan kişiler, verilerdeki kıyafet görüntülerini yeniden sınıflandırarak hangi kıyafetin hangi günde giyilmesi gerektiğini belirliyor. Kıyafet seçimi, sitede görevli kişilerin yarıdan çoğunun aynı kıyafette karar kılmasıyla yapılıyor. 
+Çin Bilim Akademisi ve Ulusal Singapur Üniversitesi'nin yürüttüğü ortak çalışma, "New Scientist" bilim dergisinde yayımlandı.

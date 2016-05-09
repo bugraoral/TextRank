@@ -1,0 +1,28 @@
+Korkmayın meme ağrısı kanser işareti değil!
+ 
+ Hazırlayan: Özgür Gökmen Çelenk
+  
+ Liv Hospital Medikal Onkoloji Uzmanı Prof. Dr. Yeşim Eralp anlattı: 
+ Doktorlara göre; dikkatli olmanız gereken belirtiler şunlar: Ele gelen kitle, bir memede anormal büyüme, sarkma, meme başında pullanma, kaşıntı, kanlı akıntı... 
+ Meme kanseri riski kimlerde yüksek?
+  
+ Yaş: Meme kanseriyle en sık 50 yaşında karşılaşıyoruz. Genetik yatkınlık: Ailede meme kanseri varsa, daha önce bu hastalığı geçirdiyseniz riskiniz daha yüksek. 
+ Memedeki yapısal değişiklikler: Habis olmayan meme hastalıkları ailede meme kanseri olup olmamasına bağlı olarak riski artırabiliyor. 
+ Çevresel etkenler: Örneğin radyasyon oranı yüksek bir ortamda yaşıyorsak riskimiz daha fazla. 
+ İlk adet yaşı: Erken adet görmek ya da menopoza geç girmek meme kanseri nedeni olabiliyor. 
+ İlk doğum yaşı: Genellikle 20 yaşın altında doğum öneriliyor. İlk doğum yaşı arttıkça kanser oranı artıyor. 
+ Hormon tedavileri: Menopoz sonrası dönemde hormon tedavisi kullanmak riski artırabiliyor. Kötü beslenme, şişmanlık ve hareketsizlik. 
+ Ailede kanser hikayesi her durumda risk midir? 
+  
+ Hayır. Ailenizde 50 yaşından sonra görülen meme kanseri genetik riski ifade etmez. Ancak özellikle birinci ve ikinci derece akrabalarda meme ve yumurtalık (over) kanseri varlığı bizim için uyarıcı. Özellikle de 2 veya daha fazla birinci ve ikinci derece akrabada meme ve yumurtalık kanseri olursa... Ya da tek bir akrabanızda 50 yaşın altında (menopoz öncesi) meme veya yumurtalık kanserini önemsiyoruz. Yine bir erkek meme kanserli akrabanız varsa genetik geçişli meme, yumurtalık kanseri açısından risk altında olabilirsiniz. Bu grupta yer alan bireylerde yaşam boyu meme kanseri gelişme riski yüzde 80’lere ulaşabiliyor. Bunların da ötesinde bazı ailelerde sarkomlar, rahim kanseri, beyin kanserleri veya bağırsak kanserleri de meme kanserleriyle birlikte bulunabilir. 
+ Mamografi yaptırmaya ne zaman başlanmalı? 
+  
+ Meme kanseri riskini azaltmak için öncelikle 20’li yaşlardan itibaren her ay kendi kendine meme muayenesi ve 30’lu yaşlardan itibaren bir hekim kontrolünde yıllık meme kontrolleri yapılması gerekir. Çünkü nadir de olsa 25-26 yaşından sonra da meme kanseriyle karşılayabiliyoruz. Bunun dışında 40 yaşından itibaren yıllık mamografi yaptırmak lazım. Ailede meme kanseri varsa mamografinin ultrasonla birlikte 30’lu yaşlardan itibaren başlaması, kontrollerin bazen MR’ı ile desteklenmesi gerekiyor. 
+ Korunmak için neler yapmalıyız? 
+  
+ Beslenme meme kanserini yüzde 30 oranında etkileyebiliyor. Korunmak için bol lifli, yağsız gıdalarla beslenmek, alkolü azaltmak, düzenli spor yaparak sağlıklı kiloya inmek gerekiyor. Son yıllarda kanda D vitamini düzeyi az bulunan bireylerde meme kanseri riskinin arttığına dair veriler var. Yeterli D vitamini düzeyinin sağlanmasının riski azaltabildiği ifade ediliyor. 
+ Nelerden uzak durmalı?
+  
+ Şekerin fazla alınması vücudun yağ oranını ve kanser hücreleri için bir büyüme faktörü olan insülin hormonunu artırır. Bu durum meme kanserini tetikleyebilir. Hiçbir şeker türü birbirinden farklı değil. Beyaz, kahverengi şeker, mısır şurubu veya meyve şekeri (fruktoz) ve balın da fazla tüketilmesi tehlikeli. Kanser ve kalp hastalıklarından korunmada 5 tip besin maddesi ön plana çıkıyor: Ceviz, nar, koyu yeşil sebzeler, brokoli, karnabahar ve Brüksel lahanasının yer aldığı krusifer sebzeler; kırmızı et yerine haftada 2-3 kez balık; tercihen somon balığı. 
+ BU BELİRTİLERE DİKKAT! 
+ Paging.create(2, 1);

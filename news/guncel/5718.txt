@@ -1,0 +1,17 @@
+BTK'dan cep kaydı uyarısı
+Bilgi Teknolojileri ve İletişim Kurumu (BTK), cep telefonları ve elektronik kimlik bilgisine sahip cihazların kayıt işlemlerinde usule aykırı işlemlerle vatandaşların mağdur edildiğini bildirdi.
+BTK'nın internet sitesinde yayımlanan basın açıklamasında, yurt dışından yolcu beraberinde getirilen cep telefonları ve sim kart takılarak kullanılan elektronik kimlik bilgisine sahip diğer cihazların kullanılabilmesi için kayıt işlemi yaptırılması gerektiği belirtildi.
+
+Söz konusu cihazların IMEI kayıt işlemleri, e-devlet kapısı (www.turkiye.gov.tr) üzerinden ve mobil işletmecilerin abone kayıt merkezleri tarafından gerçekleştirildiğinin ifade edildiği açıklamada, sim kart takılarak kullanılan cihazlarının mobil sistemde kullanabilmesine imkan veren kayıt işlemi için yurda giriş tarihinden itibaren 1 ay içinde pasaportun aslıyla mobil işletmecilerin abone kayıt merkezlerine başvurulması gerektiği kaydedildi.
+
+Açıklamada, 15 Haziran 2012 tarihinden sonra yapılan kayıt işlemlerinde ayrıca vergi daireleri veya bankalara 115 lira harç ödenmesi ve harcın ödendiğine ilişkin makbuzun aslının abone kayıt merkezine teslim edilmesi gerektiğine dikkati çekilerek, şunlar kaydedildi:
+
+'(Diplomatik pasaporta sahip yabancı kişiler hariç) Kurumumuza gelen ihbar ve şikayetlerden, cep telefonları ve elektronik kimlik bilgisine sahip diğer cihazların kayıt işlemlerinde usule aykırı işlemlerle vatandaşlarımızın mağdur edildiği anlaşılmaktadır. Ülkemize kaçak yollardan getirilen cihazların belirli bir ücret karşılığında yasal olmayan yöntemlerle geçici olarak kayıt altına aldırıldığı Kurumumuz tarafından tespit edilmektedir. Bu gibi durumlarda kayıt işlemine esas evrakların Kurumumuzda kontrol edilmesinden sonra uygunsuz yapılan kayıt işlemlerine ait cihazlar tekrar siyah listeye alınmakta ve kullanıma kapatılmaktadır. Uygunsuz kayıt işlemini yapan abone kayıt merkezleri Cumhuriyet savcılıklarına bildirilmektedir.'
+
+Açıklamada, vatandaşların suistimallerle karşı karşıya kalmamaları ve mağdur olmamaları için yurt dışından başkaları tarafından yolcu beraberinde getirilen kayıt işlemleri gerçekleştirilmemiş cihazları ya da tanımadıkları kişiler adına kayıt yapılmış cihazları satın almamaları konusunda uyarıda bulunuldu.
+
+Başkalarının resmi belgelerini kullanarak kayıt işlemi yaptırmamaları gerektiğine işaret edilen açıklamada, şu ifadelere yer verildi:
+
+'Kendileri tarafından getirilen cihazların kayıt işlemlerini e-devlet üzerinden ya da abone oldukları GSM işletmecisine bağlı abone kayıt merkezleri vasıtasıyla yapmaları, kayıt işleminin tamamlanıp tamamlanmadığını 'www.mcks.gov.tr' adresinden cihazın IMEI numarasının sorgulanması suretiyle kontrol etmeleri büyük önem taşımaktadır.'
+
+Açıklamada, cep telefonu ve benzeri cihazların kayıt işlemleriyle kaybolma ve çalınma durumları hakkında '0 312 232 23 23' ve '444 9 777' numaralı çağrı merkezi aracılığıyla bilgi alma ve açma-kapama işlemlerini yaptırma imkanı bulunduğu vurgulandı.

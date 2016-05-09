@@ -1,0 +1,6 @@
+Alo ölümüz var
+Sağlık Bakanlığı, vatandaşların bürokratik işlemlerle uğraşmamaları için cenazelerin bildirileceği tek bir telefon hattı belirleyecek.
+Böylece tüm işlemler sağlık bakanlığının kontrolünde ve daha kısa sürede yapılabilecek. 
+
+ÖLÜM BİLDİRİM SİSTEMİ
+Türkiyede ölüm belgesinin manuel doldurulmasının sadece istatistiklere geçerken elektronik ortama aktarılmasının bazı sıkıntıları da beraberinde getirdiğini tespit eden Sağlık Bakanlığı, bu nedenle Ölüm Bildirim Sistemi - ÖBS geliştirdi. Tüm belediyeler ve sağlık kuruluşları artık ÖBSyi kullanabilecek ve bilgi paylaşımı daha hızlı olacak. Mesai saatleri dışında gerçekleşen ölümler de hemen elektronik ortama aktarılabilecek ve bilgiler daha sağlıklı olacak. Hazırlanan bilgiler ise kısa sürede TÜİKe bildirilecek.

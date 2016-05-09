@@ -1,0 +1,8 @@
+Gupse Özay Beyaz'ı öyle bir işletti ki!
+Yalan Dünya dizisinde Nurhayat karakteriyle bir anda Türkiye'nin en çok konuşulan ve sevilen oyuncuları arasına giren Gupse Özay canlı yayında rol arkadaşı Beyazıt Öztürk'ü işletti 
+ Beyaz'ın büyük bir hayranı olarak telefona bağlanan Özay, sesini öyle bir değiştirdi ki arayanın Gupse Özay olduğunu ne yakın arkadaşı Beyazıt Öztürk anlayabildi ne de ekran başındakiler
+ 
+ Hayranlığı nedeniyle sesine ağlamaklı bir ses veren Gupse Özay'ın Beyaz sevgisi Beyazıt Öztürk'ü duygulandırdı. Böyle durumlarda çok mutlu olduğunu söyleyen Beyazıt işletildiğini uzun bir süre anlayamadı. 
+ İŞTE O DAKİKALAR
+  
+    startFlvPlayer_Posta("divFlvPlayer8403","8403","201212","8403-4.jpg");

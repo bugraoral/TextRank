@@ -1,0 +1,4 @@
+Bombacı Pogba!
+ 
+ İtalya Serie A 21. hafta mücadelesinde Juventus, sahasında konuk ettiği Udinese'yi 4-0 mağlup etti. Siyah-beyazlı takımda forma giyen Paul Pogba, uzak mesafeden attığı 2 müthiş golle maça damga vurdu. 
+ startFlvPlayer_Posta("divFlvPlayer8741","8741","201301","8741-8.jpg");

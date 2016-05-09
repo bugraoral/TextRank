@@ -1,0 +1,15 @@
+Popüler uygulamaya şok saldırı
+Popüler not alma uygulamalarından Evernote da hackerlardan nasibini aldı ve Apple'ın ardından hacker'ların saldırısına uğradı.
+Evernote'a kayıtlı binlerce hesap hacklenirken şirketten yapılan açıklamada saldırıda kullanıcıların kişisel bilgilerinin zarar görmediği belirtildi ve kullanıcıların şifrelerini değiştirmelerini tavsiye etti.
+
+Saldırı sonrası yaklaşık 50 milyon Evernote hesabına bağlı şifre resetlenirken, şirketin kullanıcıların bilgilerini korumak maksadıyla bu yöntemi kullandığı dile getirildi.
+
+SALDIRI NASIL OLDU
+
+Hacker'lar Evernote'un güvenlik duvarını aşarak kullanıcıların e-posta adres ve şifreleri gibi kişisel bilgilerine ulaşmak istedi. Ancak Evernote güvenlik uzmanlarının saldırıyı erkenden fark etmesi kullanıcıların mağdur olmasının önüne geçti ve 50 milyon hesabın şifresi resetlendi. Kullanıcıların hesaplarına bağlı şifrelerini yeniden belirlemeleri ve güçlü bir şifre oluşturmaları gerekiyor.
+
+GÜÇLÜ ŞİFRE NASIL OLUŞTURULUR
+
+Güçlü şifre oluşturmanın ilk şartı kullanıcı hesabınız nereden olursa olsun, bu şifrelerinizi olabildiğince uzun tutmaktır. Örneğin sadece 3-4 harf ya da rakamın kullanılmasıyla oluşturulan şifrelerin pratikte kullanıcılara hiçbir faydası yoktur ve bu tür şifrelerin çalınma olasılığı oldukça yüksektir.
+
+Bunun dışında şifre oluştururken şifrelerin içerisinde @ gibi özel sembollerin kullanılması da şifrelerin güvenliğini olabildiğince artıracaktır. Elbette şifrelerin sadece harf veya rakamlardan oluşması da şifrelerin güvenilir olduğunu göstermez. Bu nedenle harf ve rakamların bir arada bulunduğu ve "@" gibi özel sembollerin de kullanıldığı uzun şifrelerin güvenilirliği her zaman yüksektir ve hacker'ların bu tür şifreleri ele geçirmesi pratikte oldukça güçtür.

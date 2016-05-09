@@ -1,0 +1,16 @@
+Maliye'ye bilgi verilecek
+Enerji Piyasası Düzenleme Kurumu'ndan (EPDK) lisans alan elektrik ve doğalgaz dağıtım şirketleri ve Organize Sanayi Bölgesi (OSB) tüzel kişiliklerinin, elektrik ve doğalgaz abone ve tüketim bilgilerini Maliye Bakanlığı'na vermesi zorunlu oldu. Maliye Bakanlığı'nın Resmi Gazete'nin bugünkü sayısında yayımlanan Vergi Usul Kanunu Genel Tebliği'nde, kayıtdışılığın Türkiye'nin önemli ekonomik sorunlarından biri olduğu belirtilerek, kayıt dışı ekonomiyle mücadelede başarı sağlanabilmesinin kamuoyu başta olmak üzere tüm kesimlerin desteğine, ilgili tüm kurum ve kuruluşların katkıları ile hazırlanan etkin izleme ve değerlendirme sisteminin oluşturulmasına bağlı olduğuna yer verildi.
+
+Vergi Usul Kanunu'nun "Bilgi Verme" başlığını taşıyan 148'inci maddesinde "Kamu idare ve müesseseleri, mükellefler veya mükelleflerle muamelede bulunan diğer gerçek ve tüzel kişiler, Maliye Bakanlığı'nın veya vergi incelemesi yapmaya yetkili olanların isteyecekleri bilgileri vermeye mecburdurlar" hükmünden dayanağını alan Tebliğe göre, abone bilgileri (mevcut, yeni tesis edilen, değişen veya kapanan abonelere ilişkin abonelik bilgileri) ile tüketim bilgilerinin elektronik ortamda Maliye Bakanlığı Gelir İdaresi Başkanlığı Bilgi Transfer Sistemi (BTRANS) aracılığıyla gönderilmesi zorunluluğu getirildi.
+
+Kişi ve kuruluş bazında veya işlem türüne göre istenecek bilgilere ilişkin format ve standartlar Maliye Bakanlığı tarafından (BTRANS aracılığıyla) duyurulacak. 
+
+Bilgi verme formatında ve standartlarında yapılacak ekleme, çıkarma, zorunlu alan olarak belirleme gibi değişiklikler de ayrıca Maliye Bakanlığı tarafından açıklanacak.
+
+Mevcut, yeni tesis edilen, değişen veya kapanan abonelik bilgileri ile elektrik ve doğalgaz tüketim bilgilerinin elektronik ortamda gönderilmesi zorunlu olup, kağıt ortamında verilen bilgiler hiçbir şekilde kabul edilmeyecek. 
+
+Belirlenecek işlemlere muhatap veya taraf olan kişiler, vergi kimlik numaraları olmadığı takdirde, işlemlerin tamamlanmasından önce vergi kimlik numarası almak zorunda olacak.
+
+EPDK'dan elektrik dağıtım lisansı alan şirketler ve OSB tüzel kişilikleri ile doğalgaz dağıtım lisansı alan şirketler, iş yerleri için tesis edilecek elektrik ve doğalgaz abonelik taleplerinde iş yeri abone işlemi tesisini yapmadan ve sözleşme düzenlemeden önce iş yeri aboneliği yaptıracak kişinin vergi mükellefiyetinin bulunup bulunmadığını elektronik ortamda (Gelir İdaresi Başkanlığı internet sitesi) sorgulayacak.
+
+EPDK'dan lisans alan elektrik ve doğalgaz dağıtım şirketleri ve OSB'lerin, 1 Ocak 2013'ten itibaren iş yeri elektrik ve doğalgaz tüketim bilgileri, tüketim bilgilerinin okunduğu dönemi takip eden ayın 14'üncü günü saat 24.00'e kadar elektronik ortamda gönderilmesi gerekiyor.

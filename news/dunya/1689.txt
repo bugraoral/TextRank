@@ -1,0 +1,12 @@
+İsrail yarın sandık başında
+ 
+ Kamuoyu araştırmaları, toplam 34 partinin yarışacağı genel seçimlerde Başbakan Binyamin Netanyahu’nun favori olduğunu gösteriyor. Seçimlere ortak listeyle girme kararı alan Netanyahu ile Dışişleri Bakanı Avigdor Lieberman’ın liderliğindeki aşırı sağcı ikili blokun, halihazırda Knesset’teki 42 sandalye sayısına karşılık, yarın yapılacak genel seçimlerde en fazla 32 sandalye çıkarması bekleniyor. Netanyahu’nun liderliğindeki Likud ile hakkındaki yolsuzluk iddiaları nedeniyle Dışişleri Bakanlığı’ndan istifa eden Avigdor Lieberman’ın partisi Yisrael Beitenu (İsrail Evimiz), seçime ortak listeyle gitme kararı almıştı. 
+ NETANYAHU ÖNDE
+  
+ Koalisyon ortağı Lieberman ile kurduğu ’Likud-Beitenu’ bloğuyla seçmenin karşısına çıkan Netanyahu’nun, yapılan kamuoyu yoklamalarında önde gitmesine karşın, alabileceği oy ve çıkaracağı sandalye sayısının halen sahip olduğundan daha az olacağı belirtiliyor. Buna karşın Netanyahu’nun hükümeti kurma görevini bu şartlarda da Cumhurbaşkanı Şimon Peres’ten alarak hükümeti kuracak gücü elde etmesi muhtemel görünüyor. 
+ 
+ ULUSAL GÜVENLİK DAMGA VURDU 
+ Başbakan Netanyahu, seçim kampanyasını tamamen ulusal güvenlik ve İran’dan kaynaklanan ’nükleer tehdit’ üzerine kurdu.
+ Son yapılan kamuoyu araştırmaları, 120 sandalyeli İsrail meclisinde sağ partilerin 63, sol partilerin ise 57 sandalye çıkaracağını gösteriyor. 2009 yılında yapılan son seçimlerde ise buna benzer şekilde sağ kanat 65, sol kanat ise 55 sandalye çıkarmıştı. 2006 seçimlerinde seçmen, sol kanadı 70, sağ kanadı ise 50 sandalye ile meclise taşımıştı. Bu durum son yıllarda İsrail seçmeninin önemli ölçüde soldan aşırı sağa doğru kaydığına işaret ediyor. Siyasi analistler, İsrail halkının siyasi tercihlerindeki bu değişimin sebebini, İsrail aşırı sağının, toplumu, son yıllarda ciddi bir güvenlik problemiyle karşı karşıya olduğuna inandırmalarına bağlıyor. 
+ Yapılan son anketler doğrultusunda sandıktan yarın çıkması beklenen tablo şu şekilde: 
+ Paging.create(3, 1);

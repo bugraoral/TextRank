@@ -1,0 +1,34 @@
+Piyasalar güne böyle başladı
+Serbest piyasada bu sabah itibarıyla 1,7958 TL'den alınan dolar 1,7967 TL'den satılırken, 2,3272 TL'den alınan Euro'nun satış fiyatı ise 2,3282 TL olarak gerçekleşiyor. Euro-dolar paritesi 1,2958 seviyesinde.
+ İstanbul serbest piyasasında işlem gören dolar, Euro, Sterlin, Japon Yeni, Suudi Arabistan Riyali ve diğer para birimlerinin sabah saatlerindeki açılış fiyatları şöyle:
+ Döviz Cinsi   Alış   Satış   Günlük fark (Yüzde)
+ ABD Dolari (Serbest Piy) 1,7958 1,7967 0,26
+ Euro (Serbest Piy) 2,3272 2,3282 0,03
+ Avusturalya Dolari (Serbest P) 1,8720 1,8820 0,05
+ Kanada Dolari (Serbest Piy) 1,8040 1,8140 0,22
+ Isvicre Frangi (Serbest Piy) 1,9323 1,9343 0,14
+ Danimarka Kronu (Serbest Piy) 0,3109 0,3120 0,13
+ Ingiliz Sterlini (Serbest Piy) 2,8766 2,8792 0,18
+ 100 Japon Yeni (Serbest Piy) 45,6550 45,7550 -0,29
+ Norvec Kronu (Serbest Piy) 0,3156 0,3168 0,06
+ Saudi Riyali (Serbest Piy) 0,4775 0,4802 0,06
+ Isvec Kronu (Serbest Piy) 0,2698 0,2709 0,07
+ 
+ - Borsa güne alıcılı başladı
+ stanbul Menkul Kıymetler Borsası (İMKB) Ulusal 100 Endeksi, güne alıcılı başladı.
+ Bileşik Endeks, ilk seansın başlarında 179,45 puan artışla 71183,76 puan seviyesinde başladı. Hisse senetleri ortalama yüzde 0,25 oranında değer kazandı.
+ - Dünya borsalarında sabah saatlerinde son durum
+ İstanbul Menkul Kıymetler Borsası (İMKB) Ulusal 100 Endeksi'nin yüzde 0,25 değer kazandığı günün ilk saatlerinde bazı ülkelerin borsalarında son durum şöyle oluştu:
+ Borsa Endeks Değişim Değeri (Yüzde)
+ DJ Industrial (End of day) 13,01 1,35
+ Dax Performance (Delayed) 7,31 0,89
+ Nikkei 225 (Delayed) 9,39 0,24
+ FTSE 100 London (End of day) 5,82 0,49
+ DJ Future (Delayed) 12,94 -0,17
+ DAX Future (Delayed) 7,30 -0,10
+ SP500 Future (Delayed) 1,40 -0,25
+ CAC, Paris (Delayed) 3,53 0,87
+ Russia RSI Index (Delayed) 1,43 0,18
+ Bovespa, Sao Paulo 57,57 2,01
+ CİHAN
+  

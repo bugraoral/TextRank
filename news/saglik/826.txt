@@ -1,0 +1,4 @@
+Her aşının kimlik numarası olacak
+Her aşının bir kimlik numarası olacak. Sağlık Bakanlığı, aşı güvenliğini en üst seviyeye çıkartmak için ''aşı takip sistemi'' kuracak. İlaç takip sisteminde olduğu gibi her aşıya ''karekod'' denilen bir kimlik numarası verilecek. Bu sayede aşılar her aşamada izlenebilecek, bir çocuğa hangi aşının yapıldığı anında belirlenebilecek. Aşının nakli ve korunması sırasında sahip olması gereken ısı da merkezden takip edilecek.
+
+Sistem sayesinde hem aşıların ısı değişimlerinden zarar görüp israf edilmesinin önüne geçilecek hem de insan kaynaklı hataların sıfıra inmesi sağlanacak.

@@ -1,0 +1,9 @@
+Akıllı telefonla idrar tahlili
+Akıllı telefonların kameraları üzerinden idrar tahlili yapan ve bir dizi tıbbi durumu analiz edebilen bir uygulama, Los Angeles'taki TED konferansında tanıtıldı.
+25 sağlık sorunuyla ilgili inceleme yapabilen ve sorunları teşhis edebilen ''Ucheck'' adlı test, Teknoloji, Eğitim ve Tasarım'dan (TED) Myshkin Ingawale tarafından geliştirildi. 
+BBC'ye konuşan Ingawale, "tıbbi testlerin kullanıcıların ellerinde olması gerektiğini" söyledi. 
+Uygulama ile idrarda glikoz, protein ve nitritler de dâhil olmak üzere 10 elementin değerlendirmesi yapılabiliyor. Bu testler, şeker hastalığı, idrar enfeksiyonu, kanser ve karaciğer sorunlarının yanı sıra genel sağlık sorunlarının tespiti için de kullanılıyor. 
+Fiyatı 20 dolar civarında olan uygulamayı satın alanlara bir adet özel zemin (mat) ve beş adet test şeridi gönderiliyor. 
+Testler için kullanıcılar, idrarlarını topladıkları kabın içine standart test şeridi batırıyor. Ardından bu şerit uygulama tarafından sağlanan matın üzerine yerleştiriliyor. Bu mat ışık ve aydınlanma koşullarından bağımsız olarak renklerin normalleştirilmesi işlevini görüyor. Bu şeridin çekilen fotoğrafları, uygulama tarafından incelenerek sonuçlar elde ediliyor. 
+Apple'ın uygulama mağazasından mart sonu itibariyle satın alınabilecek olan Uncheckin yakında Android versiyonu da çıkarılacak.  
+Uygulamanın bireysel kullanım dışında, Hindistan'ın Mumbai kentindeki King Edward Memorial hastanesi gibi yerlerde de kullanılması planlanıyor. Uygulamanın güvenilirliği bu profesyonel ortamlarda, laboratuvar makineleriyle yan yana kullanılarak tespit edilecek. Ingawale, "Sonuçların olumlu olması durumunda, uygulamanın mobil kliniklere de sunulması bekleniyor" dedi.

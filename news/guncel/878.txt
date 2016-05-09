@@ -1,0 +1,13 @@
+Vatandaş, adli davalarını cep telefonundan takip ediyor
+Adalet Bakanlığı'nın başlattığı uygulama ile vatandaşlar, artık adli davalarını cep telefonu üzerinden takip edebiliyor. Vatandaşların ve avukatların davalarını cep telefonları üzerinden anında takip edebilmeleri için Adalet Bakanlığı'nca kurulan 'UYAP SMS Bilgi Sistemi' abone sayısı 900 bini aştı.
+UYAP'ın amacı; hızlı, etkin, güvenilir, adil, verimli, şeffaf ve etik değerlere uygun bir yargılama mekanizması oluşturulması, doğru ve tutarlı bilginin mevzuatın tanıdığı yetkiler çerçevesinde, istenilen zamanda hızlı ve kolayca elde edilmesi ve paylaşımı, her türlü idari faaliyetlerin hızlı ve etkin bir şekilde yürütülebilmesi.
+
+Adli ve idari mahkemeler ile icra daireleri gibi birimlerce gerçekleştirilen işlemler, onaylandıkları anda otomatik olarak ilgili kişilere SMS olarak gönderiliyor. Bu suretle yargı işlem bilgileri, taraflara zaman ve mekân sınırı olmadan en hızlı şekilde bildirilmesi, bilgilere her an her yerden ulaşılabilmesi sağlanıyor, vatandaşların hak kaybına uğraması engelleniyor.
+
+YARGILAMA ŞEFFAF HALE GELİYOR
+
+Yeni sistem ile yargılama aşamasının tüm süreci şeffaf hale geliyor. Şeffaflık sayesinde otomatik denetim sağlanıyor ve yargılama aşamasındaki bir işlemden, aracısız olarak önce vatandaşın kendisinin haberi olması sağlanıyor. Vatandaşlar ve avukatların adliyelere giderek, ilgili oldukları dosya ya da işlemler hakkında bilgi almak için harcadıkları zaman, emek ve masrafı ortadan kaldırarak, yargıya etkin erişim sağlanıyor, yargı birimlerinin ilgili iş için harcadığı iş gücü kaybı da engelleniyor.
+
+Vatandaşların veya avukatların cep telefonları üzerinden kendilerince yapılabilen abonelikler şöyle: Pakete abone olmak için; açılacak bir SMS mesajının içeriğine TC Kimlik No Abone yazılarak 4060'a gönderilebiliyor. Eğer dosyadaki tüm taraflar ve tüm hareketlerden haberdar olmak isteniyorsa, abone olurken, abone kodunun başına 'Tam' eklenmesi gerekiyor. 
+
+Cep telefonları üzerinden kendilerince yapılabilen aboneliklerde, abonelik yapılacak cep telefonunun kendi adına kayıtlı olması zorunlu. Bu sistem, tüm cep telefonu operatörleri için aynı. Kamu hizmeti amacıyla hayata geçirilen hizmetin, sürekliliğini sağlayabilmek, sistem performansını lüzumsuz kullanımlarla düşürmemek için, UYAP tarafından kullanıcıya gönderilen bilgi SMS'leri 1 TL (vergiler dahil) olarak ücretlendiriliyor. Ayrıca, vatandaşlara ve avukatlara gelen SMS bilgi içerik detaylarını, yargı birimlerine gitmelerine gerek kalmadan ulaşabilmeleri için 'UYAP Vatandaş ve Avukat Portalları' kuruldu.

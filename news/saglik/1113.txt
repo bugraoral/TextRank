@@ -1,0 +1,31 @@
+Mide ağrısını önemseyin
+ 
+ Tıbbi Onkoloji Uzmanı Prof. Dr. Mustafa Özdoğan anlattı: 
+ Mide kanserinin sebepleri nelerdir? 
+  
+ Vakaların önemli bir kısmı 35 yaşın üzerindedir. Yani orta ve ileri yaş hastalığı. Riski artıran etkenleri şöyle sıralayabiliriz: 
+ -Helikobakter pilori mikrobunun midede uzun süre var olması ve tedavi edilmemesi. 
+ - C ve A vitamininden yoksun beslenme alışkanlıkları. 
+ - Tuz içeriği yüksek olan besinler. 
+ - Tütsülenmiş etler, rafine edilmiş besinler ve yanmış yağların tüketimi. 
+ - Yüksek katkı maddesi (nitrat) içeren gıdalar. 
+ - Sağlıksız içme suyu kullanımı. 
+ - Gıda saklamak için soğutma sistemlerinin kullanılmaması. 
+   -Sigara kullanımı. 
+ - Antibiyotik ve ağrı kesici kullanımı ile birlikte midenin koruyucu bariyerini bozan her türlü ilaç, midede zarara neden olabilir. Bu hasar uzun süre devam ederse kansere yol açabilir. 
+ Mide ülseri öyküsü mide kanseri için risk faktörleri arasındadır. Belirtileri neler?
+  
+ Büyük bölümü erken dönemde belirti vermez. Bazen mide ülserinde olduğu gibi yanma, ekşime, mide ağrısı gibi şikayetler ortaya çıkabilir. Bazen de tümör, kanayarak mide ve bağırsak kanaması şeklinde kendini gösterebilir. Bu şikayetlerin görüldüğü hastalar tümörün erken dönemde tespit edilmesine olanak tanıdığı için şanslıdır. Çünkü mide kanserleri genellikle metastaz dönemine kadar hiçbir belirti vermez. Midede gıda akışının engellenmesi ya da hastalığın ilerlemesi durumunda bazı belirtiler ortaya çıkar. Yemeklerden sonra şişkinlik, hazımsızlık ve doygunluk hissi ortaya çıkabilir. Mide kanserli hastalarda ileri evrede; mide bulantısı, kusma, mide ya da bağırsakta kanamalar, sırta vuran ağrılar olabilir. Hastalarda iştahsızlığa bağlı olarak kilo verme görülebilir. Halsizlik ve yorgunluk oluşabilir. 
+ Başka hastalıklarla karıştırılıyor mu? 
+  
+ Gastrit’te (mide iltihabı) görülen mide ağrısı, midede şişkinlik hissi gibi belirtiler mide kanserini taklit edebilir. Midede şişkinliğin ve ağrının gastrite bağlanarak önemsenmemesi, sık karşılaşılan bir durumdur. Ancak bu belirtiler mide kanseri belirtileri ile benzerlik gösterdiği için mutlaka endoskopi ile takibi gereklidir. Bazı durumlarda midenin iltihabı hastalıkları mide kanserini baskılayabilir. 
+ Korunmak için neler yapılmalı? 
+ -Erken dönemde belirti vermediği için mide sorunu yaşıyorsanız düzenli endoskopi yaptırın. Şikayet yoksa 50 yaşından sonra her 5 yılda bir endoskopi yaptırın. 
+ - İlaç alımı konusunda dikkatli olun. Sağlıklı beslenir ve kaliteli bir yaşam sürerseniz, mide salgısı sürekli kendini yeniler. Böylece mideniniz hasar görmez. 
+ -Mide kanserinin en çok görüldüğü ülkeler, çiğ et tüketiminin yaygın olduğu Uzakdoğu ülkeleridir. Bu nedenle pişmemiş etler, suşi, tütsülenmiş etler ve pişmemiş sıcak gıdaların tüketiminden uzak durun. 
+ - Konserve gıdalar yerine dondurulmuş ya da taze gıdaları tercih edin. 
+ - Süt ürünlerinde güvenilir markaları tercih edin. Cam şişe içindeki içecekleri tercih edin. Özellikle sıcakta kalan plastik şişelerden uzak durun. 
+ - Kırmızı etten daha çok beyaz et ve balık tercih edin. Ancak beslenmenizden kırmızı eti tamamen çıkarmayın. 
+ - Stres ve gerginlik, mide ve bağırsak hastalıklarını tetikler. Stres, bağışıklık sistemini de baskılar. Stresle birlikte gelen sigara, alkol gibi kötü alışkanlıklar da mide kanserine zemin hazırlar. Bu nedenle stres kontrolü çok önemli. 
+ Hazır gıdalar kolon kanserini tetikliyor 
+ Paging.create(2, 1);

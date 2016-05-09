@@ -1,0 +1,5 @@
+Top yere değmedi bile...
+Önceki gün oynanan Lokeren - Standard Liege maçında Ayanda Patosi'nin nefis golü herkesi şaşkına çevirdi 
+ Belçika'da Lokeren ile Standard Liege arasında oynanan maçta, ev sahibi ekibinin başarılı ismi Ayanda Patosi attığı harika gol ile izleyenleri kendine hayran bıraktı. 
+ startFlvPlayer_Posta("divFlvPlayer8146","8146","201211","8146-4.jpg");
+  

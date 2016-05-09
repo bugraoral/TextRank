@@ -1,0 +1,19 @@
+Öğrencilere SMS'li takip
+Öğrencilerin ders notlarından devamsızlıklarına kadar birçok bilgi, velilere kısa mesajla gönderilecek. Milli Eğitim Bakanlığı'nca kurulan '8383 Mobil Bilgi Servisi'ne isteyen veli kayıt yaptıracak, bilgiler bu velilerin cep telefonlarına gelecek.
+Bakanlık, '8383 Mobil Bilgi Servisi'ni hayata geçirdi. Servisle resmi ve özel okullardaki öğrencilerin e-okul sistemine girilen devamsızlık, sınav tarihleri, sınav sonuçları, karne notları, diploma notu, nakil ve okul kaydıyla ilgili veriler, kısa süre içinde mesajla velilere bildirilecek.
+
+Açıköğretim ortaokulu öğrencilerinin sınav sonuç bilgileri, sınav yeri, ders seçim bilgisi, mezuniyet ve diploma notları, açıköğretim lisesi öğrencilerinin ise sınav sonuç bilgileri, sınav yeri ve tarih bilgileri, ders seçim bilgileri, sınav merkezi değişikliği, öğrencilerin genel durum bilgileri sistem sayesinde velilere gönderilecek.
+
+-Devamsızlık en geç bir saatte cepte-
+
+Servisten yararlanmak isteyenlerin, cep telefonundan eğitim bilgilerini almak istedikleri öğrencinin TC kimlik numarasını yazarak 8383'e mesaj göndermeleri gerekiyor. Mobil bilgi servisine bütün GSM operatörlerinden üye olunabiliyor.
+
+Servis için aynı telefon hattı üzerinden birden fazla üyelik de yapılabiliyor. Bunun için de eğitim bilgileri alınmak istenen öğrencilerin TC kimlik numaralarının ayrı ayrı 8383'e mesaj atılması gerekiyor. Üyeliğini iptal etmek isteyenlerin cep telefonundan 'IPTAL' yazarak 8383'e göndermeleri yeterli olacak. Servisin aylık üyelik ücreti, tüm vergiler dahil 2 lira olarak belirlendi. Servis kapsamında aylık en fazla 30 kısa mesaj gönderilecek.
+
+Sisteme girilen bilgiler, belli zaman aralıklarında kısa mesaja dönüştürülerek GSM operatörlerince üyelere iletilecek. Özellikle sisteme girilen günlük devamsızlık bilgisi en geç bir saat içinde, öğretmenler tarafından girilen ders notları ise en fazla üç saat içinde velilere bildirilecek.
+
+-Bakan Avcı'dan genelge-
+
+Konuyla ilgili Milli Eğitim Bakanı Nabi Avcı imzasıyla yayımlanan genelgede, servisin üyelerine tatminkar içerik üretebilmesinin, veri girişlerinin zamanında, düzenli ve doğru yapılmasına bağlı olduğu vurgulandı.
+
+Bakanlığın e-Okul Veli Bilgilendirme internet adresinde yer alan açıklamalara ve sık sorulan sorulara verilen cevaplara göre tüm yöneticilerin, velilerin ve öğretmenlerin okul yönetimleri tarafından bilgilendirileceği belirtilen genelgede, mobil bilgilendirme işlemi Bakanlıkça merkezi olarak yapıldığından kurum müdürlüklerince SMS gönderim anlaşması yapılmayacağı uyarısında bulunuldu. Genelgede, 'Sistemlere bilgiler zamanında ve doğru olarak girilecek, tüm bilgiler güncel tutulacak, hatalı mesaj göndermenin önüne geçilecektir' ifadelerine yer verildi.

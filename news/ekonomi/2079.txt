@@ -1,0 +1,17 @@
+Yurt dışında yüksek lisans için kadroları yok
+ 
+ Hazırlayan: Çağrı Bilgin
+  
+ BAŞARISIZSAM ATIN
+  
+ Boş kadrolar da anestezi teknisyenleriyle dolduruluyor. Benim son görev yerim Bursa 400 yataklı Asker Hastanesi’ydi. Anestezi teknisyeni olarak uzman doktor olmadan Sarıkamış ve Bursa’da çalıştım. Ameliyathanede her cerrahi branşta çalıştım. Fakat uzmanım olmadığı için, birinci sicil amiri olarak mevcut cerrahlardan en kıdemli olanı sicilimi verdi. Ben kadro görevimi layıkiyle yaptığımı düşünüyorum. Mahkeme ve disiplin cezalarım da yok. Üstün sicili hak ediyordum. Benimle aynı sene mezun olmuş aynı sene hizmet yapmış arkadaşım üstün sicil aldığı için benden 450 TL gibi fazla emekli maaşı alıyor. Ben başarısız isem niye kadro görevini yapamaz diye beni ordudan atmadılar.
+   
+ Astsubayların kadro ve uzmanlaşmayla ilgili sıkıntıları üzerinde konuşmaya değer. Bir örnek ile başlayalım. Olay Yeri İnceleme Timi’nin ve ‘bombacı’ denilen patlayıcı madde imha uzmanı astsubayların parmak bastığı bir konu var. O sıkıntıyı bir başçavuş şöyle anlatıyor: “Ankara’nın nüfusu 4-5 milyon. Kırıkkale, Kırşehir yahut başka bir küçük ili ele alalım, nüfusu 50-60 bin, 100 bin olan. Kadrolarımız aynı. Olay Yeri İnceleme Timi’nin bu illerdeki kadrolarıyla bizimki aynı. Bizim burada müdahale ettiğimiz olayların kapsamı, sayısı oraların 3-4 katı ama kadrolar aynı. Bu konuda bir düzeltme yapılması hususunda müracaatlarımız var.” 
+ İL KÜÇÜK KADRO BÜYÜK
+  
+ ‘Başçavuş’un bu nazik ifadeli isteğini biz biraz açacak olursak; iller arasındaki kadro adaletsizliği giderilmeli. Her ilin nüfus ve olay potansiyeli dikkate alınarak güvenlik kadroları oluşturulmalı, diyebiliriz. Astsubay, jandarma bölgesindeki bomba ihbarlarına müdahale ettiklerini, ayrıca askeri birliklerdeki mühimmat imha işini de üstlendiklerini belirtiyor. Kadro sorununu anlatmak için konuya giren bir başka astsubay, kadrolardaki dengesizliğin yarattığı sorunları şöyle anlatıyor: “Orduda yaklaşık 95 bin astsubay 35 bin de subay var. Lojmanlar Ankara’da 1000 adet ise bunların 550’si subayların 400’ü astsubayların, 50’si de memurların. Kamu Konutları Kanunu’nda “yararlanmama şartı” olarak sadece bir hüküm bulunuyor. O da daha önce lojmandan yararlanmamış olmak şartı. 
+ “Yararlananlar puanlarına göre istifade eder” diyor. Sadece kanunda bir satırda, “TSK ihtiyaçları doğrultusunda yönetmelik çıkarır” denildiği için ve bu yönetmelikleri hazırlayanlar da subaylar olduğu için maalesef sonuç böyle oluyor. Nakdi ödüller yine yüzdelendirilmiş. Yaklaşık, yüzde 5 subay, yüzde 3 astsubay, yüzde 2 uzman erbaş olarak... Yurtdışında yüksek lisans için astsubaylara ayrılmış bir kadro bile mevcut değil. 
+ Yerinde dil eğitimleri için kadro astsubaya 1, subaya 5 şeklinde. Geziler için kadro yine adaletsiz 1 astsubaya 15 subay. Büyük karargahlarda astsubaydan çok subay mevcut. Mesai şartlarına gelince, gerçek anlamda kişiye hizmet ediliyor. Komutan özellikle sert ise kimse “hayır” diyemiyor. Yapılan işlem eksik veya yanlış olsa da.. “ 
+ ‘ANESTEZİ DOKTORU GİBİ ÇALIŞTIM’
+  
+ Paging.create(3, 1);

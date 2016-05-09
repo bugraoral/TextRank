@@ -1,0 +1,6 @@
+Bu sorgu yöntemi doğru mu?
+Bankalarda unutulan mevduat hesaplarını sorgulamak üzere açılan sistem yeni bir etik tartışmaya neden olacak gibi...
+ aksam.com.tr-ÖZEL
+ Zaman aşımına uğramak üzere olan mevduat, katılım fonu, emanet ve alacaklar, Türkiye Bankalar Birliği'nin (TBB) hizmete sunduğu 'http://www.zamanasimi.org/tbb' internet sitesinden takip edilebiliyor. Sitede yapılan sorgulamada adı ve hesap bilgilerini bulan kişilerin, hesaplarını kapatabilmeleri için 15 Haziran 2013’e kadar şubelerine başvurmaları gerekli. Şahsın başvurmaması durumunda, zaman aşımına uğrayacak tutarlar gelir kaydedilmek üzere TMSF'ye devredilecek.
+ AD-SOYAD YAZMAK YETERLİ
+ Ancak, sorgulama için siteye girildiğinde hiçbir güvenlik sorusu olmadan rastgele bir isim yazdığınız zaman da karşınıza bir liste çıkabiliyor. ‘Zamanaşımı sorgulama’ kısmına sadece ad-soyad yazıldığı anda, eğer o isimde kişiler varsa, ‘doğum tarihi, doğum yeri, banka adı, şube kodu, şube adı, hesap numarası, hesap tipi, hesap türü, birim, faiz, son işlem tarihi, tutar’ bilgilerine ulaşılabiliyor. Söz konusu hesaplar, unutulduğu için donmuş ve işlem yapılamayan hesaplar. Ancak yapı, herkesin bir başkasını da sorgulamasına imkan tanıyor.

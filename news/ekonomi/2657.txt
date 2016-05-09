@@ -1,0 +1,13 @@
+İşte en ucuz benzine ulaşılabilmenin yolu!
+Enerji Piyasası Düzenleme Kurumu (EPDK), tüketicilerin akıllı cep telefonlarıyla en ucuz akaryakıta ulaşılabilmesini sağlayacak bir program geliştirdi. Program sayesinde, Türkiye çapında 12 bin 870 adet lisanslı akaryakıt istasyonunun yeri ve istasyonlardaki anlık akaryakıt fiyatları, akıllı telefonlarda anında görülebilecek.
+AA muhabirinin edindiği bilgiye göre, EPDK, ios (iphone, ipad) ve android işletim sistemine sahip akıllı telefonlar sayesinde tüketicinin en ucuz akaryakıta ulaşılabilmesini sağlayacak program geliştirdi. Deneme ve geliştirme aşaması tamamlanan programın, yurt genelindeki tüm istasyonları kapsaması ve fiyatların güncellik taşıması bu anlamda dünyada bir ilk olacak. Uygulamanın ios sürümünün Nisan ayı başında uygulama mağazasında yerini alması planlanıyor. Ardından, android işletim sistemleri için hazırlanan sürümü de sanal mağazalarda yerini alacak.
+
+-Nasıl kullanılacak?-
+
+Program Harita, İstasyonlar ve Ayarlar, olmak üzere üç bölümden oluşuyor. 'Ayarlar' bölümünden istenilen 'Akaryakıt Türü' ve 'Dağıtıcı' seçimi yapılabilecek. Ayarlar sekmesi ile; karayolu araçlarında kullanılabilecek tüm benzin ve motorin türleri (5 farklı fiyat kategorisinde ürün bulunuyor) ve faaliyette bulunan tüm dağıtıcılar seçilebiliyor. Bu sayede kullanıcı isterse dağıtıcısını ve kullanacağı akaryakıt belirleyerek uygulamayı kendine özel hale getirebiliyor.
+
+Ayarların tamamlanmasının ardından uygulama bulunduğunuz konumu algılayarak belirli bir alan içerisindeki tüm akaryakıt istasyonlarını dağıtıcı logoları ile birlikte harita üzerinden kullanıcıya gösteriliyor. Harita üzerinde en uygun fiyatı sunan akaryakıt istasyonu diğerlerinden farklı renkte yer alıyor. Bu şekilde, şehir içi veya şehirler arası yollardaki tüm istasyonların taranması imkanı sağlanıyor.
+
+Program sayesinde harita üzerinde 'en ucuz fiyatlı istasyon' dahil olmak üzere tüm istasyoların dağıtıcı, adres ve ürün bazında güncel fiyat bilgisine ulaşılabilinecek. İstenilmesi durumunda tercih edilen istasyona ilişkin yol tarifi internet üzerinden verilecek. Aynı zamanda, uygulama üzerinden istasyonların tüketiciler tarafından puanlanması olanağı da bulunuyor.
+
+İsteğe bağlı olarak harita üzerinden değil, ayrı bir sekmeden de istasyonların listelenmesi ve seçilmesi mümkün.. Burada istasyonlara ilişkin şikayet (fiyat, adres yanlışlığı) ve puanlama özelliği yer alıyor.

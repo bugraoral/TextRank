@@ -1,0 +1,25 @@
+Teleferiğin Avrupa ayağı Mecidiyeköy'e
+ 
+ İstanbul Büyükşehir Belediye Başkanı Kadir Topbaş, NTV'ye konuk oldu. Topbaş röportajda Çamlıca'ya yapılacak teleferik hattına ilişkin yeni bir bilgi verdi.
+ 
+ Hattın Avrupa ayağının Etiler yerine Mecidiyeköy'e yapılacağını ilk kez açıklayan Topbaş, sistemin saatte 6 bin kişiyi taşıyacağını dile getirdi.
+ 
+ Taksilerin tek merkezden yönetilmesine ilişkin projenin de ihale aşamasına geldiğini söyleyen Belediye Başkanı, bu sayede saha konforlu ve güvenli bir hizmet verileceğini dile getirdi.
+ 
+ Esenyurt’ta bir imar problemi var, gösteriler yapılıyor. Oradan ev alan vatandaşlar inşaatlarının durduğunu söylüyorlar bir imar sorunu yaşanıyor orada sıkıntı çözülecek mi, nedir bu sıkıntı?
+ 
+  Yüklenici firmaların fedakarlığı gerekiyor. Geçmişte siz burada imar hakkını fazla kullanmışsınız hiç olmazsa başka bir yerden bir arsa almak suretiyle alacağınız. Bu yerin kamuya terkiyle imar hakkını burada kullanmış olan, yani imar hakkı transferi dendi. Buna da yanaşan olmadı. Kentten alınanın kente verilmesi gerekiyor. Bizimde tabi olduğumuz planla ilgili yasalar var onu da bizim geçmemiz mümkün değil.
+ 
+ İstanbul’un bir çok yerden metro inşaatlarımız devam ediyor. Hedefimiz 2016’ya geldiğimiz zaman 7 milyon insan raylı sistem kullanır hale gelmiş olacak.
+ 
+ Metrobüs hatlarında inanılmaz bir talep var. Kısa vadede bu sorunu nasıl çözeceksiniz ve uzun vadede farklı bir projeniz var mı?
+ 
+ Kadir Topbaş: Yoğunluğundan dolayı gitmeyen kullanmayanlar var. Biraz rahatlasa daha çok kullanılacak. Demek ki artık lastik tekerleklilerle bunu taşımak mümkün değil. Şu anda daha büyük araçların tedariki konusunda bir araştırma yapıyoruz. Yerli üreticilerle konuşuyoruz 300-400 araçlık bir model yapın, hatta çift taraflı bir model yapın dedik. Çalışma yapanlar var. Mevcut yol üzerine raylı sistem koyma imkanımız yok. Yeni arayışlarımız var, benzer problemi olan yerlerde incelemeler yapılıyor.
+ 
+ Teleferik bizim başından beri düşündüğümüz şeydi. Çalışmalarda çok yüksek direkler, kalın direkler, kalın halatlar çıkıyordu büyük vagonlar konduğu içinde. Böyle bir yapı endişe verici olarak yansıyabilir bunun yerine daha ufak saatte 6 bin kişi taşıyabilecek bir sistem daha şık olabilir dedik. Yap işlet olarak devreye gireceğiz.
+ 
+ Önce Etiler'den düşünüyorduk, Altunizade'ye... Daha sonra bunu Mecidiyeköy'e, yani Ali Sami Yen'in ön bölümünde bize terkedilen yere taşıma kararı aldık. İlk kez burada söylüyorum. Buradan hem Büyük hem Küçük Çamlıca’ya çıkabilen ama Altunizade de metro ile hem de metrobüsle birleşecek bir ulaşım aksı da olacak. Çamlıca’da cami projesi için çalışmalar devam ediyor. Bu yıl içinde zannediyorum temeli atılır. Teleferik her iki Çamlıca’ya gidecek.
+ 
+ Taksiler sokakta gelişi güzel dolaşmayacak dediniz, ne olacak taksilerle ilgili?
+ 
+ Paging.create(2, 1);

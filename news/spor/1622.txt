@@ -1,0 +1,5 @@
+Rövaşata böyle atılır!
+Milan'ın Anderlecht'i deplasmanda 3-1 yendiği maçta Mexes sahneye çıktı ve nefis bir gol attı 
+ Şampyionlar Ligi C Grubun'da Anderlecht'e konuk olan Milan, ikinci yarıda bulduğu gollerle tur atlamayı başardı. 
+ startFlvPlayer_Posta("divFlvPlayer8201","8201","201211","8201-2.jpg");
+  

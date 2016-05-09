@@ -1,0 +1,10 @@
+Canlı bomba dedektörü
+Gebze Yüksek Teknoloji Enstitüsü, TÜBİTAK ve NATO desteğiyle canlı bombaları uzaktan belirleyecek dedektör geliştirdi. Diğer yöntemlerin maddenin sadece şeklini belirlediğini anlatan uzmanlar, Çekirdek NQRün ise maddenin türünü gösterdiğini söyledi.
+
+TERÖRİSTLERİN İNTİHAR SİLAHINI ETKİSİZ HALE GETİRECEK BULUŞ  
+TÜBİTAK ve NATO desteğiyle Gebze Yüksek Teknoloji Enstitüsü’nde (GYTE) geliştirilen dedektör sayesinde, vücutta gizlenen patlayıcı maddelerin, uzaktan tespit edilebilmesi sağlanacak. GYTE Fizik Bölümü Başkanı Prof. Dr. Bekir Aktaş, malzemelerin kimyasal özelliklerini uzaktan tespit etmek için ekibiyle birlikte Kuadrupol Rezonans Tekniği (NQR) kullanarak tasarlayıp geliştirdikleri dedektör sayesinde vücuda gizlenen maddelerin rahatlıkla belirlenebileceğini söyledi. Prof. Dr. Aktaş, teknoloji teröre çare ararken teröristlerin de teknik araştırmaları kullanarak karşı atakta bulunduklarına dikkati çekerek, şunları söyledi: 
+Farklı patlayıcıları belirledik 
+“Patlayıcılar insanların cebinde, vücudunun içinde, bagajlarda ya da arabalarda taşınıyor. Bazen mayın olarak bir yerlere döşeniyor ve teröristler hasar verecek şekilde atak yapıyor. Onlara karşı, karşı tedbirler gerekiyor. Biz bunlar arasında özellikle vücutta saklanmaya çalışılan bazı patlayıcıların tespiti için bazı yöntemler araştırdık.” 
+Aktaş, çalışma kapsamında değişik patlayıcıların tespitini yaptıklarını ancak işin daha başlangıç aşamasında olduklarını belirterek, “Cihaz pratik bir cihaz haline getirilmiş değil.  Biz olayın bilimsel temellerini araştırdık. Sensörün temel elemanını geliştirdik, yaptık ve vücutta, cepte saklanabilecek, uyuşturucu, patlayıcı gibi tüm maddelerin tespit edilebileceğini gösterdik” ifadelerini kullandı. 
+Maddenin parmak izini okuyor 
+Aktaş, diğer tekniklerin bir maddenin geometrik şekli dışında pek bir bilgi vermediğini anlatarak “Maddenin içeriği konusunda fazla bir şey söylemez. NQR tekniği, spektroskopik bir teknik olduğu için algıladığı maddenin ne tür bir malzeme olduğunu söyler çünkü o maddenin verdiği sinyal, o maddenin parmak izi gibidir. Sadece madde var mı, yok mu demiyor hangi tür madde olduğunu da söylüyor.”

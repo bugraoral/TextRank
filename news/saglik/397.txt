@@ -1,0 +1,32 @@
+Elden elli bin kat daha hassas
+Kocaeli Üniversitesi (KOÜ) Mühendislik Fakültesi'nde geliştirilen ve elden bin kat daha hassas olan Stewart Platformu adı verilen robot, hipofiz bezi ameliyatlarında kullanılıyor.
+KOÜ Mekatronik Mühendisliği Bölüm Başkanı Prof. Dr. Zafer Bingül, Türkiye Bilimsel ve Teknolojik Araştırmalar Kurumu (TÜBİTAK) tarafından desteklenen proje kapsamında geliştirdikleri Yüksek Hassasiyetli Paralel Robot'un literatürde Stewart Platformu olarak bilindiğini söyledi.
+Bingül, robotun üç boyutlu uzayda, 6 serbestlik derecesi şeklinde hareket edebildiğini, istenilen konuma ve oryantasyona sahip olabildiğini dile getirerek, sistemin mikrometre ve nanometreler boyutunda hareket kabiliyeti sağladığını ifade etti. 
+
+500 nanometre hassasiyetle hareket edebilen bir sistem geçekleştirdiklerini anlatan Bingül, şöyle konuştu:
+KOÜ Tıp Fakültesi'yle iletişime geçerek 'bu sistemi tıbbi alanlarda daha efektif olarak nasıl kullanabiliriz?' sorusunu sorduk. Beyin Cerrahisi Bölümü'nden Savaş Ceylan kendi ameliyatlarında karşılaştıkları problemleri bize anlattı. Biz de 'bu sistemimizi onların problemlerini çözecek şekilde nasıl entegre edebiliriz?', onun üzerine kafa yorduk ve bir sistem geliştirdik. 
+
+Şu anda geliştirdiğimiz sistemle hipofiz bezleri ameliyatlarında endoskop konumlayıcı olarak Stewart platformlarının çalıştırılmasını başardık.
+Bingül, gerçek bir kafatası modeli ve kadavralar üzerinde sistemin çalışmasını test ettiklerini vurgulayarak, sistemin istenen özellikleri sağladığını ve düzgün bir şekilde çalıştığını söyledi. 
+  
+"AMELİYATLAR DAHA HIZLI GERÇEKLEŞECEK"  
+
+Hipofiz bezi ameliyatlarının oldukça yorucu olduğuna dikkati çeken Bingül, beynin alt bölgesinde hipofiz bezinin bulunduğu alandaki iltihaplı bölgeyi keserek çıkarmak gerektiğini, işlemin saatler sürebildiğini anlattı.
+ 
+Bu işlemleri cerrahın oturarak yapması, endoskobu istediği gibi konumlamasını sağlayacak bir sistem geliştirdik diyen Bingül, Bu şekilde bu ameliyatlar daha hızlı bir şekilde gerçekleşecek. Hipofiz bezi ameliyatlarını cerrahların fazla yorulmadan gerçekleştirebilecekleri bir ameliyat türüne dönüştürdük şeklinde konuştu.
+Hipofiz bezi ameliyatlarının Türkiye'de oldukça yoğun gerçekleştirildiğine işaret eden Bingül, Bu ameliyatların çok fazla cerrahi kabiliyet gerektirmeden, daha az cerrahi kabiliyete sahip insanlar tarafından yapılabilmesi oldukça önemli bir şey. Robot, bu konuda da onlara bir açılım sağlayabilir ifadelerini kullandı.
+Prof. Dr. Bingül, geliştirdikleri siste kesici, delici aparatlar eklenerek kafatası ameliyatlarında da uygulanabileceğini dile getirerek, protez, ortopedi ve kemik işleme gibi farklı uygulama alanlarında da kullanabileceğini kaydetti. 
+  
+"SİSTEM, 500 NANOMETRE HASSASİYETİNDE HAREKET EDEBİLMEKTE"  
+
+Sistemin kuvvet, hassas konum ve yörünge kontrolü gerçekleştirebildiğini vurgulayan Bingül, Normalde en iyi bir cerrahın eli 0,1 milimetre hassasiyetinde hareket etmekte, bu sistem ise 500 nanometre yani 0,5 mikrometre hassasiyetinde hareket edebilmekte. Dolayısıyla yaklaşık insan elinden bin kat daha hassas bir kabiliyete sahip olduğu görülüyor diye konuştu.
+ 
+Bingül, tıp öğrencilerinin bilgisayar ortamında vücudun üç boyutlu modeli üzerinde ameliyatlar gerçekleştirdiğini belirterek, sözlerini şöyle tamamladı:
+Bu ameliyatlarda hiç gerçek insan kullanılmadan, direkt olarak bilgisayar programı üzerinde tıp öğrencilerinin cerrahi kabiliyetlerinin geliştirilmesi açısından eğitim verilebiliyor. Bu da 'heptik sistemler' vasıtasıyla yapılabiliyor. Tıp öğrencisi, bilgisayar ortamında gerçekleştirilen üç boyutlu insan modeli üzerinde hareket ettiriliyor ve o hareket ederken de insan vücudunda karşılaştığı doku, damar her türlü bilgiyi heptik sistemler vasıtasıyla elinde hissedebiliyor. 
+
+Dolayısıyla bilgisayar ortamında gerçek bir ameliyat ortamı yaratılıyor. Bu şekilde tıp öğrencileri bilgisayar ortamında yaratılan ameliyat sistemiyle bilgi ve yeteneklerini geliştiriyor.
+
+ 
+  
+  
+ 

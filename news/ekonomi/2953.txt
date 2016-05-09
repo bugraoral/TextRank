@@ -1,0 +1,4 @@
+Bankalar, faaliyet raporlarını elektronik ortamda sunacak
+Bankalar, ilgili mevzuata göre hazırladıkları yıllık faaliyet raporlarını Bankacılık Düzenleme ve Denetleme Kurumu'na (BDDK) elektronik ortamda gönderecek.
+BDDK'nın Bankalarca Yıllık Faaliyet Raporunun Hazırlanmasına ve Yayımlanmasına İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmeliği Resmi Gazete'nin bugünkü sayısında yayımlandı. 
+Buna göre, matbu olarak yayımlanan yıllık faaliyet raporunun bir örneği, yayımlandığı tarihten itibaren 7 gün içinde elektronik ortamda Kuruma gönderilecek ve banka merkezinde hazır bulundurulacak. Söz konusu rapor ayrıca, şubelerde bir sonraki hesap dönemine ilişkin yıllık faaliyet raporu yayımlanıncaya kadar, talep halinde basılı olarak verilmek üzere elektronik ortamda hazır bulundurulacak.

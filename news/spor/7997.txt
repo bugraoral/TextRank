@@ -1,0 +1,4 @@
+Alex Coritiba'da ilk golünü attı
+ 
+ Deplasmanda Arapongas ile oynanan maça ilk 11’de kaptan olarak çıkan yıldız oyuncu, 51’de sağdan yapılan ortaya kafayla şık bir vuruş yaparak, ağları sarstı. Bu golle skoru 1-1’e getiren Alex, takımına 1 puan kazandırdı. 
+ startFlvPlayer_Posta("divFlvPlayer8957","8957","201302","8957-5.jpg");

@@ -1,0 +1,12 @@
+Lojmanlarda adil paylaşım istiyorlar
+ 
+ Hazırlayan: Çağrı Bilgin
+  
+ Astsubaylar çok sık tayin oluyor. Kimi zaman bir yerde 2 yıl kaldıkları bile olmuyor. İmdatlarına lojmanlar yetişiyor. Fakat lojman paylaşımıyla ilgili epey dertliler. Bir astsubay, “Rütbeli kesimin üçte ikisini astsubaylar oluşturuyor fakat lojman dağıtımında yüzde 55 subaylara tahsisat yapılıyor. Ayrıca en iyi lojmanlara onlar geçiyor. Mesela bizim 4 ayrı yerde lojman var. En iyi yerler subayların. 80-90 metrekarelik küçük lojmanlarda hiç subay göremezsiniz. Onlar 100 metrakerenin üzerindeki dairelerde oturuyor. Ufak daireler hep astsubayların” diyor. Kendi oturduğu lojman 120 metrekare. Lojman puanı yüksek olduğu için girebildiklerini söylüyor. 
+ 800 TL kira nasıl verilir?
+  
+ Bir başka Deniz Astsubayı’na kulak veriyoruz: “Bir çocuğum var, eşim üniversite mezunu fakat çalışmıyor. Denizci olduğum için hep turistik yerlere tayin oluyorum. Bu nedenle buralarda hayat biraz daha pahalı. Marmaris, Foça ve Çanakkale gibi yerlerde lojman imkanları da çok az. Bu yıl itibarıyla lojman puanım 145. Bu puanla istediğin lojmanı alırsın dediler. Meğer öyle değilmiş önce subaylara bu hak tanındı. 
+ Örneğin bir subayın 35-40 puanı var. O, 4 yıllık subay, ben 12 yılllık astsubay. Onlar bu kadarcık puanla yeni lojmanları alabiliyor. Sonra sıra bize geldiğinde kalanlarla yetiniyoruz. Yine de şükrettim çünkü Foça’da ev kiraları 700-800 TL, kira versem aldığım maaşla ailemi geçindiremem.” 
+ Lojman konusunda adaletsizliğe sessiz kalmayan ve isminin açıklanmasını istemeyen bir başka astsubay durumu şöyle özetliyor: “2009’da Ege Ordusu’nda lojman dağıtımına katıldım. Yaklaşık 450 personel bu dağıtıma katılmıştı. 80 küsur subay, 350’ye yakın da astsubay, uzman çavuş ve sivil memur vardı. Sadece 200 civarında daire dağıtılacaktı. Bunların yarısı subaylar için tahsisli, diğer yarısı sırasıyla Astsubay, uzman ve sivil personel içindi. 
+ Bazıları lojmanını seçer alır 
+ Paging.create(3, 1);

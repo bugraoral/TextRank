@@ -1,0 +1,4 @@
+Pepe'den ölümcül tekme!
+Real Madrid'in defans oyuncusu Pepe, Celta Vigo ile oynadıkları kupa müsabakasında Largo'ya öyle bir tekme attı ki 
+ Rakiplerine yaptığı sert hareketleriyle bilinen Real Madrid'in defans oyuncusu Pepe, Celta Vigo ile oynadıkları kupa müsabakasında Largo'ya sert bir müdahalede bulundu. 
+ startFlvPlayer_Posta("divFlvPlayer8404","8404","201212","8404-2.jpg");

@@ -1,0 +1,19 @@
+Malzemesi bol kalorisi düşük tatlı: Aşure
+Aşure Günü geldi çattı. Diğer tatlıların kalori değerleri göz önünde bulundurulduğunda aşure hem oldukça masum hem de besleyici kalıyor 
+ Birbirinden farklı bir sürü lezzetin bir araya gelerek muhteşem bir tat oluşturduğu aşurenin aynı zamanda ne kadar yararlı olduğunu Beslenme ve Diyet Uzmanı Elif Karacanoğlu anlattı:
+ 
+ AŞURE NEDEN FAYDALI? 
+ İçeriği oldukça yoğun olduğu için diyet yapanların kaçtığı aşure, aslında diğer tatlıların kalori değerleri göz önünde bulundurulduğunda çok masumdur. Ayrıca glisemik indeksi düşük; besleyiciliği ve yararı çok yüksek bir tatlıdır. 
+ Aşurenin içerisinde yer alan besinler ve özellikleri:
+ 
+ Baklagiller (buğday, nohut, kuru fasulye, pirinç): Buğday ve baklagillerin tanelerinin dış kısımları, yüksek miktarda kalp damar sağlığını koruyan, kolesterol düşüren ve özellikle kan şekerini düzenleyen posa içerir. 
+ Özellikle kalp damar sağlığı problemi yaşayanların ve diyabet hastalarının sofralarından eksik etmemesi gereken bir besin. Baklagillerin iç kısımları nişasta içerdiği halde dış kısımlarının posalı olması nişastanın kana karışmasını yavaşlatarak sağlıklı beslenmeye yardımcı olur. Şekeri düşük tutar. 
+ Baklagiller doymamış yağ asitleri içerir. En çok protein, kalsiyum, çinko, magnezyum, demir mineralleri içeren tahıllar kuru fasulye ve nohuttur. Ama dış kabuğu sindirilemeyen posalar (fitat ve tanenler) içerdiği için kalsiyum ve demir emilimi düşüktür. Doğru pişirilirse, yeterli miktarda ıslatılırsa fitat ve tanenlerin etkisi kaybolur. Demir ve kalsiyumu engelleyici etkisini kaybeder. B ve E vitaminlerinden çok zengin olmasına rağmen; B 12 için ciddi bir kaynak değildir. 
+ 
+ Kuru kayısı, kuru üzüm gibi kuru meyveler: Baklagillerle ve proteinlerle birleştiği takdirde içerdiği şeker kana çok yavaş karıştığı için verdiği lezzet sağlığınızı olumsuz yönde etkilemez. Glisemik indeksi düşüktür.
+ 
+ Fındık, susam, ceviz gibi kuruyemişler: Fındık, susam, ceviz, yağlı tohumlardır. B grubu vitaminler, mineral, yağ ve protein içeriği çok yüksektir. Doymamış yağ, e vitamini, magnezyum, flavonoit (antioksidan)  içerir. Kalp hastalıkları ve kanserden korunmak için düzenli tüketilmesi gereken bir gruptur. 
+ 
+ Tarçın: Kan şekerini dengeler. 
+ AŞURE TARİFİ İÇİN İKİNCİ SAYFAYA GEÇİNİZ 
+ Paging.create(2, 1);

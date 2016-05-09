@@ -1,0 +1,33 @@
+Kaliteli futbol için alttan ısıtma sistemi
+Dünyanın çeşitli yerlerindeki statlarda alttan ısıtma sistemi kuran Danfoss'un Türkiye Direktörü Yaşar Hüseyin Şan, ciddi yatırımların yapıldığı futbolda bu konuda kulüplerin feragat etmesinin akıl karı olmadığını söyledi.
+Şan, yaptığı açıklamada kurum olarak kablolu donanımla saha zeminlerinde ısıtma sistemi kurduklarını belirterek, Ciddi yatırımların yapıldığı futbolda alttan ısıtma sisteminden feragat etmek akıl karı değil. Kar birikimi ve buzlanma riski olan yerlerde ısıtma kablosu kullanarak can ve mal kaybını engelleyebiliriz. Firma olarak bu sistemi yaya ve taşıt trafiğinin olduğu yerlerde kullandık. Ankara'daki protokol yolu projesini gerçekleştirdik. Bunun için ısıtma kablosu kullanıyoruz. Bu sistemin diğer uygulama alanı futbol sahaları. Futbol dört mevsim açık alanda oynanan bir oyun. Sahaların karlanması veya buzlanması sporun icra edilmesini engellediği gibi çimlerin kaliteli bir şekilde büyümesini de önlüyor diye konuştu.
+
+Anadolu'daki birçok statta bu durumun yaşandığını kaydeden Yaşar Hüseyin Şan, Isıtma kablosunu sahanın altına yerleştirmek suretiyle bu çimleri belli sıcaklıkta tutuyoruz. Zemini donmaya izin vermeyecek şekilde 1-2 derece sıcaklıkta tutuyoruz. Bunun bir faydası çimlerin iyi bir biçimde büyümesi. Ayrıca böylece sahadaki muhtemel kar birikimlerini ve buzlanmayı engelleyici bir sistem. Sistem, kar yağmaya başladığında veya hava belirli sıcaklığın altına düştüğünde, karlanma ya da buzlanma olmaması için otomatik olarak devreye giriyor. Bu şekilde yıl boyunca hava şartlarına bağlı olmaksızın spor faaliyetlerinin gerçekleştirilmesi sağlanmış oluyor ifadelerini kullandı.
+
+Yurt dışında yaptıkları projelerle ilgili bilgi veren Şan, şöyle konuştu:
+
+Şu anda Türkiye'de ısıtma kablosuyla yaptığımız bir uygulama yok. Ancak dünyada gerçekleştirdiğimiz birçok proje var. Buna en yakın örnek Anderlecht'in stadı. Steau Bükreş'in zemininde de bu sistem gerçekleştirildi. Galatasaray'ın UEFA şampiyonlar ligi'ndeki rakibi Cluj'un zemininde de bu uygulandı. Galatasaray kendi sahasındaki olumsuz şartlarda rakibiyle berabere kaldı. Isıtma kablosu sisteminin kullanıldığı rakip sahada ise maçı kazandı.
+
+-Türkiye'de bu sistemi uygulamak istiyoruz-
+
+Danfoss Türkiye Direktörü Şan, Türkiye'de de bu sistemi uygulamak istediklerini ve bu yönde çalışmalar yaptıklarını dile getirdi.
+
+Kendilerine bazı kulüplerden talep geldiğine dikkati çeken Yaşar Hüseyin Şan, Bursaspor'un stadı için teklif vermiştik. Ancak onlar sulu sistem yönünde seçim yaptılar. Futbol gibi maddi ve manevi büyük yatırımların yapıldığı ve 7'den 77'ye kitlelerin ilgisini çeken bir alanda böyle maliyeti çok yüksek olmayan, sağlayacağı faydaların ise önemli olduğu bu çözümün Türkiye'de geç kaldığı düşüncesindeyim. Belki bu yönde kurulu referansın olmaması bir çekingenliğe neden oluyor diye konuştu.
+
+Kendilerinin de kulüplere yeterince ulaşmamış olabileceğini kaydeden Şan, şu ifadelere yer verdi:
+
+Tabii ki teklif beklemek olmaz. Bizim ihtiyaç sahiplerine ulaşıp teklif götürmemiz lazım. Bazı kulüplere götürdük. Fenerbahçe'ye de götürmüştük. Orada sistemin yetişmeyeceği söylendi. Sezon biter bitmez çalışmaya başlansa yaklaşık 3-4 haftada sistemi kurup teslim etmek mümkün. Belki kulüpler sezona yetişmeyeceği yönünde kaygı yaşıyorlar. Bu yıl için düşündüğümüz şey birkaç kulübe en azından antrenman sahalarında bu sistemi yapıp göstermek. Sağlıklı bir şekilde çalıştığını göstermeyi planlıyoruz.
+
+-Sistemin maliyeti-
+
+Türkiye'de bazı statların zemininde ısıtma konusunda sulu sistem kullanıldığını anlatan Yaşar Hüseyin Şan, şunları söyledi:
+
+Sulu sistem uygulamak da mümkün. Ancak o zaman su borularının döşenmesi gerekiyor. Borularda dolaştırılacak belli kütledeki bu suyun belirli sıcaklıkta tutulması lazım. Futbol sahası sürekli kullanılan bir yer olmadığı için suyun donmaması için kimyasalların kullanılması da gerekebilir. Bunun getireceği sıkıntılar yaşanabilir. Ayrıca belli sıcaklıkta durması için enerjinin sürekli kullanılması söz konusu. Halbuki ısıtma kablosu ile yapılan sistemde böyle zorunluluklar yok. Kablolu sistemin uygulanması halinde maçtan belli bir zaman önce bu sistem faaliyete geçebiliyor. Kablolar döşendikten sonra futbol sahasına yerleştirilecek algılayıcılarla kar birikimi ve buzlanma riski durumları otomatik olarak tespit edilebiliyor. Bu aletler riski algılayacak ve sistemi devreye sokacak. Risk bittiğinde sistem devreden çıkıyor.
+
+Kablolu sistemin kurulumunun sulu sistemden çok daha kolay olduğunu kaydeden Şan, Sonuçta zemine ısıtma kabloları döşüyoruz. Üzerine bir miktar kum, ondan sonra da çimler yerleştiriliyor. Bu sistemdeki tek kritik nokta drenaj sistemi. Sistemin başarısı için su birikiminin olmaması lazım. Su birikimi olursa kabloların ısıtma sorunları olabilir ifadelerini kullandı.
+
+Sistemin çok az enerjiyle verimli çalışacağını vurgulayan Şan, Hesabı yapmak çok kolay. Futbol alanı yaklaşık 7 dönüm. Burada bir metrekarede 90 watt kullanmayı ön görüyoruz. Bu da aşağı yukarı 700 kilowatt kadar kurulu güç olacak anlamına geliyor. Bu sistemin ne kadar devrede kalacağı bölgenin durumuna bağlı. Erzurum'da daha uzun, İstanbul'da daha kısa olabilir. Avrupa'da kış şartları daha yoğun. Ancak bu sistemde 1 yılda 22 bin avroluk enerji harcanmış. Bu 50 bin liraya tekabül ediyor. Sistemin devrede kalma süresi çok uzun değil. Konya'da yaya geçitlerinde uyguladık. Yetkililer, önce maliyetli olacağı yönünde kaygı yaşadı. Ancak Konya gibi soğuk bir yerde sistem yılda 200 saat çalışıyor. Yoğun kar yağdığı günlerde bile sistem 5 saat çalışmış şeklinde konuştu.
+
+Sistemin olmadığı yerlerde saha zeminlerinde yaşanan bozulmaların onarılması nedeniyle 1 yıllık masrafın daha fazla olduğunu anlatan Yaşar Hüseyin Şan, sözlerini şöyle tamamladı:
+
+1 yıllık masraf kuruluma eşdeğer olacaktır. Bir statla ilgili otomasyon, altyapı ne kadar hazırdır, değildir bilemem. Bazı şeyler gerekebilir. Bizim sistem açısından aşağı yukarı 100-120 bin avroluk bir maddiyat söz konusu. Toplam kabloların gücü stadın aydınlatılması için kullanılan lambaları besleyen güçle aynıdır. Maç başlamadan 3-5 saat önce sistem devreden çıkarılıyor. Ardından aydınlatma çalıştırılıyor. Ek bir elektrik sistemi kurmadan aydınlatma ile aynı altyapıyı kullanarak 5-6 saat önce ısıtma sistemini besliyorsunuz. Sonra aynı gücü aydınlatma için kullanıyorsunuz. Maç sırasında sistemi kullanmaya gerek yok. Çimin altında saklanacak ısı orayı maç esnasında değil, gün boyunca kardan ve buzdan ayrı tutmaya yeter. Bu sistem sayesinde kulüplerin çim bakımı için yıl içinde harcadıkları masrafta ciddi bir düşme olacağı bir gerçek.

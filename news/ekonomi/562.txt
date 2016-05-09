@@ -1,0 +1,9 @@
+Asker ve öğrenciyi indirimli uçuracak
+Borajet Havayolları, İstanbul Sabiha Gökçen-Zonguldak, Zonguldak-Trabzon karşılıklı seferlerinde öğrenci ve askere özel indirim başlattı.
+Borajet, İstanbul Sabiha Gökçen- Zonguldak karşılıklı seferlerinde, öğrenci ve askere her şey dahil tek yön 75 TL bilet fiyatıyla seyahat etme imkanını sağlıyor.
+Ayrıca Zonguldak- Trabzon karşılıklı seferlerinde Borajetle seyahat edecek olan öğrenci ve asker her şey dahil tek yön 100 TLye uçuş yapıyorlar.
+İstanbul Sabiha Gökçen-Zonguldak ve Zonguldak Trabzon karşılıklı tarifeli seferlerinin uçuş gün ve saatleri ise şöyle:
+İstanbul Sabiha Gökçen &Zonguldak : 09:30 (Pazartesi-Cuma)
+Zonguldak&İstanbul Sabiha Gökçen : 15:40 (Pazartesi-Cuma)
+Zonguldak& Trabzon : 11:00 (Pazartesi-Cuma)
+Trabzon & Zonguldak: 13:20 (Pazartesi-Cuma)

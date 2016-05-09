@@ -1,0 +1,16 @@
+Dolar güne böyle başladı
+Serbest piyasada bu sabah itibar ile 1,7469 TL’den alınan dolar 1,748 TL’den satılırken, 2,3814 TL’den alınan Euro’nun satış fiyatı ise 2,3816 TL olarak gerçekleşiyor. Euro-dolar paritesi 1,3629 seviyesinde.
+ İstanbul serbest piyasasında işlem gören dolar, Euro, Sterlin, Japon Yeni, Suudi Arabistan Riyali ve diğer para birimlerinin sabah saatlerindeki açılış fiyatları şöyle:
+ Döviz Cinsi Alış Satış Günlük fark (Yüzde)
+ ABD Doları (Serbest Piy) 1,7469 1,7480 -0,02
+ Euro (Serbest Piy) 2,3814 2,3816 -0,12
+ Avusturalya Doları (Serbest Piy) 1,8150 1,8260 -0,22
+ Kanada Doları (Serbest Piy) 1,7470 1,7560 -0,11
+ İsviçre Frangı (Serbest Piy) 1,9205 1,9220 -0,13
+ Danimarka Kronu (Serbest Piy) 0,3179 0,3192 -0,13
+ İngiliz Sterlini (Serbest Piy) 2,7446 2,7463 0,11
+ 100 Japon Yeni (Serbest Piy) 53,0660 53,1660 0,27
+ Norveç Kronu (Serbest Piy) 0,3185 0,3198 -0,22
+ Saudi Riyali (Serbest Piy) 0,4647 0,4672 -0,04
+ İsveç Kronu (Serbest Piy) 0,2760 0,2770 0,04 
+  

@@ -1,0 +1,6 @@
+Ferdi Özbeğen hayatını kaybetti
+ 
+ Türk müziğinin güçlü seslerinden Ferdi Özbeğen, tedavi gördüğü Okmeydanı Eğitim ve Araştırma Hastanesi'nde tüm müdahalelere rağmen kurtarılamayarak hayata veda etti.
+ 
+ startFlvPlayer_Posta("divFlvPlayer8806","8806","201301","8806-4.jpg"); 
+ DHA

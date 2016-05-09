@@ -1,0 +1,60 @@
+Formula 1'de pilotlar belli oluyor
+Formula 1'de yeni sezon öncesinde takımların pilot tercihleri netleşmeye başladı.
+Sadece Force India ve Caterham'da birer koltuk sahibini bekliyor. Resmi olarak, Sauber dışında yedek pilot listesini henüz hiç bir takım açıklamadı.
+
+Takımların kullanacakları numaralar, şampiyonadaki pozisyonlarına göre sıralanıyor. Pilotların kullanacakları araçların numaraları ise takımlar tarafından belirleniyor. 
+Red Bull
+Motor: Renault
+1. Sebastian Vettel 
+2. Mark Webber
+Test ve yedek pilotlar belli değil 
+Ferrari
+Motor: Ferrari
+3. Fernando Alonso
+4. Felipe Massa
+Test ve yedek pilotlar belli değil 
+McLaren
+Motor: Mercedes
+5. Jenson Button 
+6. Sergio Perez
+Test ve yedek pilotlar belli değil 
+Lotus
+Motor: Renault
+7. Kimi Raikkonen 
+8. Romain Grosjean
+Test ve yedek pilotlar belli değil 
+Mercedes
+Motor: Mercedes
+9. Nico Rosberg 
+10. Lewis Hamilton
+Test ve yedek pilotlar belli değil 
+Sauber
+Motor: Ferrari
+11. Nico Hulkenberg 
+12. Esteban Gutierrez
+Test ve yedek pilotlar. Robin Frijns 
+Force India
+Motor: Mercedes
+13. Paul di Resta 
+14. Belli değil
+Test ve yedek pilotlar belli değil 
+Williams
+Motor: Renault
+15. Pastor Maldonado 
+16. Valtteri Bottas
+Test ve yedek pilotlar belli değil 
+Toro Rosso
+Motor: Ferrari
+17. Daniel Ricciardo 
+18. Jean-Eric Vergne
+Test ve yedek pilotlar belli değil 
+Caterham
+Motor: Renault
+19. Charles Pic 
+20. Belli değil
+Test ve yedek pilotlar belli değil 
+Marussia
+Motor: Cosworth
+21. Timo Glock 
+22. Max Chilton
+Test ve yedek pilotlar belli değil

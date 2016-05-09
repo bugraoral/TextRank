@@ -1,0 +1,14 @@
+5 ilimizde sağanak uyarısı!
+Meteoroloji Genel Müdürlüğü'nden yapılan son açıklamaya göre 5 şehrimizde sağanak yağış var. Peki hava sıcaklığında bir değişiklik olacak mı?
+ Yapılan son değerlendirmelere göre; Marmara'nın batısı, Rize, Artvin, Trabzon'un doğu ilçeleri ile öğle saatlerinden sonra Aydın ve Muğla'nın kıyı kesimlerinin sağanak yağışlı geçeceği tahmin ediliyor. Sabah ve gece saatlerinde Marmara'nın güneydoğusu, Batı Karadeniz'in iç kesimleri, iç Ege ile İç Anadolu'da yer yer sis hadisesi bekleniyor.
+ HAVA SICAKLIĞI: Ülkemiz genelinde 1 ila 3 derece artarak mevsim normalleri civarında seyredeceği tahmin ediliyor.
+ RÜZGAR: Genellikle kuzeyli yönlerden hafif, arasıra orta kuvvette, Marmara ve Kuzey Ege'de kuvvetlice (30-50 km/s) esmesi bekleniyor.
+ BÖLGELERİMİZDE HAVA
+ MARMARA: Parçalı ve çok bulutlu, Kırklareli, Edirne, Tekirdağ, Çanakkale'nin kuzeyi ile İstanbul'un batı çevre ilçelerinin hafif sağanak yağışlı geçeceği tahmin ediliyor. Sabah ve gece saatlerinde bölgenin güneydoğusunda yer yer sis hadisesi bekleniyor. Rüzgarın; bölgenin batısında kuzey ve kuzeydoğu (Poyraz) yönlerden kuvvetlice (30-50 km/s) esmesi bekleniyor
+ EGE: Parçalı, zamanla kıyı kesimleri çok bulutlu, öğle saatlerinden sonra Aydın ve Muğla'nın kıyı ilçelerinin hafif sağanak yağışlı geçeceği tahmin ediliyor. Rüzgarın; bölgenin kuzeyinde kuzey ve kuzeydoğu (Poyraz) yönlerden kuvvetlice (30-50 km/s) esmesi bekleniyor. Sabah ve gece saatlerinde bölgenin iç kesimlerinde yer yer sis hadisesi bekleniyor.
+ AKDENİZ: Az bulutlu ve açık geçeceği tahmin ediliyor. Sabah ve gece saatlerinde bölgenin iç kesimlerinde yer yer sis hadisesi bekleniyor.
+ İÇ ANADOLU: Parçalı bulutlu geçeceği tahmin ediliyor. Sabah ve gece saatlerinde bölge genelinde yer yer sis hadisesi bekleniyor.
+ BATI KARADENİZ: Parçalı ve çok bulutlu geçeceği tahmin ediliyor. Sabah ve gece saatlerinde bölgenin iç kesimlerinde yer yer sis hadisesi bekleniyor.
+ ORTA ve DOĞU KARADENİZ: Parçalı ve çok bulutlu, Rize ve Artvin ile Trabzon'un doğu kesimlerinin sağanak yağışlı geçeceği tahmin ediliyor.
+ DOĞU ANADOLU: Parçalı bulutlu geçeceği tahmin ediliyor.
+ GÜNEYDOĞU ANADOLU: Parçalı ve az bulutlu geçeceği tahmin ediliyor.

@@ -1,0 +1,6 @@
+FIFA'dan gol teknolojisine dördüncü onay
+FIFA, geçen ay Almanya'da iki statta kullanılan ve 4. bir gol çizgisi teknolojisi sistemi olan GoalControl-4Dye onay verdi.FIFA'nın internet sitesindeki habere göre, Almanya firması GoalControl GmbH ile FIFA arasında lisans sözleşmesi imzalandı. FIFA'nın geçen ay Almanya'nın Düsseldorf ve Gelsenkirchen kentlerindeki statlarda test ettiği GoalControl-4D sisteminde, iki takımın da golünü kaydedebilecek özelliğe sahip, stat etrafına yerleştirilecek yüksek hızlı 14 kamera bulunuyor.
+
+Sistem, gol çizgisine yaklaşan topun pozisyonunu, sürekli ve otomatik bir şekilde X, Y ve Z koordinatlarını kullanarak üç boyutlu yakalayacak. Top, çizgiyi tamamen geçtiğinde merkez analiz birimi, hakemin saatine 1 saniyeden de az bir sürede şifreli sinyal gönderecek. Sistem, standart kalelerin ve topun kullanıldığı maçlarda başarılı sonuçlar verebilecek.
+
+Bu arada FIFA, daha önce 3 gol çizgisi teknolojisini denemişti. Almanya projesi olan ve manyetik alana dayalı sistemler GolRef ve Cairos ile İngiltere orijinli Kartal gözü (Hawk-Eye) sistemi, çeşitli maçlarda test edilmişti.

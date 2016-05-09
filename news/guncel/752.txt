@@ -1,0 +1,11 @@
+Bankada hesabı olanlar dikkat!..
+İstanbul Emniyet Müdürlüğü Bilişim Suçlarıyla Mücadele Şubesi, 8 aylık takip sonucu 5 ilde yapılan eş zamanlı operasyon sonucu "internet bankacılığı üzerinden nitelikli hırsızlık" yapan bir çeteye operasyon yaptı.
+İçlerinde hackerların da olduğu çetenin zararlı yazılımlar kullanarak internet bankacılığındaki oturum bilgilerini, kullanıcı bilgilerini ve şifrematiğin ürettiği tek kullanımlık şifreleri ele geçirerek onlarca kişinin yaklaşık 280 bin TL'sini kendi hesaplarına geçirdikleri öğrenildi.
+
+TÜRKİYE'DE BİR İLK
+
+Bilişim dedektiflerinin tespitlerine göre, Türkiye'de ilk defa bir çete banka şifrematiklerinin gönderdiği tek kullanımlık şifreleri ele geçirmeyi başardı. Dedetiflerin yaptığı araştırma sonucu çetenin 4 aşamalı bir yöntem kullanarak internet hesaplarını boşalttığı belirlendi. Çetenin çalışma yöntemi şöyle; ilk olarak internet kullanıcısına zararlı bir yazılım paketi gönderiyor. Zararlı yazılımdaki tirojenler maillerin veya bilinmeyen linklerin tıklanmasıyla aktif oluyor. Ele geçirilen bu bilgiler kullanıcıların internet bankacılığı sayfasını kullanmasıyla banka ile arasına girerek oyalanıyor ve bağlantısının kopması sağlanıyor. Daha sonra kullanıcının oturum bilgileri ve bankaların şifrematik yöntemiyle gönderdiği tek kullanımlık şifreler ele geçirilerek banka hesapları boşaltılıyor.
+
+9 KİŞİ ADLİYEYE SEVKEDİLDİ
+
+Polisin şahısların evlerinde yaptığı araştırmada 1 adet 7.65 çapında el yapımı ruhsatsız tabanca, şifrematik cihazı, mobil modem, 6 adet kopya kart, hard diskler, dizüstü bilgisayarlar ve 62 bin TL para ele geçirildi. Örgüt lideri olduğu belirtilen M. D. İle birlikte gözaltına alınan 9 kişi adliyeye sevk edildi.

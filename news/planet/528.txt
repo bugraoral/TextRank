@@ -1,0 +1,5 @@
+Begonvilden tweet var
+KANADAda geliştirilen bir cihaz ile artık bitkiler ihtiyaçlarını insanlara Twitter aracılığıyla duyuracak.
+Toronto merkezli Spark Fun Electronics şirketinin geliştirdiği Botanicalls adlı cihaz, saksı veya seralardaki bitkilerin toprağına yerleştirilen ölçüm cihazından gelen sinyallere göre, sorumlu kişilerin cep telefonu veya bilgisayarına Twitter üzerinden, Su verir misiniz lütfen, Sıcaklık düştü ve Nem fazla gibi ön tanımlı mesajları gönderiyor.  
+AĞZIBOZUK BİTKİLER 
+Bitkilerin ihtiyacı karşılanınca bu kez sorumlulara teşekkür mesajı geliyor. İspanyada iki bilim insanının geliştirdiği Velowegarten adlı yazılım da benzer bir teknoloji de aynı mantıkla çalışıyor ancak bu yazılımın biraz ağzı bozuk. Velowegartende ihtiyacı zamanında karşılanmayan bitkiler sorumlulara hakaret dolu Twitter mesajları atıyor.

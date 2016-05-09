@@ -1,0 +1,8 @@
+Yazıcıdan kulak kepçesi
+BİLİM insanları, 3 boyutlu yazıcı teknolojisi kullanarak insan kulağının tıpa tıp aynısını üretti.
+Weill Cornell Tıp Fakültesi doktorları ile Biyomedikal Mühendislik Fakültesi uzmanlarının ortak çalışmasında, önce kulak dokularının üç boyutlu modelleri ortaya çıkarıldı. Sonra bu modeller yine bilgisayarda birleştirildi ve kulağın bütününün 3D görüntüsü elde edildi. Sonra 3D printer için kulak kalıbı, canlı hücrelerden oluşan yoğun jel konuldu ve kulak kıkırdağı elde edildi. Bütün bu işlemler ise sadece bir buçuk gün sürdü.  
+
+
+ 3 BOYUTLU PRINTER 
+  
+ 

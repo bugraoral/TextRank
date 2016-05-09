@@ -1,0 +1,31 @@
+Vücuda gizlenen patlayıcılar uzaktan tespit edilecek
+TÜBİTAK ve NATO desteğiyle Gebze Yüksek Teknoloji Enstitüsü'nde (GYTE) geliştirilen dedektörler sayesinde, vücutta gizlenen patlayıcı maddelerin, uzaktan tespit edilebilmesi sağlanacak.
+GYTE Fizik Bölümü Başkanı Prof. Dr. Bekir Aktaş, AA muhabirine yaptığı açıklamada, ekibiyle birlikte Kuadrupol Rezonans Tekniği (NQR) kullanarak tasarlayıp geliştirdikleri dedektör sayesinde vücuda gizlenen maddelerin rahatlıkla belirlenebileceğini söyledi.
+
+GYTE Fizik Bölümü'nde genellikle malzeme fiziği ve optik konularında çalışmalar yapıldığını anlatan Aktaş, kendi grubunda da daha çok malzeme fiziği ve manyetizma konusunda araştırmalar yaptıklarını kaydetti.
+
+Manyetik malzemelerin hayatın neredeyse her yerinde olduğunu belirten Aktaş, kullanış amacı doğrultusunda malzemenin özelliklerinin geliştirilmesi gerektiğini, bu konuda yoğun araştırmalar yaptıklarını anlattı.
+
+-'Teröristler teknik araştırmaları kullanıyor'
+
+Prof. Dr. Aktaş, malzeme projelerinin yanında spektroskopi alanında da çalışmalar yaptıklarını dile getirerek, 'Çekirdek NQR' tekniği denen bir teknikle malzemelerin kimyasal özelliklerini, özellikle uzaktan tespit etme amaçlı bir proje başlattıklarını ifade etti.
+
+Analiz tekniklerinin, kimya ve biyolojide sıkça kullanılan teknikler olduğunu vurgulayan Aktaş, malzemeyi hiç tahrip etmeden, bozmadan, sıvı çözeltide çözmeden, yani hasar vermeden analiz etmenin bazen çok önemli olduğunu söyledi.
+
+Prof. Dr. Aktaş, teknoloji teröre çare ararken teröristlerin de teknik araştırmaları kullanarak karşı atakta bulunduklarına dikkati çekerek, 'Patlayıcılar insanların cebinde, vücudunun içinde, bagajlarda ya da arabalarda taşınıyor. Bazen mayın olarak bir yerlere döşeniyor ve teröristler hasar verecek şekilde atak yapıyor. Onlara karşı, karşı tedbirler gerekiyor. Biz bunlar arasında özellikle vücutta saklanmaya çalışılan bazı patlayıcıların tespiti için bazı yöntemler araştırdık. Bunlar için de NQR denilen bir tekniğin uygulanabileceğini gördük ve bu konuda araştırmalar yürüttük' dedi.
+
+Kullandıkları tekniğin patlayıcıların dedeksiyonunu sağlayabileceğini ve limitli de olsa hasar vermeden bazı kimyasalların analizine imkan verdiğine dikkati çeken Aktaş, 'Diyelim tarımda bir ürün aldınız içinde yağ oranı nedir, su oranı nedir onu tespit etmek istersiniz. Bunu başka tekniklerde yapabilirsiniz, uzun sürede bazen de zarar vermeden hızlı bir şekilde tespit etmek istersiniz. Onun için oralarda da uygulanabilecek bir teknik bu' diye konuştu.
+
+-'Maddenin parmak izinden tespit edilir'
+
+Aktaş, çalışma kapsamında değişik patlayıcıların tespitini yaptıklarını ancak işin daha başlangıç aşamasında olduklarını belirterek, 'Cihaz pratik bir cihaz haline getirilmiş değil. Biz tekniği araştırıyoruz çünkü cihaz haline getirmek oldukça büyük finansman destek gerektiriyor. Biz olayın bilimsel temellerini araştırdık. Sensörün temel elemanını geliştirdik, yaptık ve vücutta, cepte saklanabilecek, uyuşturucu, patlayıcı gibi tüm maddelerin tespit edilebileceğini gösterdik. ' ifadelerini kullandı.
+
+Tekniğin, maddenin üzerine çok düşük frekanslı elektromanyetik sinyal göndererek, o dalganın madde tarafından soğurulmasını test etmeye dayalı olduğunu anlatan Aktaş, şöyle konuştu:
+
+'Kimyasal maddeler kendilerine has özel frekanslardaki dalgaları soğururlar. Yani her madde her frekanstaki dalgayı soğurmaz. Dolayısıyla bu özellik o maddenin parmak izi olarak adlandırılır. Dolayısıyla frekansı değiştirerek bir dalga gönderdiğinizde geri gelen dalganın hangi frekanstakiler soğurulmuş ona baktığınızda, bu soğurmayı hangi tür maddenin yapacağına siz baştan oluşturduğunuz data bankınızla karar veriyorsunuz.'
+
+-'Diğer arama tekniklerinden farkı'
+
+Aktaş, birçok malzemenin başka teknikler kullanılarak algılanabileceğini ve dalgayı hemen yansıttıkları için metallerin kolayca tespit edilebileceğini dile getirerek, şunları kaydetti:
+
+'Bazı maddeler var ki hiç metal içermiyor. Değişik tekniklerle dedekte edebilirsiniz bazı maddeleri. Görüntüleme tekniklerinde şu vardır, diğer teknikler bir maddenin geometrik şekli hakkında bir şey söyler ama maddenin içeriği konusunda fazla bir şey söylemez. NQR tekniği, spektroskopik bir teknik olduğu için algıladığı maddenin ne tür bir malzeme olduğunu söyler çünkü o maddenin verdiği sinyal, o maddenin parmak izi gibidir. Her sinyal bir maddeden öbürüne değişir. Seçici bir özelliği var. Sadece madde var mı, yok mu demiyor hangi tür madde olduğunu da söylüyor. Diğer teknikler, bazen duyarlılığı yüksek olabiliyor ama kaba bilgi veriyor. Mesela metalleri algılamak için başka teknikler var çok kolayca metali algılayabilirler fakat plastik olan, özellikle metal içermeyen madde söz konusu olduğunda diğer teknikler çok sıkıntı yaşıyor.'

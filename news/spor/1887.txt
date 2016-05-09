@@ -1,0 +1,4 @@
+Öyle bir hareket yaptı ki!
+İtalya Serie A'da Palermo ve Chievo karşılaşmasında Palermolu Ilicic'in yaptığı mükemmel haraket maça damgasını vurdu 
+ Palermo-Chievo maçında Josip Ilıcic'in yaptığı bu estetik hareket hekesi hayrete düşürdü. Pozisyon golle sonuçlanmasa da Ilicic'in yaptığı mükemmel haraket maça damgasını vurdu. 
+ startFlvPlayer_Posta("divFlvPlayer8236","8236","201211","8236-3.jpg");

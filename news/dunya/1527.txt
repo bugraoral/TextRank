@@ -1,0 +1,27 @@
+'Evden çalışıyorum' deyip bakın ne yaptı!
+Bir Amerikan şirketinde 'çalışıyor' gözüküp altı sıfırlı maaş alan yazılımcının kendi işini fason usulüyle Çinli bir şirkete yaptırdığı ortaya çıktı.
+40'lı yaşlarındaki yazılımcının iş günlerinde çalışmak yerine internette sörf yaptığı, YouTube videoları izlediği, sosyal paylaşım ve alışveriş sitelerinde gezindiği sanılıyor.
+
+Belirlenene göre, yazılımcı altı sıfırlı maaşının yaklaşık beşte birini, kendi işini yapması için Şinyang kentindeki bir şirkete veriyordu.
+
+Dolandırıcılık, altyapı şirketinin 'sanal özel ağ' (VPN) üzerinde anormal yoğunluk görülmesi nedeniyle telekomünikasyon devi Verizon'dan denetim yapmasını istemesiyle ortaya çıktı.
+
+VPN AÇIĞI
+
+Çalışanın iş istasyonu ile Şinyang kenti arasında açık ve aktif bir VPN bağlantısı olduğunu tespit eden şirket, Çin'e gizli bilgilerin sızdırılması için kötü amaçlı bir yazılım bulunduğundan şüpheleniyordu.
+
+Verizon yetkilisi Andrew Valentine, şirketin uzaktan çalışmayı teşvik etmek için iki yıldır standart bir VPN kullandığını belirtti.
+
+Verizon risk ekibi, VPN bağlantısının, söz konusu çalışanın kimlik bilgileri aracılığıyla kurulduğunu belirledi.
+
+Çalışanın bilgisayarında yapılan incelemede, Çin'deki şirket adına kesilmiş yüzlerce faturaya rastlandı.
+
+Valentine, "kendi halinde ve sessiz" diye tanınan ve çeşitli programlama dilleri bilen çalışanın, "kendi işini yaptırmak için Çinli firmaya altı sıfırlı maaşının beşte birinden azını harcadığını" söyledi.
+
+Valentine'ın anlattığına göre, söz konusu çalışan, RSA şifreleme aygıtını acele posta hizmetiyle Çin'e gönderiyordu. Böylece, onun kimlik bilgileriyle erişim sağlayan Çinli firma çalışanları onu sabah dokuzdan akşam beşe kadar çalışıyormuş gibi gösteriyordu.
+
+Dolandırıcı 'çalışanın' benzer yöntemi birçok şirkette uyguladığını belirten Valentine, "Senede yüz binlerce dolar kazanıp Çinli danışmanlık şirketine sadece yıllık yaklaşık 50 bin dolar ödüyordu" dedi.
+
+Söz konusu kişinin şirketle ilişiği kesildi.
+
+BBC Türkçe

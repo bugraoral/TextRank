@@ -1,0 +1,7 @@
+'Çok çok üzgünüm'
+ 
+ Arzuhan Doğan Yalçındağ Mehmet Ali Birand’ı kaybetmenin acısını şöyle dile getirdi: 
+ "Çok çok üzgünüm. Binlerce belki milyonlarca insan gibi. Çok uzun yıllar birlikte çalıştım. Ve hiç büyük bir kırgınlığımız olmadı. Bence çok çok iyi bir gazeteciydi. Hep hayat doluydu. Bu hastalığında da hep pozitifti. Dün hastaneden çıkarken bile, bunu atlatacağına gerçekten inanıyordum. Dediğim gibi, sadece bir çalışma arkadaşım değil, bir dostumdu da. Başımız sağolsun."
+   startFlvPlayer_Posta("divFlvPlayer8710","8710","201301","8710-2.jpg"); 
+ 
+  

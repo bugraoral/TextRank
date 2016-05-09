@@ -1,0 +1,8 @@
+Sağlık bilgilerinin mahremiyeti korunacak
+Sağlık Bakanlığı, Kişisel Sağlık Verilerinin İşlenmesi Veri Mahremiyetinin Sağlanması Hakkında Yönetmelik Taslağını tamamlandı. Kişinin kimliğini belirlenebilir kılan verilerle, fiziksel, ruhsal ve sosyal durumuna ilişkin tüm bilgiler, Kişisel Sağlık Verileri adı altında toplanacak. Taslakta yer alan kurallar şöyle:
+- İşlenen veriler yalnızca anonim hale getirilerek yayımlanabilir. 
+- Veriler işlenirken kişinin rızası alınacak. 
+- Kişinin rıza veremeyecek durumda olması durumunda yasal temsilcisi, çocuklarda kendi rızasının yanı sıra ana ve babasının veya yasal temsilcisinin rızası alınacak. 
+- Kişi, kendi sağlık verilerini isteyebilecek. Ayrıca isterse sağlık sisteminde kayıtlı olan bazı sağlık bilgilerini sistemden sildirebilecek ya da güncelleyebilecek. Ancak kişi kamunun sağlığını ilgilendiren bir hastalığa sahipse bu mümkün olmayacak. 
+- Kişisel verilerin işlenmesinde görev alan herkes sır saklamakla yükümlü olacak. 
+- Alıcının, veri tabanının tamamına erişimine izin verilmeyecek.

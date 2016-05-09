@@ -1,0 +1,10 @@
+Fujitsu'dan navigasyonlu 'akıllı baston'
+Japon teknoloji devi Fujitsu, yaşlılar için navigasyonlu yeni nesil baston geliştirdi.
+Baston, yaşlıların yolunu bulmalarına yardımcı olmanın yanı sıra, kalp atışlarını ve vücut ısılarını kontrol etme özelliği de taşıyor. 
+Bastonun bulunduğu yer internet üzerinden takip edilebiliyor ve kullanıcının düştüğü kanısına kapılınca otomatik email mesajı gönderiyor. 
+Japonya'da nüfus içinde yaşlıların oranı arttığı için yaşlı nüfusu hedef alan teknolojik yenilikler büyük ilgi görüyor. 
+Barcelona'daki Dünya Cep Telefonu Kongresi'nde ilk örneği sergilenen bastonda GPS, 3G, wi-fi teknolojileri ile tutamacında LED göstergesi de bulunuyor.
+Yürürken yön değiştirmek gerektiğinde baston titreşiyor ve gidilecek yönü ok ile gösteriyor. 
+Bastonun bağlı olduğu bilgisayara veri göndermesi yoluyla kullanıcının bulunduğu yer hakkında bakıcı ve aile üyeleri bilgi sahibi oluyor. 
+Kalp atışında düzensizlik tespit ettiği anda ise hemen acil servis ile bağlantıya geçiyor. 
+Fujitsu Barcelona'da ayrıca yaşlılar için geliştirdiği ve kullanım kolaylığına sahip akıllı cep telefonlarını da sergiledi.

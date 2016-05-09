@@ -1,0 +1,9 @@
+Türkiye yine ilk sırada!
+ 
+ Türkiye’de "kendi işinin patronu" olan kadın oranı yüzde 48,4, erkek oranı yüzde 34,2 seviyesinde bulunuyor. OECD’nin (Ekonomik Kalkınma ve İşbirliği Örgütü), çevre, ekonomi ve sosyal alanlara ilişkin istatistiklere yer verdiği "Factbook 2013" başlıklı çalışmasında, 2011 yılı verileri kullanılarak istihdamdaki durum değerlendirildi. İstihdamın ekonomik döngüden etkilendiği vurgulanan çalışmada, bunun yanında hükümet politikalarının uzun vadede eğitim, gelir desteği, kadın ve dezavantajlı grupların istihdamını destekleyici uygulamalarda büyük ölçüde belirleyici olduğu ifade edildi.
+  
+ KADIN İSTİHDAMINDA EN ALT SIRADA 
+ 
+ Çalışmada yer alan verilere göre, Türkiye, OECD ülkeleri arasında kadın istihdamında en alt sırada kendine yer bulabildi. 2000 yılında yüzde 26,2 olan kadın istihdam oranı, küresel ekonomik krizin baş gösterdiği 2008 yılında yüzde 23,5’e geriledi. Kadın istihdamı daha sonra artış eğilimine girerek 2011 yılında yüzde 27,8’e yükseldi. Kadın istihdamında 2011 yılı OECD ortalaması ise yüzde 56,7 oldu. Türkiye, kadın istihdamındaki düşük oran nedeniyle erkek istihdamı yüzde 69,3 olmasına rağmen, toplam istihdamda yüzde 48,4’le OECD ülkeleri arasında son sırada yer aldı. Çalışmada, 2011 yılı erkek istihdamında OECD ortalamasının yüzde 73, toplam istihdam oranının ortalama yüzde 64,8 olduğu kaydedildi. 
+ 48,4'Ü KADIN 
+ Paging.create(2, 1);

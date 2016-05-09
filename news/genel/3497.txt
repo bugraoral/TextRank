@@ -1,0 +1,9 @@
+Açık kapatıldı
+Internet Explorer kullanıcılarını etkileyen Flash tehlikesi güncellemeyle ortadan kalktı.
+Haftalar önce Internet Explorer'da tespit edilen açık, Flash'ı kullanarak hacker'ların bilgisayarları ele geçirebildiğini ortaya koymuştu.
+
+Aradan geçen bu süre zarfında ise Microsoft güncellemeyi çıkarmakta gecikmedi ve Internet Explorer'ın 6, 7 ve 8. sürümlerini kapsayan açığı ortadan kaldıran güncellemeyi yayınladı. 
+
+Kullanıcılar otomatik güncelleştirme ayarıyla veya manuel olarak güncellemeyi indirebiliyor.
+
+Güncellemeyi indirmek için tıklayın.

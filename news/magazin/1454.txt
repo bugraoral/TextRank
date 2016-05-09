@@ -1,0 +1,10 @@
+Ayda 'isyan' dedi, herkesi büyüledi
+ 
+ 'O Ses Türkiye' 'nin dün akşam yayınlanan bölümünde heyecan doruktaydı. yarışmacılar birbirleriyle yarışırken ortaya da jüriyi ve izleyicileri etkileyen yorumlar çıktı. Bunlardan biri de halil Sezai'nin 'İsyan' adlı şarkısını kendi yorumuyla seslendiren Ayda oldu. 
+ Ayda, jüriden ve dinleyicilerden tam not alırken şarkının sahibi Halil Sezai de twitter'dan yorum yaptı. Sezai; “Dinledim dinledim arkadaşlar.  Benden güzel okudu şarkımı Ayda. Geçmişe götürdü çok sevdim. Ağzına ruhuna sağlık..” diyerek Twitter üzerinden Mosharraf’a olan desteğini dile getirdi. 
+ İŞTE AYDA'NIN YORUMU İLE 'İSYAN'
+  
+   startFlvPlayer_Posta("divFlvPlayer8815","8815","201301","8815-5.jpg"); 
+   
+   
+  startFlvPlayer_Posta("divFlvPlayer8815","8815","201301","");
