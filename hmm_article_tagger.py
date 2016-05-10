@@ -9,7 +9,7 @@ TAG_SEPARATOR = "|"
 PUNCTUATIONS = "r''"
 
 
-def tag(data_file, output_file):
+def tag(data_file, output_file, vocabulary: dict):
     assert data_file is not None
     assert output_file is not None
 
@@ -27,7 +27,7 @@ def tag(data_file, output_file):
     for sentence in sentences:
         temp_sentece = punctuation_without_apostrophe.sub(' ', sentence)
         raw_tokens = temp_sentece.split(' ')
-        tokens = []
+        tokens = [START]
         for token in raw_tokens:
             if token == '':
                 continue
@@ -39,10 +39,14 @@ def tag(data_file, output_file):
 
             tokens.append(splited[1])
 
-        predicted_tags = get_tags(tokens, tag_transition_prob, word_tag_prob)
+        predicted_tags = get_tags(tokens, vocabulary, tag_transition_prob, word_tag_prob)
 
         for i in range(len(tokens)):
-            output_text.append(tokens[i].get_form() + TAG_SEPARATOR + predicted_tags[i])
+            if tokens[0] in vocabulary:
+                token_lemma = vocabulary.get(tokens[0])
+            else:
+                token_lemma = tokens[0]
+            output_text.append(tokens[i] + TAG_SEPARATOR + predicted_tags[i] + TAG_SEPARATOR + token_lemma)
         output_text.append("\n")
 
     file_util.write_array(output_file, output_text)
@@ -50,8 +54,8 @@ def tag(data_file, output_file):
 
 def get_word_tag_prob(word_tag_probs, tag, token):
     if token.get_representation() in word_tag_probs:
-        if tag in word_tag_probs[token.get_representation()]:
-            return word_tag_probs[token.get_representation()][tag]
+        if tag in word_tag_probs[token]:
+            return word_tag_probs[token][tag]
         else:
             # we have evidence that the given token has the given tag,thus 0 probability.
             return 0.0
@@ -70,7 +74,7 @@ def get_safe_transition_prob(tag_transition_probs, from_tag, to_tag):
     return 0
 
 
-def get_tags(tokens, tag_transition_probs, word_tag_probs):
+def get_tags(tokens, vocabulary: dict, tag_transition_probs, word_tag_probs):
     viterbi = [0 for x in range(len(tokens))]
 
     postags = ['_' for x in range(len(tokens))]
@@ -79,21 +83,32 @@ def get_tags(tokens, tag_transition_probs, word_tag_probs):
     for tag in tag_transition_probs:
         if tag == START:
             continue
+
+        if tokens[0] in vocabulary:
+            token_lemma = vocabulary.get(tokens[0])
+        else:
+            token_lemma = tokens[0]
+
         posProb = get_safe_transition_prob(tag_transition_probs, START, tag) * get_word_tag_prob(word_tag_probs, tag,
-                                                                                                 tokens[0])
+                                                                                                 token_lemma)
         if posProb > viterbi[0]:
             viterbi[0] = posProb
             postags[0] = tag
     # Recursion
     for i in range(1, len(tokens)):
         posProb = 0
+        if tokens[0] in vocabulary:
+            token_lemma = vocabulary.get(tokens[i])
+        else:
+            token_lemma = tokens[i]
         for tag in tag_transition_probs:
             if tag == START:
                 continue
+
             posProb = viterbi[i - 1] * get_safe_transition_prob(tag_transition_probs, postags[i - 1],
                                                                 tag) * get_word_tag_prob(word_tag_probs,
                                                                                          tag,
-                                                                                         tokens[i])
+                                                                                         token_lemma)
             if posProb > viterbi[i]:
                 viterbi[i] = posProb
                 postags[i] = tag
