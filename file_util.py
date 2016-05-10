@@ -51,8 +51,11 @@ def get_sentences(file_name, f_encoding="UTF-8"):
     article = []
     for sentence_candidate in temp:
         sentences = tokenizer.tokenize(sentence_candidate)
-        for sentence in sentences:
-            article.append(sentence.replace('\n', ''))
+        for sentence_candidate2 in sentences:
+            temp = sentence_candidate2.split('...')
+
+            for sentence in temp:
+                article.append(sentence.replace('\n', ''))
 
     file.close()
     return article

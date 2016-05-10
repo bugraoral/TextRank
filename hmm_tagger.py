@@ -1,11 +1,12 @@
-import argparse
 import os
-
-import conllxi_reader
+import re
+import string
 import file_util
 
 START = "_start"
 TAG_SEPARATOR = "|"
+
+PUNCTUATIONS = "r''"
 
 
 def tag(data_file, output_file):
@@ -14,16 +15,29 @@ def tag(data_file, output_file):
 
     tag_transition_prob = file_util.read_dic(".transition_prob")
     word_tag_prob = file_util.read_dic(".word_prob")
-
+    punctuation = re.compile('[%s]' % re.escape(string.punctuation))
+    punctuation_without_apostrophe = re.compile('[%s]^\'' % re.escape(string.punctuation))
     output_text = []
 
     if os.path.exists(output_file):
         os.remove(output_file)
 
-    sentences = conllxi_reader.read_conllxi(data_file)
+    sentences = file_util.get_sentences(data_file)
 
     for sentence in sentences:
-        tokens = sentence.get_valid_tokens()
+        temp_sentece = punctuation_without_apostrophe.sub(' ', sentence)
+        raw_tokens = temp_sentece.split(' ')
+        tokens = []
+        for token in raw_tokens:
+            if token == '':
+                continue
+            splited = punctuation.sub(' ', token)
+
+            if splited[0] != '':
+                tokens.append(splited[0])
+                continue
+
+            tokens.append(splited[1])
 
         predicted_tags = get_tags(tokens, tag_transition_prob, word_tag_prob)
 
