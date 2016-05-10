@@ -9,12 +9,18 @@ TAG_SEPARATOR = "|"
 PUNCTUATIONS = "r''"
 
 
-def tag(data_file, output_file, vocabulary: dict):
+def tag(data_file, output_file, vocabulary: dict ,tag_transition_prob, word_tag_prob):
     assert data_file is not None
     assert output_file is not None
 
-    tag_transition_prob = file_util.read_dic(".transition_prob")
-    word_tag_prob = file_util.read_dic(".word_prob")
+    if not tag_transition_prob:
+        print("Reading tag_transition_prob")
+        tag_transition_prob = file_util.read_dic(".transition_prob")
+
+    if not word_tag_prob:
+        print("Reading word_tag_prob")
+        word_tag_prob = file_util.read_dic(".word_prob")
+
     punctuation = re.compile('[%s]' % re.escape(string.punctuation))
     punctuation_without_apostrophe = re.compile('[%s]^\'' % re.escape(string.punctuation))
     output_text = []
@@ -29,10 +35,10 @@ def tag(data_file, output_file, vocabulary: dict):
         raw_tokens = temp_sentece.split(' ')
         tokens = [START]
         for token in raw_tokens:
-            if token == '':
+            if not token.strip():
                 continue
-            splited = punctuation.sub(' ', token)
-
+            word = punctuation.sub(' ', token)
+            splited = word.split(' ')
             if splited[0] != '':
                 tokens.append(splited[0])
                 continue
@@ -42,10 +48,13 @@ def tag(data_file, output_file, vocabulary: dict):
         predicted_tags = get_tags(tokens, vocabulary, tag_transition_prob, word_tag_prob)
 
         for i in range(len(tokens)):
-            if tokens[0] in vocabulary:
-                token_lemma = vocabulary.get(tokens[0])
-            else:
-                token_lemma = tokens[0]
+            if tokens[i] == START:
+                continue
+
+            token_lemma = '_'
+            if tokens[i] in vocabulary:
+                token_lemma = vocabulary.get(tokens[i])
+
             output_text.append(tokens[i] + TAG_SEPARATOR + predicted_tags[i] + TAG_SEPARATOR + token_lemma)
         output_text.append("\n")
 
@@ -53,7 +62,7 @@ def tag(data_file, output_file, vocabulary: dict):
 
 
 def get_word_tag_prob(word_tag_probs, tag, token):
-    if token.get_representation() in word_tag_probs:
+    if token in word_tag_probs:
         if tag in word_tag_probs[token]:
             return word_tag_probs[token][tag]
         else:
