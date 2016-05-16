@@ -1,7 +1,8 @@
-#TextRank Implementation for Turkish News Data
+Keyword Extraction
 
-Run news_data_pos_tagger to annotate the data with POS tags.
-
+change
+filePath = 'news/<nof_category>/<txt_name>'
+in main.py
 ```
-$python3.5 news_data_pos_tagger.py
+$python3.5 main.py
 ```
