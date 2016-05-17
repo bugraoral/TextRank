@@ -1,17 +1,28 @@
 import nltk
 import string
 import itertools
-import re
+import os
 from pos_tagger import tag
 
-filePath = 'news/siyaset/441.txt'
+dataPath = 'news'
+categoryList = os.listdir(dataPath)
 
+
+def removePunc(text,replace):
+    punct = set(string.punctuation + '̇')
+    noPuncText = ''
+    for ch in text:
+        if ch in punct:
+            noPuncText += replace
+        else:
+            noPuncText += ch
+    return noPuncText
 
 def extract_candidate_words(text, good_tags=set(['Adj', 'Noun', 'Noun_Nom', 'Verb'])):
     stop_words = set(nltk.corpus.stopwords.words('turkish'))
 
 
-    tagged_words = itertools.chain.from_iterable((tag(removePunc(sent).strip())
+    tagged_words = itertools.chain.from_iterable((tag(removePunc(sent,' ').strip())
                                                 for sent in nltk.sent_tokenize(text)))
 
     candidates = [word.lower() for word, tag in tagged_words
@@ -20,15 +31,6 @@ def extract_candidate_words(text, good_tags=set(['Adj', 'Noun', 'Noun_Nom', 'Ver
 
     return candidates
 
-def removePunc(text):
-    punct = set(string.punctuation)
-    noPuncText = ''
-    for ch in text:
-        if ch in punct:
-            noPuncText += ' '
-        else:
-            noPuncText += ch
-    return noPuncText
 
 def score_keyphrases_by_textrank(text, n_keywords=0.05):
     from itertools import takewhile, tee
@@ -39,7 +41,7 @@ def score_keyphrases_by_textrank(text, n_keywords=0.05):
     # tokenize for all words, and extract *candidate* words
     words = [word.lower()
              for sent in nltk.sent_tokenize(text)
-             for word in nltk.word_tokenize(removePunc(sent).strip())
+             for word in nltk.word_tokenize(removePunc(sent,' ').strip())
              if len(word) > 2 and word.lower() not in stop_words]
 
     candidates = extract_candidate_words(text)
@@ -76,16 +78,54 @@ def score_keyphrases_by_textrank(text, n_keywords=0.05):
             indexR = words[i:i+10][::-1].index(kp_words[-1])
             test_words = words[indexL:indexR+1]
             avg_pagerank = sum(word_ranks[w] for w in kp_words) / float(len(kp_words))
-            keyphrases[' '.join(test_words)] = avg_pagerank
+            keyphrases[' '.join(kp_words)] = avg_pagerank
             # counter as hackish way to ensure merged keyphrases are non-overlapping
             j = i + len(test_words)
 
     return sorted(keyphrases.items(), key=lambda x: x[1], reverse=True)
 
+
+
+def readFile(filePath):
+    tmp = ''
+    with open(filePath) as f:
+        tmp = f.readlines()
+    text = ''.join(tmp[1:])
+    title = tmp[0].lower()
+    return text,title
+
+totalNews = 0
+totalCorrectNews = 0
+for category in categoryList:
+    categoryNews = 0
+    correctNews = 0
+    if not category.startswith('.'):
+        location = dataPath + '/' + category
+        newsList = [name for name in os.listdir(location) if not name.startswith('.')]
+        count = len(newsList)
+        percent = 10
+        index = int((count*percent)/100)
+        for news in newsList[0:index]:
+            totalNews += 1
+            categoryNews += 1
+            text,title = readFile(location + '/' + news)
+            keywords = score_keyphrases_by_textrank(text)
+            for keyword,score in keywords:
+                if removePunc(keyword,'') in title:
+                    correctNews += 1
+                    totalCorrectNews += 1
+                    break
+        print('Accuracy for %s is %f' % (category,float(correctNews)/categoryNews))
+print('Total accuracy is %f' % (float(totalCorrectNews)/totalNews))
+
+
+
+'''
 with open(filePath) as f:
-    text = f.read()
+    text = ''.join(f.readlines()[1:])
 
 keywords = score_keyphrases_by_textrank(text)
 
 for keyword,score in keywords:
-    print(keyword,score)
+    print(removePunc(keyword,''),score)
+'''
