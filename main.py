@@ -3,6 +3,7 @@ import string
 import itertools
 import os
 from pos_tagger import tag
+import matplotlib.pyplot as plt
 
 dataPath = 'news'
 categoryList = os.listdir(dataPath)
@@ -81,6 +82,21 @@ def score_keyphrases_by_textrank(text, n_keywords=0.05):
             keyphrases[' '.join(kp_words)] = avg_pagerank
             # counter as hackish way to ensure merged keyphrases are non-overlapping
             j = i + len(test_words)
+
+    for item in candidates:
+        if item not in keywords and item in graph:
+            graph.remove_node(item)
+
+    plt.figure(num=None, figsize=(20, 20), dpi=80)
+    plt.axis('off')
+    fig = plt.figure(1)
+
+    sp = networkx.spring_layout(graph)
+    networkx.draw_networkx_nodes(graph,sp)
+    networkx.draw_networkx_edges(graph,sp)
+    networkx.draw_networkx_labels(graph,sp)
+
+    plt.show()
 
     return sorted(keyphrases.items(), key=lambda x: x[1], reverse=True)
 
